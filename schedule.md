@@ -100,7 +100,7 @@ The midterm exam will given Thursday 3/8.
 ## <a id="finalsweek">Finals Week Meeting
 
 During finals week, we will meet as a group and look at everyone's final projects! 
-- Check SIS for the meeting time and location of your section
+- Check SIS for your section's meeting time and location
 
 <hr>
 
