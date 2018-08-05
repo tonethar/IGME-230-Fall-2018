@@ -39,9 +39,9 @@ When the course is complete, you will hopefully have at least the beginnings of 
   
 ## IV. Discussion
 This course is not focused on "web design", but instead on developing highly interactive web applications and web games that heavily utilize the JavaScript programming language.  The major topics of this course are split roughly into thirds:
-1. web publishing (HTML/CSS) both "from scratch" as well as with the Bootstrap or Skeleton CSS framework
-2. web application development (HTML/CSS/JavaScript & a little PHP)
-3. web game development (JavaScript & the Pixi.js rendering engine)
+1. ***Web Publishing*** (HTML/CSS) both "from scratch" as well as with the Bootstrap or Skeleton CSS framework
+2. ***Web Application Development*** (HTML/CSS/JavaScript & a little PHP)
+3. ***Web Game Development*** (JavaScript & the Pixi.js rendering engine)
 
 Once you complete this course you should be able to do the following:
 - publish a "traditional" multi-page website to the web. The content will be properly "chunked" and the site navigation will be intuitive and easy to use.
