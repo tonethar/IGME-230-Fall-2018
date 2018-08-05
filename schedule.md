@@ -25,75 +25,75 @@
   
 This week we will discuss the [Apache](http://httpd.apache.org) web server that runs on `banjo.rit.edu` and learn how to script it with .htaccess files. By adding directives to this file, we will be able to password protect web folders, create a customized error page, and turn off some undesirable default behavior of the web server. 
   
-  - [Week 1A - Course Introduction](weekly/Week-01A-notes.md)
-  - [Week 1B - Review of banjo.rit.edu & FTP & .htaccess files](weekly/Week-01B-notes.md)
+  - [Week 1A - Course Introduction](weekly/week-01A-notes.md)
+  - [Week 1B - Review of banjo.rit.edu & FTP & .htaccess files](weekly/week-01B-notes.md)
   
 ## <a id="week2">Week 2 : Intro to Server-side programming (PHP)
   
  This week we will continue to look at web server scripting, and will cover enough server-side programming (PHP) to make you dangerous :-)
  
- - [Week 2 - Introduction to PHP](weekly/Week-02-notes.md)
+ - [Week 2 - Introduction to PHP](weekly/week-02-notes.md)
   
  Later on in the semester we will revisit PHP and use it to create our own customized *web service*.
   
 ## <a id="week3">Week 3 : Review of Basic HTML/CSS
   
-  - [Week 3A - Review of HTML](weekly/Week-03A-notes.md)
-  - [Week 3B - Review of CSS](weekly/Week-03B-notes.md)
+  - [Week 3A - Review of HTML](weekly/week-03A-notes.md)
+  - [Week 3B - Review of CSS](weekly/week-03B-notes.md)
   
 ## <a id="week4">Week 4 : More CSS/Complex Selectors & Responsive Design
   
-  - [Week 4A - More CSS & Basic layouts](weekly/Week-04A-notes.md)
-  - [Week 4B - Responsive Design and Media Queries](weekly/Week-04B-notes.md)
+  - [Week 4A - More CSS & Basic layouts](weekly/week-04A-notes.md)
+  - [Week 4B - Responsive Design and Media Queries](weekly/week-04B-notes.md)
   
 ## <a id="week5">Week 5 : Navigation Systems & Visual Design
   
-  - [Week 5A - Navigation Systems](weekly/Week-05A-notes.md)
-  - [Week 5B - Visual Design](weekly/Week-05B-notes.md)
+  - [Week 5A - Navigation Systems](weekly/week-05A-notes.md)
+  - [Week 5B - Visual Design](weekly/week-05B-notes.md)
   
 ## <a id="week6">Week 6 : CSS Flexbox & CSS Wrap-up
   
-  - [Week 6A - The Site Design Process & CSS Flexbox](weekly/Week-06A-notes.md)
-  - [Week 6B - Project 1 Critique](weekly/Week-06B-notes.md)
+  - [Week 6A - The Site Design Process & CSS Flexbox](weekly/week-06A-notes.md)
+  - [Week 6B - Project 1 Critique](weekly/week-06B-notes.md)
   
 ## <a id="week7">Week 7 : Intro to Client-side Programming
    
-   - [Week 7 - Introduction to Client-side Programming](weekly/Week-07-notes.md)
+   - [Week 7 - Introduction to Client-side Programming](weekly/week-07-notes.md)
  
 ## <a id="week8">Week 8 : More DOM/JavaScript & Midterm Exam
   
 The midterm exam will given the last class meeting of week 8
   
-  - [Week 8 - Review & Midterm Exam](weekly/Week-08-notes.md)
+  - [Week 8 - Review & Midterm Exam](weekly/week-08-notes.md)
   
 ## <a id="week9">Week 9 :  Web Storage & Web Services
   
-  - [Week 9A - Events & JavaScript Object Literals](weekly/Week-09A-notes.md)
-  - [Week 9B - Arrays, Web Storage & Web Services](weekly/Week-09B-notes.md)
+  - [Week 9A - Events & JavaScript Object Literals](weekly/week-09A-notes.md)
+  - [Week 9B - Arrays, Web Storage & Web Services](weekly/week-09B-notes.md)
   
 ## <a id="week10">Week 10 : HTML Frameworks & Portfolios
   
-  - [Week 10A - Frameworks and Libraries](weekly/Week-10A-notes.md)
-  - [Week 10B - Portfolios](weekly/Week-10B-notes.md)
+  - [Week 10A - Frameworks and Libraries](weekly/week-10A-notes.md)
+  - [Week 10B - Portfolios](weekly/week-10B-notes.md)
   
 ## <a id="week11">Week 11  : Catch up
   
 ## <a id="week12">Week 12  : Intro to PixiJS
-  - [Week 12 - Intro to PixiJS](weekly/Week-12-notes.md)
+  - [Week 12 - Intro to PixiJS](weekly/week-12-notes.md)
   
 ## <a id="week13">Week 13 : More PixiJS
   
- - [Week 13 - More PixiJS](weekly/Week-13-notes.md)
+ - [Week 13 - More PixiJS](weekly/week-13-notes.md)
   
 ## <a id="week14">Week 14 : PixiJS Wrap up
  
- - [Week 14 - The Home Stretch](weekly/Week-14-notes.md)
+ - [Week 14 - The Home Stretch](weekly/week-14-notes.md)
  
  ## <a id="week15">Week 15 : Review & Final Exam
   
   The final exam will given on the last day of class.
   
- - [Week 15 - The Home Stretch 2](weekly/Week-15-notes.md)
+ - [Week 15 - The Home Stretch 2](weekly/week-15-notes.md)
   
 ## <a id="finalsweek">Finals Week Meeting
 
