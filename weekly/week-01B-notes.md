@@ -61,5 +61,9 @@ See mycourses dropboxes for due dates:
 
 <hr><hr>
 
-[<-- Back to IGME-230 Schedule](../schedule.md)
+[**Previous Unit <-- week-01A-notes.md**](week-01A-notes.md)
+
+[**Next Unit --> week-02A-notes.md**](week-02A-notes.md)
+
+[**Home Back to IGME-230 Schedule**](../schedule.md)
 
