@@ -60,7 +60,16 @@ See mycourses dropboxes for due dates:
 - https://sitesdoneright.com/blog/2013/03/what-is-418-im-a-teapot-status-code-error
 
 <hr><hr>
+
 | Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
+
+
 | [**Previous Unit <-- week-01A-notes.md**](week-01A-notes.md) | [**Home Back to IGME-230 Schedule**](../schedule.md) | [**Next Unit --> week-02A-notes.md**](week-02A-notes.md) |
 
 
