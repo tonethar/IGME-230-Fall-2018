@@ -142,3 +142,5 @@ And some other really cool stuff:
 <hr><hr>
 
 [<-- Back to IGME-230 Schedule](../schedule.md)
+
+[week-01B-notes.md -->](week-01B-notes.md)
