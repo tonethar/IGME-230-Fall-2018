@@ -141,6 +141,6 @@ And some other really cool stuff:
 
 <hr><hr>
 
-[Home <-- Back to IGME-230 Schedule](../schedule.md)
+[**Home <-- Back to IGME-230 Schedule**](../schedule.md)
 
-[Next Unit --> week-01B-notes.md](week-01B-notes.md)
+[**Next Unit --> week-01B-notes.md**](week-01B-notes.md)
