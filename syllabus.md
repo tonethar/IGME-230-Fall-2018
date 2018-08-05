@@ -19,12 +19,12 @@
 ## Instructor and Class Details (Sections 03,05,08)
 - Professor: Andrew Wheeland 
 - Teaching Assistant: TBA (03), TBA(05), TBA(08)
-- Email: TBA
+- Email: anwigm@rit.edu
 - Office hours: TBA
 - Class meetings:
   - Section 03 - MWF 11:00AM - 11:50AM in GOL-2025
   - Section 05 - TR 11:00AM - 12:15PM in GOL-2435
-  - Section 08 - TBA in TBA
+  - Section 08 - MWF 4:00PM - 4:30PM in GOL-2570
 
 ## Instructor and Class Details (Section 04)
 - Professor: Joseph Pietruch  
