@@ -9,7 +9,7 @@ Hopefully the skills you acquire in the class will help you to get a co-op posit
 ## II. Prerequisites
 Students in this class should have a basic working knowledge of HTML, CSS, and publishing to RIT's web hosting environment (people.rit.edu). This material was covered in IGME-110. You can review much of that material here: [IIM-Web-Review/](../IIM-Web-Review)
 
-If you need to brush up on your HTML and CSS skills, I recommend using the CodeAcademy tutorials that we currently use in IGME-110:  -  [Lynda.com HTML Essential Training, Lessons 1-3](https://www.lynda.com/HTML-tutorials/HTML-Essential-Training/170427-2.html?org=rit.edu).. We will be doing a very brief review, but you shouldn't expect to rely on that to cover all of the prerequisite knowledge.
+If you need to brush up on your HTML and CSS skills, I recommend using the CodeAcademy tutorials that we currently use in IGME-110:  -  [Lynda.com HTML Essential Training, Lessons 1-7](https://www.lynda.com/HTML-tutorials/HTML-Essential-Training/170427-2.html?org=rit.edu). We will be doing a very brief review, but you shouldn't expect to rely on that to cover all of the prerequisite knowledge.
 
 You will also need a GitHub account, and the [GitHub Student Developer Pack](https://education.github.com/pack) so that you can create and access private repos.
 
@@ -63,13 +63,16 @@ Some sample IGME-230 projects from last year:
     - http://barringtoncampbell.com/
     - https://people.rit.edu/mxb9517/portfolio/
     - https://people.rit.edu/ctb4332/portfolio/
+    - https://people.rit.edu/mac9406/portfolio/
     - https://people.rit.edu/sxf5282/portfolio/
+    - https://people.rit.edu/sml6783/230/portfolio/
     - https://people.rit.edu/lpn4937/portfolio/
     - https://people.rit.edu/djs5435/portfolio/
     - https://people.rit.edu/jds7523/portfolio/
     - https://people.rit.edu/drs4149/portfolio/
     - https://people.rit.edu/ekt6170/portfolio.html
     - https://people.rit.edu/axw1799/portfolio/
+    - https://people.rit.edu/wjb5377/230/portfolio/
 - DOM Game or App (Project 2)<a id="project2"></a>:
     - https://people.rit.edu/mac9406/230/project2/index.html
     - https://people.rit.edu/~kts6823/230/project2/index.html
