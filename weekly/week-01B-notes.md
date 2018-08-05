@@ -17,6 +17,11 @@ FTP demo and review (we will do this together in class):
 <head>
 	<meta charset="utf-8" />
 	<title>Hello Page</title>
+	<style>
+	h1{
+	  font-family:sans-serif;
+	}
+	</style>
 </head>
    <body>
       <h1>Week 1 in 230!</h1>
@@ -46,7 +51,7 @@ In class, let's "demo first" what .htaccess files can do. We will look at the fo
 6. `ModPagespeed off` - turns off the ModPagespeed extension
 
 ## III. Presentation
-- [Auth and htaccess PDF](../docs/Auth_and_htaccess.pdf)
+- [Auth and htaccess PDF](../docs/Auth-and-htaccess.pdf)
 
 ## IV. Exercises
 See mycourses dropboxes for due dates:
