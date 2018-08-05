@@ -137,7 +137,7 @@ And some other really cool stuff:
 - Create a `230` folder on `banjo.rit.edu` - put it in your `www` folder and be sure that the permissions are set so that it is web viewable.
 
 ## X. Any time left?
-- If there is time left today, let's head to the notes for our next class meeting -  [Week-01B-notes.md](Week-01B-notes.md) - and do a little bit of HTML & FTP review!
+- If there is time left today, let's head to the notes for our next class meeting -  [week-01B-notes.md](week-01B-notes.md) - and do a little bit of HTML & FTP review!
 
 <hr><hr>
 
