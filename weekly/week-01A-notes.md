@@ -58,7 +58,7 @@ Past Student Portfolios:
 - http://brianemling.com/
 - http://dougwatro.com
 
-Some sample IGME-230 projects from last semester:
+Some sample IGME-230 projects from last year:
 - Portfolio:
     - http://barringtoncampbell.com/
     - https://people.rit.edu/mxb9517/portfolio/
@@ -71,6 +71,8 @@ Some sample IGME-230 projects from last semester:
     - https://people.rit.edu/ekt6170/portfolio.html
     - https://people.rit.edu/axw1799/portfolio/
 - DOM Game or App (Project 2)<a id="project2"></a>:
+    - https://people.rit.edu/mac9406/230/project2/index.html
+    - https://people.rit.edu/~kts6823/230/project2/index.html
     - https://people.rit.edu/lpn4937/230/project2/minesweeper.html
     - https://people.rit.edu/~deb2610/230/project2/PixelPainterExtended.html
     - https://people.rit.edu/btf6119/230/projects/2/index.html
@@ -126,6 +128,7 @@ And some other really cool stuff:
 * [http-protocol-demo.md](../notes/http-protocol-demo.md)
 
 ## IX. Homework
+- **Always keep a close eye on the mycourses dropboxes so that you know what's due & when!**
 - Get a GitHub account (if you don't have one already), and go through the tutorial above. 
 - Set up a repository *for this course* in your account, named *IGME230* or something similar, and put a link to it in the comments field of the myCourses "GitHub Accounts" dropbox. This should be a public repository (otherwise the link won't work).
 - Create a `230` folder on `banjo.rit.edu` - put it in your `www` folder and be sure that the permissions are set so that it is web viewable.
