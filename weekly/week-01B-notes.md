@@ -61,7 +61,7 @@ See mycourses dropboxes for due dates:
 
 <hr><hr>
 
-| Previous Unit        | IGME-230 Schedule           | Next Unit  |
+| <-- Previous Unit	|	IGME-230 Schedule	|	Next Unit -->	|
 | ------------- |:-------------:| -----:|
 | [**week-01A-notes.md**](week-01A-notes.md)     | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
