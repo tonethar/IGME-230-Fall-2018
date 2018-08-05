@@ -62,13 +62,11 @@ This week we will discuss the [Apache](http://httpd.apache.org) web server that 
  
 ## <a id="week8">Week 8 : More DOM/JavaScript & Midterm Exam
   
-The midterm exam will given Thursday 3/8.
+The midterm exam will given the last class meeting of week 8
   
   - [Week 8 - Review & Midterm Exam](weekly/Week-08-notes.md)
   
 ## <a id="week9">Week 9 :  Web Storage & Web Services
-  
-  This week we will try to give you everything you will need for Project 2. If we fall behind slightly, that's OK, as we have Week 11 designated for "catch up".
   
   - [Week 9A - Events & JavaScript Object Literals](weekly/Week-09A-notes.md)
   - [Week 9B - Arrays, Web Storage & Web Services](weekly/Week-09B-notes.md)
