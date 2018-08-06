@@ -53,15 +53,15 @@ For this project you (and optionally a partner) are creating a JavaScript driven
 - Well-commented code. Each and every function gets a comment indicating what it does.
 - Delete or comment out your `console.log()` calls.
 
-## Milestones
+## III. Milestones
 - Project proposal with mockup - see mycourses for due date/time. One submission per team please.
 - Final project deliverable - see mycourses for due date/time. One submission per team please.
 
-## Documentation
+## IV. Documentation
 - As with Project 1, include a Documentation page (put the link in the comments field of the dropbox) where you document your process, cite any sources, tell me where to find anything special you want me to see, and also explain how you met the requirements. Finally, give yourself a grade for the project that you feel fairly represents what its worth.
 - If you worked in a pair, explain what each team member did. Remember, everyone is responsible for contributing throughout the project, not just to one aspect.
 
-## Grading
+## V. Grading
 - *Both* partners must contribute *both* JavaScript code AND HTML/CSS to the project. This is NOT a project where team members are allowed to specialize into "Art Director" and "Software Developer" roles! Both team members shall be "Artist/Coders" (doing both) for this project.
 
 Your project will be graded on the following criteria:
@@ -92,7 +92,7 @@ Note:
 - **Better** (Go beyond expectations in 2 or more areas) = 95%
 - **Best** (Go significantly beyond expectations in 2 or more areas) = 100%
 
-## Submission
+## VI. Submission
 - ZIP and post the completed project and documentation page to to the mycourses dropbox
 - Post the project to banjo and link it from your 230 home page (exception: do not post *Music Finder* to the web)
 
