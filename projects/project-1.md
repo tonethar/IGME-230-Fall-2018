@@ -67,7 +67,7 @@ Note: If you have never use markdown before, it's extremely easy to work with. W
 See mycourses dropbox for due date.
 
 ### III-B. Critique Session
-The second class of week 6, we will have a critique session in class. In small groups, you will both give and receive feedback on your projects, so be prepared for this discussion.
+We will have a critique session in class. In small groups, you will both give and receive feedback on your projects, so be prepared for this discussion.
 While the critiques aren’t going to directly determine your project grade, the feedback you receive will be taken into consideration, so make sure your project is built to impress!
 
 ### III-C. Final Submission
