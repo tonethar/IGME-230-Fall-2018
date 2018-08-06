@@ -25,17 +25,17 @@ We will:
 * go beyond *type*, *class*, and *id* CSS selectors by utilizing advanced CSS 3 selectors
 * learn how to add **advanced interactivity** to web pages. Building web apps and web games requires knowledge of more than just HTML & CSS, but also of the JavaScript programming language that runs in all web browsers. We will be covering the current "standard" version of JavaScript known as ES5 (ECMAScript 5), as well as some of the well-supported and powerful features of ES6 (AKA ECMAScript 6 or ECMAScript 2015)
 * construct **web applications**. A web app is a client–server software application in which the client (or user interface) runs in a web browser. Examples of web apps you might use are github.com, Gmail, and Google Drive. Web App assignments we will complete in class include:
-    - an [Image Gallery](../notes/HW-image-gallery.md)
-    - an app that allows the user to search for and [view animated GIFs](../notes/HW-gif-finder.md)
-    - a [Pixel Art](../notes/HW-pixel-artist.md) application
+    - an [Image Gallery](https://github.com/tonethar/IGME-230-Master/tree/master/notes/HW-image-gallery.md)
+    - an app that allows the user to search for and [view animated GIFs](https://github.com/tonethar/IGME-230-Master/tree/master/notes/HW-gif-finder.md)
+    - a [Pixel Art](https://github.com/tonethar/IGME-230-Master/tree/master/notes/HW-pixel-artist.md) application
 * construct **interactive games** that run in the web browser (these are also considered to be web applications):
   * utilizing the DOM (Document Object Model) and modern CSS features we will build:
-      - an [interactive concentration game](../notes/HW-chibi-matching.md)
-      - an [adventure game](../notes/HW-adventure.md)
-      - and a [Conway's game of Life simulation](../notes/HW-life.md)
-  * utilizing the Pixi.js rendering framework, we will build sprite-based games such as [Circle Blast!](../notes/HW-circle-blast-4.md)
+      - an [interactive concentration game](https://github.com/tonethar/IGME-230-Master/tree/master/notes/HW-chibi-matching.md)
+      - an [adventure game](https://github.com/tonethar/IGME-230-Master/tree/master/notes/HW-adventure.md)
+      - and a [Conway's game of Life simulation](https://github.com/tonethar/IGME-230-Master/tree/master/notes/HW-life.md)
+  * utilizing the Pixi.js rendering framework, we will build sprite-based games such as [Circle Blast!](https://github.com/tonethar/IGME-230-Master/tree/master/notes/HW-circle-blast-4.md)
 * utilize a **CSS framework** such as [Bootstrap](http://getbootstrap.com) or [Skeleton](http://getskeleton.com) to construct a **responsive web portfolio**
-When the course is complete, you will hopefully have at least the beginnings of a "portfolio piece" or two that you will be able to show to prospective employers.
+When the course is complete, you will hopefully have at least the beginnings of a "portfolio piece" or two that you will be able to show to prospective co-op's and other employers.
   
 ## IV. Discussion
 This course is not focused on "web design", but instead on developing highly interactive web applications and web games that heavily utilize the JavaScript programming language.  The major topics of this course are split roughly into thirds:
