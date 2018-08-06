@@ -15,19 +15,19 @@
 
 ## III. Presentation
 
-[PHP-1-Lecture.pdf](../presentations/PHP-1-Lecture.pdf)
+[PHP-1-Lecture.pdf](https://github.com/tonethar/IGME-230-Master/blob/master/presentations/PHP-1-Lecture.pdf)
   
 ## IV. Reading Assignments & Exercises
 See the mycourses dropboxes for due dates.
 
-- [0 - About this PHP Tutorial Series](../notes/php-0.md)
-- [1 - Intro to PHP](../notes/php-1.md)
-- [2 - PHP Scalars & Data Types](../notes/php-2.md)
-- [3 - PHP Arrays](../notes/php-3.md)
-- [4 - PHP Mail & Forms](../notes/php-4.md)
-- [HW - Configuring php.ini](../notes/HW-php-ini.md)
-- [HW - PHP "Fact of the Day" Page](../notes/HW-php-fact-of-the-day.md)
-- [Demo - PHP File (Directory) Lister](../notes/HW-php-file-lister.md)
+- [0 - About this PHP Tutorial Series](https://github.com/tonethar/IGME-230-Master/blob/master/notes/php-0.md)
+- [1 - Intro to PHP](https://github.com/tonethar/IGME-230-Master/blob/master/notes/php-1.md)
+- [2 - PHP Scalars & Data Types](https://github.com/tonethar/IGME-230-Master/blob/master/notes/php-2.md)
+- [3 - PHP Arrays](https://github.com/tonethar/IGME-230-Master/blob/master/notes/php-3.md)
+- [4 - PHP Mail & Forms](https://github.com/tonethar/IGME-230-Master/blob/master/notes/php-4.md)
+- [HW - Configuring php.ini](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-php-ini.md)
+- [HW - PHP "Fact of the Day" Page](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-php-fact-of-the-day.md)
+- [Demo - PHP File (Directory) Lister](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-php-file-lister.md)
 
 
 <hr><hr>
