@@ -18,10 +18,12 @@ For this project you (and optionally a partner) are creating a JavaScript driven
 ## II. Requirements
 
 ### A. Functional
-
--
--
-- There will be no JavaScript errors or exceptions thrown by the app.
+1. Your application will utilize one of the following web services:
+    - iTunes
+    - https://gist.github.com/afeld/4952991
+    - ...
+2. You will save the last term searched by the user in the browser local storage - this was covered here: [Web Apps 9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md)
+3. There will be no JavaScript errors or exceptions thrown by the app.
 
 ### B. Design & Interaction
 - Pleasing graphic design
