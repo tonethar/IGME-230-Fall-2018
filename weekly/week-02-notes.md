@@ -15,7 +15,7 @@
 
 ## III. Presentation
 
-[PHP-1-Lecture.pdf](https://github.com/tonethar/IGME-230-Master/blob/master/presentations/PHP-1-Lecture.pdf)
+[PHP-1-Lecture.pdf](https://github.com/tonethar/IGME-230-Master/blob/master/presentations/PHP-1-Lecture.pdf){:target="_blank"}
   
 ## IV. Reading Assignments & Exercises
 See the mycourses dropboxes for due dates.
