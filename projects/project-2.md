@@ -14,6 +14,10 @@ For this project you (and optionally a partner) are creating a JavaScript driven
     - the quality of the experience you create
     - the soundness of your programming
     - and how far you went beyond what we did in class, as described below.
+    
+- Resources:
+    - Our web apps series: [Web Apps 0 - About this Web App Tutorial Series](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-0.md)
+    - https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 ## II. Requirements
 
