@@ -1,4 +1,4 @@
-# Web Portfolio Mini Project
+# Project 3 - Web Portfolio
 ## 1. Overview
 One thing that we hear again and again from employers is how essential it is for GDD and NMID students to have a portfolio of "passion projects" (or "side projects") to demonstrate that student's talent and passion for creating games/interactive experiences. The most common way to let others see these projects is by posting them to the Web. 
 
