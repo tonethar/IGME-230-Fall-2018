@@ -66,10 +66,11 @@ Final course grades are determined using the following scale:
 | <65%	| F |
 
 ### Projects (55%)
-* Project 1 (10%) - [Game Proposal Site](projects/project1.md)
-* Project 2 (20%) - [Educational DOM Game or Web Application](projects/project2.md)
-* Project 3 (20%) - [Interactive Game or Experience (Sprite Based)](projects/project3.md)
-* Mini-Project (5%) - [Web Portfolio](projects/portfolio-mini-project.md)
+* Project 1 (10%) - [Game Proposal Site](projects/project-1.md)
+* Project 2 (12%) - [Web Service Application](projects/project-2.md)
+* Project 3 (13%) - [Web Portfolio](projects/project-3.md)
+* Project 3 (20%) - [Interactive Game or Experience (Sprite Based)](projects/project-4.md)
+
 
 ### Exams (30%)
 These exams consist of short answer, multiple choice, and "write some code" questions. There will be no make-ups or re-takes allowed without prior permission.
