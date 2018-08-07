@@ -129,8 +129,8 @@ And some other really cool stuff:
 * [GitHub's Hello World tutorial](https://guides.github.com/activities/hello-world/)
 
 ## VIII. Today's Lecture Notes - Intro to HTTP Protocol
-* [http-protocol-intro.md](https://github.com/tonethar/IGME-230-GDD-Spring-2018/tree/master/notes/http-protocol-intro.md)
-* [http-protocol-demo.md](https://github.com/tonethar/IGME-230-GDD-Spring-2018/tree/master/notes/http-protocol-demo.md)
+* [http-protocol-intro.md](https://github.com/tonethar/IGME-230-Master/tree/master/notes/http-protocol-intro.md)
+* [http-protocol-demo.md](https://github.com/tonethar/IGME-230-Master/tree/master/notes/http-protocol-demo.md)
 
 ## IX. Homework
 - **Always keep a close eye on the mycourses dropboxes so that you know what's due & when!**
