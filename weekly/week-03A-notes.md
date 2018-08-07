@@ -99,4 +99,6 @@ https://validator.w3.org/
 
 <hr><hr>
 
-[<-- Back to IGME-230 Schedule](../schedule.md)
+| <-- Previous Unit | Home | Next Unit -->
+| --- | --- | --- 
+| [**week-012-notes.md**](week-02-notes.md)     |  [**IGME-230 Schedule**](../schedule.md) | [**week-03B-notes.md**](week-03B-notes.md)
