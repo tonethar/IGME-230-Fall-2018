@@ -36,20 +36,18 @@ Our demo today covers:
 - CSS interactivity
 
 ## Presentations
-- [CSS Wrap-up](../presentations/CSS-Wrap-Up.pdf)
+- [CSS Wrap-up](https://github.com/tonethar/IGME-230-Master/tree/master/presentations/CSS-Wrap-Up.pdf)
 - Intro to JavaScript Teaser:
-    - Quick review of [Intro to Web Applications](../notes/web-apps-0.md) - Project's 2 & 3 will be JavaScript focused
-    - See dropbox for JavaScript assignment, due Monday night
-    - Check out the new dropboxes in mycourses - some of these JavaScript asssignments are now due on Wednesday nights - so work ahead please!
+    - Quick review of [Intro to Web Applications](https://github.com/tonethar/IGME-230-Master/tree/master/notes/web-apps-0.md) - Project's 2 & 4 will be JavaScript focused
 
 ## Demo
-- [CSS Layout Demos](../other-files/3B-CSS-Layout-Demos.zip)
-- [CSS Transition Demo](../other-files/3B-Transition-demo-done.zip)
+- [CSS Layout Demos](https://github.com/tonethar/IGME-230-Master/tree/master/other-files/3B-CSS-Layout-Demos.zip)
+- [CSS Transition Demo](https://github.com/tonethar/IGME-230-Master/tree/master/other-files/3B-Transition-demo-done.zip)
 
 ## Exercises
-- [Stylish Navigation](../exercises/week-3/ICE-3B-1.pdf)
-- [Stylish Navigation Start Files](../exercises/week-3/ICE-3B-1-start.zip)
-- [Transitions and Animations](../exercises/week-3/ICE-3B-2.pdf)
+- [Stylish Navigation](https://github.com/tonethar/IGME-230-Master/tree/master/exercises/week-3/ICE-3B-1.pdf)
+- [Stylish Navigation Start Files](https://github.com/tonethar/IGME-230-Master/tree/master/exercises/week-3/ICE-3B-1-start.zip)
+- [Transitions and Animations](https://github.com/tonethar/IGME-230-Master/tree/master/exercises/week-3/ICE-3B-2.pdf)
 
 <hr><hr>
 
