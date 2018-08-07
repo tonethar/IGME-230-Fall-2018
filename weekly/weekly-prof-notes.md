@@ -1,7 +1,9 @@
 # Instructor Notes
 
 # Fall 2018 (2181)
-
+## Week 0
+- ...
+- ...
 
 # Spring 2018 (2175)
 ***Note: Most of the links below are broken!***
