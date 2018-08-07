@@ -22,4 +22,7 @@ Also remember that the proposal for Project 2 is due soon. For the proposal, sub
 
 <hr><hr>
 
-[<-- Back to IGME-230 Schedule](../schedule.md)
+| <-- Previous Unit | Home | Next Unit -->
+| --- | --- | --- 
+| [**week-07-notes.md**](week-07-notes.md)     |  [**IGME-230 Schedule**](../schedule.md) | [**week-09A-notes.md**](week-09A-notes.md)
+
