@@ -3,7 +3,7 @@
 ## Topics
 - Finish Reviewing the CSS topics and Slides from [week 03B](week-03B-notes.md)
 - Single Column Layout Demo/ICE
-    - Start files are here: [holmes_start.zip](https://github.com/tonethar/IGME-230-Master/exercises/week-4/holmes_start.zip)
+    - Start files are here: [holmes_start.zip](https://github.com/tonethar/IGME-230-Master/blob/master/exercises/week-4/holmes_start.zip)
     - We are building a reasonable looking single-column layout
     - Review box model:
         - border, margin, padding, width, height
@@ -12,7 +12,7 @@
         - font-variant
         - attribute selectors
  - Multi-column layouts
-    - start files are here: [CSS-Layout-Demos.zip](https://github.com/tonethar/IGME-230-Master/exercises/week-4/CSS-Layout-Demos.zip)
+    - start files are here: [CSS-Layout-Demos.zip](https://github.com/tonethar/IGME-230-Master/blob/master/exercises/week-4/CSS-Layout-Demos.zip)
 
 ## Project 1 - See dropbox for due date.
 - [Project 1](../projects/project-1.md)
