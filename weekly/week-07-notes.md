@@ -15,4 +15,4 @@ This week we will be begin constructing simple web applications, and cover the f
 
 | <-- Previous Unit | Home | Next Unit -->
 | --- | --- | --- 
-| [**week-06B-notes.md**](week-06B-notes.md)     |  [**IGME-230 Schedule**](../schedule.md) | [**week-08A-notes.md**](week-08A-notes.md)
+| [**week-06B-notes.md**](week-06B-notes.md)     |  [**IGME-230 Schedule**](../schedule.md) | [**week-08-notes.md**](week-08-notes.md)
