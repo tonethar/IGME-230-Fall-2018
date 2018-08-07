@@ -1,5 +1,11 @@
 # Instructor Notes
 
+# Fall 2018 (2181)
+
+
+# Spring 2018 (2175)
+***Note: Most of the links below are broken!***
+
 ## Week 0
 - in mycourses:
     - create gradebook, give everyone 100% (5/5) in attendance
