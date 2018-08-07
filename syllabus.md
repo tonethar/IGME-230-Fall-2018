@@ -65,11 +65,11 @@ Final course grades are determined using the following scale:
 | 65+%	| D |
 | <65%	| F |
 
-### Projects (55%)
+### Projects (50%)
 * Project 1 (10%) - [Game Proposal Site](projects/project-1.md)
-* Project 2 (12%) - [Web Service Application](projects/project-2.md)
-* Project 3 (13%) - [Web Portfolio](projects/project-3.md)
-* Project 3 (20%) - [Interactive Game or Experience (Sprite Based)](projects/project-4.md)
+* Project 2 (10%) - [Web Service Application](projects/project-2.md)
+* Project 3 (10%) - [Web Portfolio](projects/project-3.md)
+* Project 3 (20%) - [Interactive Game or Experience](projects/project-4.md)
 
 
 ### Exams (30%)
@@ -77,7 +77,7 @@ These exams consist of short answer, multiple choice, and "write some code" ques
 * Written Midterm Exam  - will be given during the 8th week of the semester
 * Written Final Exam - will be given on the last regular class meeting of the semester
 
-### Homework (10%)
+### Homework (15%)
 Completing the HW and in-class exercises is essential to learning the course material. You can expect an average of one HW assignment per class meeting. Keep an eye on the mycourses dropboxes for the dues dates of these assignments.
 
 Homework and ICEs will NOT be accepted late without a valid excuse (procrastination, and missing the dropbox by 1 minute, are not valid excuses). If you feel you have legitimate excuse, please contact the professor outside of class either by email or during office hours.
