@@ -6,7 +6,7 @@
 - ...
 
 # Spring 2018 (2175)
-***Note: Most of the links below are broken!***
+***Note: The content below is what we did last semester and is for reference. Most of the links below are broken!***
 
 ## Week 0
 - in mycourses:
