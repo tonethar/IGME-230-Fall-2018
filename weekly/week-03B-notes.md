@@ -57,4 +57,6 @@ http://jigsaw.w3.org/css-validator/
 
 <hr><hr>
 
-[<-- Back to IGME-230 Schedule](../schedule.md)
+| <-- Previous Unit | Home | Next Unit -->
+| --- | --- | --- 
+| [**week-03A-notes.md**](week-03A-notes.md)     |  [**IGME-230 Schedule**](../schedule.md) | [**week-04A-notes.md**](week-04A-notes.md)
