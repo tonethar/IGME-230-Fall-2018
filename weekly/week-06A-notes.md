@@ -243,12 +243,12 @@ body {
 
 **These CSS changes give us something like this:**
 
-![Screenshot](https://github.com/tonethar/IGME-230-Master/tree/master/other-files/flexbox-1.jpg)
+![Screenshot](https://github.com/tonethar/IGME-230-Master/blob/master/other-files/flexbox-1.jpg)
 
 
 **And this:**
 
-![Screenshot](https://github.com/tonethar/IGME-230-Master/tree/master/other-files/flexbox-2.jpg)
+![Screenshot](https://github.com/tonethar/IGME-230-Master/blob/master/other-files/flexbox-2.jpg)
 
 
 ## VIII. Project 1?
