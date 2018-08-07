@@ -11,14 +11,15 @@
 ## Instructor and Class Details (Section 01)
 - Professor: Dower Chin  
 - Teaching Assistant: TBA
-- Office: TBA
-- Email: TBA
-- Office hours: TBA
+- Office: See mycourses
+- Email: dowerchin@gmail.com
+- Office hours: See mycourses
 - Class meetings: TR 6:30PM - 7:45PM in GOL-2570
 
 ## Instructor and Class Details (Sections 03,05,08)
 - Professor: Andrew Wheeland 
 - Teaching Assistant: TBA (03), TBA(05), TBA(08)
+- Office: TBA
 - Email: anwigm@rit.edu
 - Office hours: TBA
 - Class meetings:
@@ -28,17 +29,17 @@
 
 ## Instructor and Class Details (Section 04)
 - Professor: Joseph Pietruch  
-- Teaching Assistant: TBA
-- Office: TBA
+- Teaching Assistant: Kally Mihova
+- Office: See mycourses
 - Email: jcpigm@rit.edu
-- Office hours: TBA
+- Office hours: See mycourses
 - Class meetings: MW 5:00PM - 6:15PM in GOL-2570
 
 ## Instructor and Class Details (Section 07)
 - Professor: Sean Boyle  
-- Teaching Assistant: TBA
-- Office: TBA
-- Email: spbics@rit.edu
+- Teaching Assistant: Nick Mercadente
+- Office: GOL-2517
+- Email: sean.boyle@rit.edu
 - Office hours: TBA
 - Class meetings: MWF 2:00PM - 2:50PM in ORN-1375
 
