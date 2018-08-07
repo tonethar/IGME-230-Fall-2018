@@ -51,7 +51,7 @@ In class, let's "demo first" what .htaccess files can do. We will look at the fo
 6. `ModPagespeed off` - turns off the ModPagespeed extension
 
 ## III. Presentation
-- [Auth and htaccess PDF](../docs/Auth-and-htaccess.pdf)
+- [Auth and htaccess PDF](https://github.com/tonethar/IGME-230-Master/tree/master/docs/Auth-and-htaccess.pdf)
 
 ## IV. Exercises
 See mycourses dropboxes for due dates:
