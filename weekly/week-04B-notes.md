@@ -44,4 +44,7 @@ We will look at Bootstrap and other frameworks later, but for now it's nice to s
 
 <hr><hr>
 
-[<-- Back to IGME-230 Schedule](../schedule.md)
+| <-- Previous Unit | Home | Next Unit -->
+| --- | --- | --- 
+| [**week-04A-notes.md**](week-04A-notes.md)     |  [**IGME-230 Schedule**](../schedule.md) | [**week-05A-notes.md**](week-05A-notes.md)
+
