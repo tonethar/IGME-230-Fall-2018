@@ -20,10 +20,10 @@ Today we'll be discussing the overall process for designing a site, which consis
 - Group exercise
 
 ## Presentations
-- [Site Design](../presentations/5A-Design-Process.pdf)
+- [Site Design](https://github.com/tonethar/IGME-230-Master/tree/master/presentations/5A-Design-Process.pdf)
 
 ## Exercise
-- [Site Design](../exercises/week-5/ICE-Site-Design.docx)
+- [Site Design](https://github.com/tonethar/IGME-230-Master/tree/master/exercises/week-5/ICE-Site-Design.docx)
 
 ## Homework
 - http://www.nngroup.com/articles/top-10-mistakes-web-design/
@@ -64,7 +64,7 @@ Here the "Holy Grail" is a 3-column layout with equal height columns and a heade
 
 ### "Holy Grail" Walkthrough Instructions
 
-Start files are here: [holy-grail-start.html.zip](../other-files/holy-grail-start.html.zip)
+Start files are here: [holy-grail-start.html.zip](https://github.com/tonethar/IGME-230-Master/tree/master/other-files/holy-grail-start.html.zip)
 
 - The CSS for this walkthrough is adapted from this excellent posting here: https://philipwalton.github.io/solved-by-flexbox/
 - Here we are going to step through the style rules 1-by-1, and take a close look at how everything works
@@ -143,7 +143,7 @@ Same as above, except we utilize media queries to create a "mobile first" respon
 
 ### Walkthrough Instructions 
 
-Start files are here: [holy-grail-responsive-mobile-first-start.html.zip](../other-files/holy-grail-responsive-mobile-first-start.html.zip)
+Start files are here: [holy-grail-responsive-mobile-first-start.html.zip](https://github.com/tonethar/IGME-230-Master/tree/master/other-files/holy-grail-responsive-mobile-first-start.html.zip)
 
 1. We left some of the CSS stubbed in for you, load the page in a web browser to see what it looks like.
 
@@ -243,12 +243,12 @@ body {
 
 **These CSS changes give us something like this:**
 
-![Screenshot](../other-files/flexbox-1.jpg)
+![Screenshot](https://github.com/tonethar/IGME-230-Master/tree/master/other-files/flexbox-1.jpg)
 
 
 **And this:**
 
-![Screenshot](../other-files/flexbox-2.jpg)
+![Screenshot](https://github.com/tonethar/IGME-230-Master/tree/master/other-files/flexbox-2.jpg)
 
 
 ## VIII. Project 1?
@@ -260,4 +260,9 @@ body {
     - you MUST add more style rules for another phone size. Consider a different layout for "Phablets" like iPhone 8's and so on.
     - don't forget to put your CSS in an external file or files!
 
-[<-- Back to IGME-230 Schedule](../schedule.md)
+
+| <-- Previous Unit | Home | Next Unit -->
+| --- | --- | --- 
+| [**week-05B-notes.md**](week-05B-notes.md)     |  [**IGME-230 Schedule**](../schedule.md) | [**week-06B-notes.md**](week-06B-notes.md)
+
+
