@@ -13,4 +13,7 @@ As always, keep an eye on the myCourses dropboxes, both the descriptions and due
 
 <hr><hr>
 
-[<-- Back to IGME-230 Schedule](../schedule.md)
+| <-- Previous Unit | Home | Next Unit -->
+| --- | --- | --- 
+| [**week-08-notes.md**](week-08-notes.md)     |  [**IGME-230 Schedule**](../schedule.md) | [**week-09B-notes.md**](week-09B-notes.md)
+
