@@ -55,8 +55,8 @@ In class, let's "demo first" what .htaccess files can do. We will look at the fo
 
 ## IV. Exercises
 See mycourses dropboxes for due dates:
-- ["Fixing Banjo" instructions](../exercises/week-1/Fixing-Banjo.md)
-- [Custom 404 Pages and Authentication files (ZIP)](../exercises/week-1/Custom_404_Auth_start.zip)
+- ["Fixing Banjo" instructions](https://github.com/tonethar/IGME-230-Master/tree/master/exercises/week-1/Fixing-Banjo.md)
+- [Custom 404 Pages and Authentication files (ZIP)](https://github.com/tonethar/IGME-230-Master/tree/master/exercises/week-1/Custom_404_Auth_start.zip)
 
 ## V. Reference
 - Banjo Authentication Docs: https://www.rit.edu/webdev/authenticating-and-authorizing-rit-users
