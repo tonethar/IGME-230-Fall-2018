@@ -113,13 +113,15 @@ And some other really cool stuff:
     - a live "demo" by the professor that reinforces the day's topics
     - if time remains, students will be able to work on homework assignments
 - The assignments given in this class break into two categories:
-    - homework assignments/in-class exercises that focus narrowly on one of more concepts
-    - Three projects, that are considerably more freeform, and allow you to exercise considerable freedom and creativity in meeting their requirements.
-- A large part of this course is taught similar to a typical math course: there will be several small HW assignments given every week, and because these assignments build upon one another, it is essential that they be completed both on-time and in-order, thus they have strict due dates.
+    - homework assignments or in-class exercises that focus narrowly on one of more concepts
+    - Four projects, that have more flexible requirements, and allow you to exercise considerable freedom and creativity in meeting their requirements
+- A large part of this course is taught similar to a typical math course: there will be several small HW assignments given every week, and because these assignments build upon one another, it is essential that they be completed both on-time and in-order, thus they have strict due dates
 - You need to review the week's lecture notes *prior* to attending class for that week
-- Keep an eye on the dropboxes in mycourses for what and when things are due. HW assignments will not be accepted late without prior permission from the instructor - if something comes up and you need an extension you need to get in touch with us ASAP before the assignment is due. **Reminder:** *all code files (HTML, CSS, JavaScript) must be zipped when put in a dropbox, because otherwise mycourses strips out the JavaScript and CSS, and you will likely get a zero on the assignment.*
-- The due dates for these assignments will be clustered around the same days, often on Monday night. This means that you should plan ahead, and not try to tackle them all in the last hour before they are due.
-- Please get to class on time! Lectures will begin promptly at the start of class.
+- Keep an eye on the dropboxes in mycourses for what and when things are due. HW assignments will not be accepted late without prior permission from the instructor:
+    - if something comes up and you need an extension you need to get in touch with us ASAP *before* the assignment is due
+    - **Reminder:** *all code files (HTML, CSS, JavaScript) must be zipped when put in a dropbox, because otherwise mycourses strips out the JavaScript and CSS, and you will likely get a zero on the assignment*
+- The due dates for these assignments will be clustered around the same days, often on Monday night. This means that you should plan ahead, and not try to tackle them all in the last hour before they are due
+- Please get to class on time! Lectures will begin promptly at the start of class
 
 ## VII. Required Reading
 * [syllabus.md](../syllabus.md)
@@ -127,8 +129,8 @@ And some other really cool stuff:
 * [GitHub's Hello World tutorial](https://guides.github.com/activities/hello-world/)
 
 ## VIII. Today's Lecture Notes - Intro to HTTP Protocol
-* [http-protocol-intro.md](../notes/http-protocol-intro.md)
-* [http-protocol-demo.md](../notes/http-protocol-demo.md)
+* [http-protocol-intro.md](https://github.com/tonethar/IGME-230-GDD-Spring-2018/tree/master/notes/http-protocol-intro.md)
+* [http-protocol-demo.md](https://github.com/tonethar/IGME-230-GDD-Spring-2018/tree/master/notes/http-protocol-demo.md)
 
 ## IX. Homework
 - **Always keep a close eye on the mycourses dropboxes so that you know what's due & when!**
