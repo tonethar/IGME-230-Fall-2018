@@ -30,12 +30,12 @@ FTP demo and review (we will do this together in class):
 </html>
 ```
  
-1. connect to `banjo.rit.edu` with an FTP client - instructions are here: [How to post to RIT's *banjo* web server](../notes/posting-to-banjo.md)
-1. create a `230` folder and place it in your `www` folder
-1. post `hello.html` to your banjo `230` folder
+1. connect to **`banjo.rit.edu`** with an FTP client - instructions are here: [How to post to RIT's *banjo* web server](https://github.com/tonethar/IGME-230-GDD-Spring-2018/tree/master/notes/posting-to-banjo.md)
+1. create a **`230`** folder and place it in your **`www`** folder
+1. post *hello.html* to your banjo **`230`** folder
 1. review file/folder permissions to be sure they are correct
-1. **Reminder:** `banjo.rit.edu` is the FTP name, but the browser will access the URL `people.rit.edu`
-1. navigate a browser to that directory - `http://people.rit.edu/~abc1234/230/hello.html` and you should see your *hello.html* page
+1. **Reminder:** **`banjo.rit.edu`** is the FTP name, but the browser will access the URL **`people.rit.edu`**
+1. navigate a browser to that directory - **`http://people.rit.edu/~abc1234/230/hello.html`** and you should see your *hello.html* page
 1. remember CSS? Let's add some CSS style rules to the page!
 
 ## II. htaccess Demo
