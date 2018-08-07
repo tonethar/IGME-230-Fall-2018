@@ -30,7 +30,7 @@ FTP demo and review (we will do this together in class):
 </html>
 ```
  
-1. connect to **`banjo.rit.edu`** with an FTP client - instructions are here: [How to post to RIT's *banjo* web server](https://github.com/tonethar/IGME-230-Master/tree/master/docs/posting-to-banjo.md)
+1. connect to **`banjo.rit.edu`** with an FTP client - instructions are here: [How to post to RIT's *banjo* web server](https://github.com/tonethar/IGME-230-Master/tree/master/notes/posting-to-banjo.md)
 1. create a **`230`** folder and place it in your **`www`** folder
 1. post *hello.html* to your banjo **`230`** folder
 1. review file/folder permissions to be sure they are correct
