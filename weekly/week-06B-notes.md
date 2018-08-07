@@ -5,8 +5,12 @@ In an effort to improve it even further, today's class will be devoted entirely 
 Everyone should gather into groups of 4, and complete the critique exercise linked below.
 
 ## Exercise
-- [Project 1 Critique](../exercises/week-5/Project-1-Critique.docx)
+- [Project 1 Critique](https://github.com/tonethar/IGME-230-Master/tree/master/exercises/week-5/Project-1-Critique.docx)
 
 <hr><hr>
 
-[<-- Back to IGME-230 Schedule](../schedule.md)
+| <-- Previous Unit | Home | Next Unit -->
+| --- | --- | --- 
+| [**week-06A-notes.md**](week-06A-notes.md)     |  [**IGME-230 Schedule**](../schedule.md) | [**week-07A-notes.md**](week-07A-notes.md)
+
+
