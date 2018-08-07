@@ -53,4 +53,8 @@ Our demo today covers:
 
 <hr><hr>
 
-[<-- Back to IGME-230 Schedule](../schedule.md)
+| <-- Previous Unit | Home | Next Unit -->
+| --- | --- | --- 
+| [**week-04B-notes.md**](week-04B-notes.md)     |  [**IGME-230 Schedule**](../schedule.md) | [**week-05B-notes.md**](week-05B-notes.md)
+
+
