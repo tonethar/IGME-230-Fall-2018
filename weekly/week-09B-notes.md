@@ -3,12 +3,12 @@
 ## I. JavaScript Arrays & Web Storage
 We will cover parts VIII (Arrays), IX (Web Storage) and X (Web Services) of the web app tutorial. The links to these pages are here:
 
-- [8 - JavaScript Arrays](../notes/web-apps-8.md)
-- [9 - Web Storage](../notes/web-apps-9.md)
-- [10 - Web Services](../notes/web-apps-10.md)
+- [8 - JavaScript Arrays](https://github.com/tonethar/IGME-230-Master/tree/master/notes/web-apps-8.md)
+- [9 - Web Storage](https://github.com/tonethar/IGME-230-Master/tree/master/notes/web-apps-9.md)
+- [10 - Web Services](https://github.com/tonethar/IGME-230-Master/tree/master/notes/web-apps-10.md)
 
 ## II. GIF Finder
-We will be going over the functionality and some code on the [GIF Finder](../notes/HW-gif-finder.md) homework, which addresses Web services. We will discuss:
+We will be going over the functionality and some code on the [GIF Finder](https://github.com/tonethar/IGME-230-Master/tree/master/notes/HW-gif-finder.md) homework, which addresses Web services. We will discuss:
 
 - what a web service is.
 - how to connect to a web service, pass arguments to it, and download a response, and parse the results.
@@ -24,7 +24,7 @@ We will be going over the functionality and some code on the [GIF Finder](../not
 - Here are the demo start files - [XHR-crypto-start.html.zip](../other-files/XHR-crypto-start.html.zip)
 
 ## III. Chibi Matching
-The [Chibi Matching demo](../notes/HW-chibi-matching.md) touches on the following:
+The [Chibi Matching demo](https://github.com/tonethar/IGME-230-Master/tree/master/notes/HW-chibi-matching.md) touches on the following:
 
 - CSS sprite sheets
 - CSS *transitions* utlizing the `transition` property.
@@ -36,4 +36,7 @@ As always, keep an eye on the myCourses dropboxes, both the descriptions and due
 
 <hr><hr>
 
-[<-- Back to IGME-230 Schedule](../schedule.md)
+| <-- Previous Unit | Home | Next Unit -->
+| --- | --- | --- 
+| [**week-09A-notes.md**](week-09A-notes.md)     |  [**IGME-230 Schedule**](../schedule.md) | [**week-10A-notes.md**](week-10A-notes.md)
+
