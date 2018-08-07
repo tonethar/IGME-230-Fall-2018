@@ -30,11 +30,15 @@ You should have had some design in IGME-110 - here are some links to these previ
 - http://heaven.internetarchaeology.org/heaven.html#bottom
 
 ## Presentations
-- [CRAP and Visual Design](../presentations/4A-CRAP.pdf)
+- [CRAP and Visual Design](https://github.com/tonethar/IGME-230-Master/tree/master/presentations/4A-CRAP.pdf)
 
 ## Exercise
-- [Analyzing Websites with CRAP](../exercises/week-4/Exercise-CRAP.docx)
+- [Analyzing Websites with CRAP](https://github.com/tonethar/IGME-230-Master/tree/master/exercises/week-4/Exercise-CRAP.docx)
 
 <hr><hr>
 
-[<-- Back to IGME-230 Schedule](../schedule.md)
+| <-- Previous Unit | Home | Next Unit -->
+| --- | --- | --- 
+| [**week-05A-notes.md**](week-05A-notes.md)     |  [**IGME-230 Schedule**](../schedule.md) | [**week-06A-notes.md**](week-06A-notes.md)
+
+
