@@ -21,7 +21,7 @@ We will be going over the functionality and some code on the [GIF Finder](https:
     - https://coinmarketcap.com/api/
     - https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
     - https://www.programmableweb.com/news/top-10-games-apis-eve-online-riot-games-battlenet/analysis/2015/11/25
-- Here are the demo start files - [XHR-crypto-start.html.zip](../other-files/XHR-crypto-start.html.zip)
+- Here are the demo start files - [XHR-crypto-start.html.zip](https://github.com/tonethar/IGME-230-Master/tree/master/other-files/XHR-crypto-start.html.zip)
 
 ## III. Chibi Matching
 The [Chibi Matching demo](https://github.com/tonethar/IGME-230-Master/tree/master/notes/HW-chibi-matching.md) touches on the following:
