@@ -82,11 +82,11 @@ This is the bare minimum needed for a valid HTML document:
 https://validator.w3.org/
 
 ## VII. Presentations
-- [Welcome to HTML](../presentations/HTML-1.pdf)
-- [More About HTML](../presentations/HTML-2.pdf)
+- [Welcome to HTML](https://github.com/tonethar/IGME-230-Master/tree/master/presentations/HTML-1.pdf)
+- [More About HTML](https://github.com/tonethar/IGME-230-Master/tree/master/presentations/HTML-2.pdf)
 
 ## VIII. Demo Files
-- [It Was a Dark and Stormy Night](../other-files/Week-2-demo-files.zip)
+- [It Was a Dark and Stormy Night](https://github.com/tonethar/IGME-230-Master/tree/master/other-files/Week-2-demo-files.zip)
 
 ## IX. Reference
 - [developer.mozilla.org HTML Element Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) - All the HTML elements grouped by function
@@ -94,8 +94,8 @@ https://validator.w3.org/
 - [W3Schools](https://www.w3schools.com) - a reference for all things Web (HTML, CSS, JavaScript, etc.)
 
 ## X. Exercises
-- [Basic Markup/CSS - Creme Brulee](../exercises/week-2/creme-brulee/instructions.md)
-- [230 Home Page](../exercises/week-2/230-home-page.md) - You can get started on this, but it also involves CSS which we'll cover next time!
+- [Basic Markup/CSS - Creme Brulee](https://github.com/tonethar/IGME-230-Master/tree/master/exercises/week-2/creme-brulee/instructions.md)
+- [230 Home Page](https://github.com/tonethar/IGME-230-Master/tree/master/exercises/week-2/230-home-page.md) - You can get started on this, but it also involves CSS which we'll cover next time!
 
 <hr><hr>
 
