@@ -15,11 +15,13 @@
     - start files are here: [CSS-Layout-Demos.zip](../exercises/week-4/CSS-Layout-Demos.zip)
 
 ## Project 1 - See dropbox for due date.
-- [Project 1](../projects/project1.md)
+- [Project 1](../projects/project-1.md)
     - the first deliverable is your *content*, which will posted to your github account
 - [Markdown Example File](../projects/_supporting-files/steam-invaders-demo.md.zip)
 
 <hr><hr>
 
-[<-- Back to IGME-230 Schedule](../schedule.md)
+| <-- Previous Unit | Home | Next Unit -->
+| --- | --- | --- 
+| [**week-03B-notes.md**](week-03B-notes.md)     |  [**IGME-230 Schedule**](../schedule.md) | [**week-04B-notes.md**](week-04B-notes.md)
 
