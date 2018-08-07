@@ -86,7 +86,7 @@ https://validator.w3.org/
 - [More About HTML](https://github.com/tonethar/IGME-230-Master/tree/master/presentations/HTML-2.pdf)
 
 ## VIII. Demo Files
-- [It Was a Dark and Stormy Night](https://github.com/tonethar/IGME-230-Master/tree/master/other-files/Week-2-demo-files.zip)
+- [It Was a Dark and Stormy Night](https://github.com/tonethar/IGME-230-Master/tree/master/other-files/stormy-files.zip)
 
 ## IX. Reference
 - [developer.mozilla.org HTML Element Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) - All the HTML elements grouped by function
