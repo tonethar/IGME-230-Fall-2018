@@ -23,7 +23,7 @@ a:hover{}
 - Inheritance
 
 ## III. The CSS Box Model
-![BoxModel](../other-files/BoxModel.png)
+![BoxModel](https://github.com/tonethar/IGME-230-Master/tree/master/other-files/BoxModel.png)
 
 + *margin* is space that is "outside the box"
 + *padding* is space that is "inside the box"
@@ -32,7 +32,7 @@ a:hover{}
 http://jigsaw.w3.org/css-validator/
 
 ## V. Presentations
-[Intro to CSS](../presentations/CSS-Intro.pdf)
+[Intro to CSS](https://github.com/tonethar/IGME-230-Master/tree/master/presentations/CSS-Intro.pdf)
 
 ## VI. Reference
 - [Lynda.com: Learning CSS, Sections 1-3](https://www.lynda.com/CSS-tutorials/CSS-Fundamentals/417645-2.html)
@@ -52,8 +52,8 @@ http://jigsaw.w3.org/css-validator/
 - attribute - `E[foo*="bar"] /* contains */`
 
 ## VIII. Exercises
-- [CSS Styling - Recipe ICE](../exercises/week-2/Recipe-ICE.zip)
-- [230 Home Page](../exercises/week-2/230-home-page.md)
+- [CSS Styling - Recipe ICE](https://github.com/tonethar/IGME-230-Master/tree/master/exercises/week-2/Recipe-ICE.zip)
+- [230 Home Page](https://github.com/tonethar/IGME-230-Master/tree/master/exercises/week-2/230-home-page.md)
 
 <hr><hr>
 
