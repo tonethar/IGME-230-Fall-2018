@@ -33,14 +33,14 @@ We will look at Bootstrap and other frameworks later, but for now it's nice to s
 - http://cssmediaqueries.com/
 
 ## Presentations
-- [Responsive Design](../presentations/4B-Responsive-Design.pdf)
+- [Responsive Design](https://github.com/tonethar/IGME-230-Master/tree/master/presentations/4B-Responsive-Design.pdf)
 
 ## Demo
-- [Responsive page demo](../other-files/Responsive_Demo.zip)
+- [Responsive page demo](https://github.com/tonethar/IGME-230-Master/tree/master/other-files/Responsive_Demo.zip)
 
 ## Exercise
-- [Responsive Design with CSS Media Queries](../exercises/week-4/ICE-ResponsiveCSS.pdf)
-- [Responsive Design start files](../exercises/week-4/darth_start_files.zip)
+- [Responsive Design with CSS Media Queries](https://github.com/tonethar/IGME-230-Master/tree/master/exercises/week-4/ICE-ResponsiveCSS.pdf)
+- [Responsive Design start files](https://github.com/tonethar/IGME-230-Master/tree/master/exercises/week-4/darth_start_files.zip)
 
 <hr><hr>
 
