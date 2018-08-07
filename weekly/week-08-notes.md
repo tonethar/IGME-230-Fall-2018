@@ -6,7 +6,7 @@
 
 ## II. Midterm Exam
 - The midterm exam will be given Thursday March 8th
-- Don't forget to study for the exam - here are some things to focus on: [midterm-review.md](../local-notes/midterm-review.md)
+- Don't forget to study for the exam - here are some things to focus on: [midterm-review.md](../exams/midterm-review.md)
 
 ## III. Readings and Homework Assignment
 - As always, keep an eye on the myCourses dropboxes, both the descriptions and due dates. These will help you keep track of what is due/when, and what you should be working on.
