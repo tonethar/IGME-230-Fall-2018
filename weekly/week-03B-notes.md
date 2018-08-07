@@ -23,7 +23,7 @@ a:hover{}
 - Inheritance
 
 ## III. The CSS Box Model
-![BoxModel](https://github.com/tonethar/IGME-230-Master/tree/master/other-files/BoxModel.png)
+![BoxModel](https://github.com/tonethar/IGME-230-Master/blob/master/other-files/BoxModel.png)
 
 + *margin* is space that is "outside the box"
 + *padding* is space that is "inside the box"
