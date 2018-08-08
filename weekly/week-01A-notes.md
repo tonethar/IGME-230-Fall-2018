@@ -146,5 +146,5 @@ And some other really cool stuff:
 
 | <-- Previous Unit | Home | Next Unit -->
 | --- | --- | --- 
-|     |  [**IGME-230 Schedule**](../schedule.md) | [**week-01B-notes.md**](week-01B-notes.md)
+|   :-\  |  [**IGME-230 Schedule**](../schedule.md) | [**week-01B-notes.md**](week-01B-notes.md)
 
