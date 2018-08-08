@@ -95,7 +95,7 @@ https://validator.w3.org/
 
 ## X. Exercises
 - [Basic Markup/CSS - Creme Brulee](https://github.com/tonethar/IGME-230-Master/tree/master/exercises/week-2/creme-brulee/instructions.md)
-- [230 Home Page](https://github.com/tonethar/IGME-230-Master/tree/master/exercises/week-2/230-home-page.md) - You can get started on this, but it also involves CSS which we'll cover next time!
+- [230 Home Page](https://github.com/tonethar/IGME-230-Master/tree/master/exercises/week-2/230-home-page.md)
 
 <hr><hr>
 
