@@ -61,4 +61,8 @@ Having an online portfolio you can share with potential employers is very import
 
 <hr><hr>
 
-[<-- Back to IGME-230 Schedule](../schedule.md)
+| <-- Previous Unit | Home | Next Unit -->
+| --- | --- | --- 
+| [**week-10A-notes.md**](week-10A-notes.md)     |  [**IGME-230 Schedule**](../schedule.md) | [**week-11-notes.md**](week-notes-game-1.md.md)
+
+
