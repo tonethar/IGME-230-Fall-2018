@@ -60,7 +60,7 @@ Implementation:
 - Some use JS to manipulate the DOM, hiding or showing different elements when navigation is clicked, or rewriting innerHTML
 
 ## VII. Helpful Exercises
-- [CSS Frameworks](../exercises/week-11/frameworks-ice.md) - this is an extra credit exercise (see dropbox)
+- [CSS Frameworks](https://github.com/tonethar/IGME-230-Master/tree/master/exercises/week-11/frameworks-ice.md) - this is an extra credit exercise (see dropbox)
 - [Lynda.com Bootstrap Tutorial](https://www.lynda.com/Bootstrap-tutorials/What-well-build/186538/371577-4.html) - this takes about 2 hours, and walks you through creating a template that you can build on when creating your portfolio mini-project.
 - [Lynda.com Skeleton Tutorial](https://www.lynda.com/CSS-tutorials/Welcome/372808/413142-4.html) - another nice option, with a slightly simpler layout.
 
@@ -93,4 +93,7 @@ Together we will build a responsive web page using the [Skeleton](http://getskel
 
 <hr><hr>
 
-[<-- Back to IGME-230 Schedule](../schedule.md)
+| <-- Previous Unit | Home | Next Unit -->
+| --- | --- | --- 
+| [**week-09B-notes.md**](week-09B-notes.md)     |  [**IGME-230 Schedule**](../schedule.md) | [**week-10B-notes.md**](week-10B-notes.md)
+
