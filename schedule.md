@@ -89,11 +89,11 @@ The midterm exam will given the last class meeting of week 8
  
  - [Week 14 - Wrap up PixiJS](weekly/week-notes-game-3.md)
  
- ## <a id="week15">Week 15 : Review & Final Exam
+ ## <a id="week15">Week 15 : The Home Stretch
   
   The final exam will given on the last day of class.
   
- - [Week 15 - The Home Stretch II](weekly/week-notes-home-stretch.md)
+ - [Week 15 - The Home Stretch](weekly/week-notes-home-stretch.md)
   
 ## <a id="finalsweek">Finals Week Meeting
 
