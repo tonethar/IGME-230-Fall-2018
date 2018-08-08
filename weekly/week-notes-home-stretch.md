@@ -7,4 +7,4 @@ This week will be dedicated to working on Project 4, and some review for the exa
 <hr><hr>
 | <-- Previous Unit | Home | Next Unit -->
 | --- | --- | --- 
-| [**week-15-notes**](week-notes-game-3.md)     |  [**IGME-230 Schedule**](../schedule.md) | &nbsp;
+| [**week-15-notes**](week-notes-game-3.md)     |  [**IGME-230 Schedule**](../schedule.md) | :-|
