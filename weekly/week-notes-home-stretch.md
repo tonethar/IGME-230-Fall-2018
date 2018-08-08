@@ -8,4 +8,4 @@ This week will be dedicated to working on Project 4, and some review for the exa
 
 | <-- Previous Unit | Home | Next Unit -->
 | --- | --- | --- 
-| [**week-13-notes**](week-notes-game-2.md)     |  [**IGME-230 Schedule**](../schedule.md) | [**week-15-notes**](week-notes-home-stretch.md)
+| [**week-15-notes**](week-notes-game-3.md)     |  [**IGME-230 Schedule**](../schedule.md) | 
