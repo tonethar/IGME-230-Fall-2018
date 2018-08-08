@@ -1,5 +1,5 @@
-# Week 14 - The Home Stretch
-This week will be dedicated to review for the exam, and project work. The final exam will given on the last day of class, Thursday 4/26.
+# Week 14 - PixiJS III
+This week will be dedicated to working on Project IV, and some review for the exam.
 
 ## Topics
 - Final exam review: [final-exam-review.md](../notes/final-exam-review.md)
