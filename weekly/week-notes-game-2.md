@@ -23,4 +23,4 @@ The required readings and assignments for this week are here (see myCourses drop
 
 | <-- Previous Unit | Home | Next Unit -->
 | --- | --- | --- 
-| [**week-12-notes.md**](week-notes-game-1.md)     |  [**IGME-230 Schedule**](../schedule.md) | [**week-14-notes.md**](week-notes-game-3.md)
+| [**week-12-notes**](week-notes-game-1.md)     |  [**IGME-230 Schedule**](../schedule.md) | [**week-14-notes**](week-notes-game-3.md)
