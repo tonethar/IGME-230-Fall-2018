@@ -5,5 +5,6 @@ This week will be dedicated to working on Project 4, and some review for the exa
 - Final exam review: [final-exam-review.md](../exams/final-exam-review.md)
 
 <hr><hr>
-
-[<-- Back to IGME-230 Schedule](../schedule.md)
+| <-- Previous Unit | Home | Next Unit -->
+| --- | --- | --- 
+| [**week-15-notes**](week-notes-game-3.md)     |  [**IGME-230 Schedule**](../schedule.md) | |
