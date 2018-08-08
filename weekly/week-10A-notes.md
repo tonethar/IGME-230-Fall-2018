@@ -89,7 +89,7 @@ Together we will build a responsive web page using the [Skeleton](http://getskel
 
 
 ## IX. Assignment
-- [Project-3 Web Portfolio](../projects/project-3.md)
+- [Project 3 - Web Portfolio](../projects/project-3.md)
 
 <hr><hr>
 
