@@ -260,6 +260,7 @@ body {
     - you MUST add more style rules for another phone size. Consider a different layout for "Phablets" like iPhone 8's and so on.
     - don't forget to put your CSS in an external file or files!
 
+<hr><hr> 
 
 | <-- Previous Unit | Home | Next Unit -->
 | --- | --- | --- 
