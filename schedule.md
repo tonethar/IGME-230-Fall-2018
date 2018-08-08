@@ -79,21 +79,21 @@ The midterm exam will given the last class meeting of week 8
 ## <a id="week11">Week 11  : Catch up
   
 ## <a id="week12">Week 12  : Intro to PixiJS
-  - [Week 12 - Intro to PixiJS](weekly/week-12-notes.md)
+  - [Week 12 - Intro to PixiJS](weekly/week-notes-game-1.md)
   
 ## <a id="week13">Week 13 : More PixiJS
   
- - [Week 13 - More PixiJS](weekly/week-13-notes.md)
+ - [Week 13 - More PixiJS](weekly/week-notes-game-2.md)
   
 ## <a id="week14">Week 14 : PixiJS Wrap up
  
- - [Week 14 - The Home Stretch](weekly/week-14-notes.md)
+ - [Week 14 - Wrap up PixiJS](weekly/week-notes-game-3.md)
  
  ## <a id="week15">Week 15 : Review & Final Exam
   
   The final exam will given on the last day of class.
   
- - [Week 15 - The Home Stretch II](weekly/week-15-notes.md)
+ - [Week 15 - The Home Stretch II](weekly/week-notes-home-stretch.md)
   
 ## <a id="finalsweek">Finals Week Meeting
 
