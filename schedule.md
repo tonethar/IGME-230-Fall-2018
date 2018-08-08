@@ -93,7 +93,7 @@ The midterm exam will given the last class meeting of week 8
   
   The final exam will given on the last day of class.
   
- - [Week 15 - The Home Stretch 2](weekly/week-15-notes.md)
+ - [Week 15 - The Home Stretch II](weekly/week-15-notes.md)
   
 ## <a id="finalsweek">Finals Week Meeting
 
