@@ -120,7 +120,7 @@ And some other really cool stuff:
 - Keep an eye on the dropboxes in mycourses for what and when things are due. HW assignments will not be accepted late without prior permission from the instructor:
     - if something comes up and you need an extension you need to get in touch with us ASAP *before* the assignment is due
     - **Reminder:** *all code files (HTML, CSS, JavaScript) must be zipped when put in a dropbox, because otherwise mycourses strips out the JavaScript and CSS, and you will likely get a zero on the assignment*
-- The due dates for these assignments will be clustered around the same days, often on Monday night. This means that you should plan ahead, and not try to tackle them all in the last hour before they are due
+- The due dates for these assignments will be clustered around the same days, often on Sunday night. This means that you should plan ahead, and not try to tackle them all in the last hour before they are due
 - Please get to class on time! Lectures will begin promptly at the start of class
 
 ## VII. Required Reading
