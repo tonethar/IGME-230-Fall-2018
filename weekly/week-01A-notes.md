@@ -94,32 +94,31 @@ Some sample IGME-230 projects from last year:
     - Pixel Art - https://people.rit.edu/~deb2610/230/project2/PixelPainterExtended.html
     - Music Finder (iTunes Web Service) - https://people.rit.edu/axs6207/230/project2/musicFinder.html
 - **PixiJS Sprite Game (Project 4)**:
-    - https://people.rit.edu/mac9406/230/project2/index.html
-    - https://people.rit.edu/~jpa3216/230/project1/
-    - https://people.rit.edu/~hhn2884/230/project1/
-    - https://people.rit.edu/mro5772/230/project1/PlayGame
-    - https://people.rit.edu/~txm1918/230/project1/index.html
-    - https://people.rit.edu/btf6119/230/projects/2/index.html
-    - https://people.rit.edu/djs5435/230/project1/project3/project.html
-    - https://people.rit.edu/~jds7523/230/project1/project.html
-    - https://people.rit.edu/axw1799/Bananagans/Bananagans/game.html
-    - https://people.rit.edu/axs6207/230/project3/project.html
-    - https://people.rit.edu/scr3876/230/project1/project.html
-    - https://people.rit.edu/cke1622/230/Project_3/game.html
-    - https://people.rit.edu/~ctq6891/230/projects/project1/project.html
-    - https://people.rit.edu/tmh6112/230/project3/project.html
+    - Bullet Rush - https://people.rit.edu/~jpa3216/230/project1/
+    - taMAGGOTchi - https://people.rit.edu/~hhn2884/230/project1/
+    - Night Walk 2! - https://people.rit.edu/mro5772/230/project1/PlayGame
+    - Hit 'Em - https://people.rit.edu/~txm1918/230/project1/index.html
+    - Space Voyager - https://people.rit.edu/djs5435/230/project1/project3/project.html
+    - Bullet Torrent '17 - https://people.rit.edu/~jds7523/230/project1/project.html
+    - Bananagans - https://people.rit.edu/axw1799/Bananagans/Bananagans/game.html
+    - Trampoline Trauma - https://people.rit.edu/axs6207/230/project3/project.html
+    - Apocalypse Escape - https://people.rit.edu/scr3876/230/project1/project.html
+    - Adventuroso - https://people.rit.edu/~ctq6891/230/projects/project1/project.html
+    - Spellguard - https://people.rit.edu/tmh6112/230/project3/project.html
     - https://people.rit.edu/~deb2610/230/project1/project.html
     - https://people.rit.edu/sxf5282/230//project1/project.html
     - https://people.rit.edu/mxr2091/230/finalproject/game.html
     - https://people.rit.edu/ngm9939/230/project1/game.html
     - https://people.rit.edu/~wcd7037/230/Project1/project.html
 - **DOM Game (Project 4)**:   
+    - Infinite Runner - https://people.rit.edu/mac9406/230/project2/index.html
     - Minesweeper - https://people.rit.edu/lpn4937/230/project2/minesweeper.html
     - Star Wars Matching Game - https://people.rit.edu/dso2890/230/projects/project2/index.html
     - Checkers - https://people.rit.edu/djs5435/230/project2/
     - Conway's Game of Life - https://people.rit.edu/~wcd7037/230/Project2/Life/pixel-life.html
     - Connect Four - https://people.rit.edu/paa9307/230/project2/
     - "Simonish" Memory Game - https://people.rit.edu/arw2013/WhoSays/whoSays.html
+    - ASCII Dungeoneer -  - https://people.rit.edu/btf6119/230/projects/2/index.html
 And some other really cool stuff:
 - http://www.chromeexperiments.com/
 
@@ -146,5 +145,5 @@ And some other really cool stuff:
 
 | <-- Previous Unit | Home | Next Unit -->
 | --- | --- | --- 
-|   ¯\_(ツ)_/¯  |  [**IGME-230 Schedule**](../schedule.md) | [**week-01B-notes.md**](week-01B-notes.md)
+|   :-\  |  [**IGME-230 Schedule**](../schedule.md) | [**week-01B-notes.md**](week-01B-notes.md)
 
