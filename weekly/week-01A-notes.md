@@ -90,14 +90,9 @@ Some sample IGME-230 projects from last year:
     - https://people.rit.edu/axw1799/portfolio/
     - https://people.rit.edu/wjb5377/230/portfolio/
 - **Web App or Web Service driven App (Project 2)**:
-    - https://people.rit.edu/~kts6823/230/project2/index.html
-    - https://people.rit.edu/~deb2610/230/project2/PixelPainterExtended.html
-    - https://people.rit.edu/dso2890/230/projects/project2/index.html
-    - https://people.rit.edu/djs5435/230/project2/
-    - https://people.rit.edu/~wcd7037/230/Project2/Life/pixel-life.html
-    - https://people.rit.edu/paa9307/230/project2/
-    - https://people.rit.edu/axs6207/230/project2/musicFinder.html
-    - https://people.rit.edu/arw2013/WhoSays/whoSays.html
+    - Media Finder (iTunes Web Service) - https://people.rit.edu/~kts6823/230/project2/index.html
+    - Pixel Art - https://people.rit.edu/~deb2610/230/project2/PixelPainterExtended.html
+    - Music Finder (iTunes Web Service) - https://people.rit.edu/axs6207/230/project2/musicFinder.html
 - **PixiJS Sprite Game (Project 4)**:
     - https://people.rit.edu/mac9406/230/project2/index.html
     - https://people.rit.edu/~jpa3216/230/project1/
@@ -119,8 +114,12 @@ Some sample IGME-230 projects from last year:
     - https://people.rit.edu/ngm9939/230/project1/game.html
     - https://people.rit.edu/~wcd7037/230/Project1/project.html
 - **DOM Game (Project 4)**:   
-    - https://people.rit.edu/lpn4937/230/project2/minesweeper.html
-
+    - Minesweeper - https://people.rit.edu/lpn4937/230/project2/minesweeper.html
+    - Star Wars Matching Game - https://people.rit.edu/dso2890/230/projects/project2/index.html
+    - Checkers - https://people.rit.edu/djs5435/230/project2/
+    - Conway's Game of Life - https://people.rit.edu/~wcd7037/230/Project2/Life/pixel-life.html
+    - Connect Four - https://people.rit.edu/paa9307/230/project2/
+    - "Simonish" Memory Game - https://people.rit.edu/arw2013/WhoSays/whoSays.html
 And some other really cool stuff:
 - http://www.chromeexperiments.com/
 
