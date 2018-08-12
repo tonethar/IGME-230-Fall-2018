@@ -105,11 +105,11 @@ Some sample IGME-230 projects from last year:
     - Apocalypse Escape - https://people.rit.edu/scr3876/230/project1/project.html
     - Adventuroso - https://people.rit.edu/~ctq6891/230/projects/project1/project.html
     - Spellguard - https://people.rit.edu/tmh6112/230/project3/project.html
-    - https://people.rit.edu/~deb2610/230/project1/project.html
-    - https://people.rit.edu/sxf5282/230//project1/project.html
-    - https://people.rit.edu/mxr2091/230/finalproject/game.html
-    - https://people.rit.edu/ngm9939/230/project1/game.html
-    - https://people.rit.edu/~wcd7037/230/Project1/project.html
+    - Project IPRE - https://people.rit.edu/~deb2610/230/project1/project.html
+    - Vector Victor - https://people.rit.edu/sxf5282/230//project1/project.html
+    - Trophy Hunter - https://people.rit.edu/mxr2091/230/finalproject/game.html
+    - Xevious Redux - https://people.rit.edu/ngm9939/230/project1/game.html
+    - BALLISTIC - https://people.rit.edu/~wcd7037/230/Project1/project.html
 - **DOM Game (Project 4)**:   
     - Infinite Runner - https://people.rit.edu/mac9406/230/project2/index.html
     - Minesweeper - https://people.rit.edu/lpn4937/230/project2/minesweeper.html
