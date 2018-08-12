@@ -50,7 +50,23 @@ Once you complete this course you should be able to do the following:
 - code a DOM web game that uses HTML/CSS for the User Interface, and JavaScript for game logic & interactivity.
 - code a sprite-based game such as a shooter or platformer utilizing JavaScript and PixiJS. 
 
-## V. <a id="section5"></a>Projects and other stuff for inspiration
+## V. Pedagogy (how this course is taught!)
+- A typical classroom day will be:
+    - a review of the days topics utilizing powerpoints or our Github lecture notes
+    - a live "demo" by the professor that reinforces the day's topics
+    - if time remains, students will be able to work on homework assignments
+- The assignments given in this class break into two categories:
+    - homework assignments or in-class exercises that focus narrowly on one of more concepts
+    - Four projects, that have more flexible requirements, and allow you to exercise considerable freedom and creativity in meeting their requirements
+- A large part of this course is taught similar to a typical math course: there will be several small HW assignments given every week, and because these assignments build upon one another, it is essential that they be completed both on-time and in-order, thus they have strict due dates
+- ***You need to review the week's lecture notes *prior* to attending class for that week***
+- Keep an eye on the dropboxes in mycourses for what and when things are due. HW assignments will not be accepted late without prior permission from the instructor:
+    - if something comes up and you need an extension you need to get in touch with us ASAP *before* the assignment is due
+    - **Reminder:** *all code files (HTML, CSS, JavaScript) must be zipped when put in a dropbox, because otherwise mycourses strips out the JavaScript and CSS, and you will likely get a zero on the assignment*
+- The due dates for these assignments will be clustered around the same days, often on Sunday night. This means that you should plan ahead, and not try to tackle them all in the last hour before they are due
+- Please get to class on time! Lectures will begin promptly at the start of class
+
+## VI. <a id="section5"></a>Projects and other stuff for inspiration
 There are a lot of reasons to improve your web development skills. Think about how much you use the Web every day, and how integrated it is into the games and new media interactive development fields. Games on the Web are pretty big right now. Also, it's a fantastic medium for showing off your work to the world, including potential employers!
 
 Past Student Portfolios:
@@ -73,7 +89,7 @@ Some sample IGME-230 projects from last year:
     - https://people.rit.edu/ekt6170/portfolio.html
     - https://people.rit.edu/axw1799/portfolio/
     - https://people.rit.edu/wjb5377/230/portfolio/
-- DOM Game or App <a id="project2"></a>:
+- Web App or Web Service driven App <a id="project2"></a>:
     - https://people.rit.edu/mac9406/230/project2/index.html
     - https://people.rit.edu/~kts6823/230/project2/index.html
     - https://people.rit.edu/lpn4937/230/project2/minesweeper.html
@@ -85,7 +101,7 @@ Some sample IGME-230 projects from last year:
     - https://people.rit.edu/paa9307/230/project2/
     - https://people.rit.edu/axs6207/230/project2/musicFinder.html
     - https://people.rit.edu/arw2013/WhoSays/whoSays.html
-- PixiJS Sprite Game <a id="project3"></a>:
+- PixiJS Sprite Game or DOM Game <a id="project4"></a>:
     - https://people.rit.edu/~jpa3216/230/project1/
     - https://people.rit.edu/~hhn2884/230/project1/
     - https://people.rit.edu/mro5772/230/project1/PlayGame
@@ -107,21 +123,7 @@ Some sample IGME-230 projects from last year:
 And some other really cool stuff:
 - http://www.chromeexperiments.com/
 
-## VI. Pedagogy (how this course is taught!)
-- A typical classroom day will be:
-    - a review of the days topics utilizing powerpoints or our Github lecture notes
-    - a live "demo" by the professor that reinforces the day's topics
-    - if time remains, students will be able to work on homework assignments
-- The assignments given in this class break into two categories:
-    - homework assignments or in-class exercises that focus narrowly on one of more concepts
-    - Four projects, that have more flexible requirements, and allow you to exercise considerable freedom and creativity in meeting their requirements
-- A large part of this course is taught similar to a typical math course: there will be several small HW assignments given every week, and because these assignments build upon one another, it is essential that they be completed both on-time and in-order, thus they have strict due dates
-- ***You need to review the week's lecture notes *prior* to attending class for that week***
-- Keep an eye on the dropboxes in mycourses for what and when things are due. HW assignments will not be accepted late without prior permission from the instructor:
-    - if something comes up and you need an extension you need to get in touch with us ASAP *before* the assignment is due
-    - **Reminder:** *all code files (HTML, CSS, JavaScript) must be zipped when put in a dropbox, because otherwise mycourses strips out the JavaScript and CSS, and you will likely get a zero on the assignment*
-- The due dates for these assignments will be clustered around the same days, often on Sunday night. This means that you should plan ahead, and not try to tackle them all in the last hour before they are due
-- Please get to class on time! Lectures will begin promptly at the start of class
+
 
 ## VII. Required Reading
 * [syllabus.md](../syllabus.md)
