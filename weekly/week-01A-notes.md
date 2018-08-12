@@ -75,7 +75,7 @@ Past Student Portfolios:
 - http://dougwatro.com
 
 Some sample IGME-230 projects from last year:
-- Portfolio (Project 3):
+- **Web Portfolio (Project 3)**:
     - http://barringtoncampbell.com/
     - https://people.rit.edu/mxb9517/portfolio/
     - https://people.rit.edu/ctb4332/portfolio/
@@ -89,7 +89,7 @@ Some sample IGME-230 projects from last year:
     - https://people.rit.edu/ekt6170/portfolio.html
     - https://people.rit.edu/axw1799/portfolio/
     - https://people.rit.edu/wjb5377/230/portfolio/
-- Web App or Web Service driven App (Project 2):
+- **Web App or Web Service driven App (Project 2)**:
     - https://people.rit.edu/~kts6823/230/project2/index.html
     - https://people.rit.edu/~deb2610/230/project2/PixelPainterExtended.html
     - https://people.rit.edu/dso2890/230/projects/project2/index.html
@@ -98,7 +98,7 @@ Some sample IGME-230 projects from last year:
     - https://people.rit.edu/paa9307/230/project2/
     - https://people.rit.edu/axs6207/230/project2/musicFinder.html
     - https://people.rit.edu/arw2013/WhoSays/whoSays.html
-- PixiJS Sprite Game (Project 4):
+- **PixiJS Sprite Game (Project 4)**:
     - https://people.rit.edu/mac9406/230/project2/index.html
     - https://people.rit.edu/~jpa3216/230/project1/
     - https://people.rit.edu/~hhn2884/230/project1/
@@ -118,7 +118,7 @@ Some sample IGME-230 projects from last year:
     - https://people.rit.edu/mxr2091/230/finalproject/game.html
     - https://people.rit.edu/ngm9939/230/project1/game.html
     - https://people.rit.edu/~wcd7037/230/Project1/project.html
-- DOM Game (Project 4):   
+- **DOM Game (Project 4)**:   
     - https://people.rit.edu/lpn4937/230/project2/minesweeper.html
 
 And some other really cool stuff:
