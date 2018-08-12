@@ -99,11 +99,10 @@ Some sample IGME-230 projects from last year:
     - https://people.rit.edu/paa9307/230/project2/
     - https://people.rit.edu/axs6207/230/project2/musicFinder.html
     - https://people.rit.edu/arw2013/WhoSays/whoSays.html
-- PixiJS Sprite Game or DOM Game <a id="project4"></a>:
+- PixiJS Sprite Game:
     - https://people.rit.edu/mac9406/230/project2/index.html
     - https://people.rit.edu/~jpa3216/230/project1/
     - https://people.rit.edu/~hhn2884/230/project1/
-    - https://people.rit.edu/lpn4937/230/project2/minesweeper.html
     - https://people.rit.edu/mro5772/230/project1/PlayGame
     - https://people.rit.edu/~txm1918/230/project1/index.html
     - https://people.rit.edu/btf6119/230/projects/2/index.html
@@ -120,7 +119,9 @@ Some sample IGME-230 projects from last year:
     - https://people.rit.edu/mxr2091/230/finalproject/game.html
     - https://people.rit.edu/ngm9939/230/project1/game.html
     - https://people.rit.edu/~wcd7037/230/Project1/project.html
-    
+- DOM Game:   
+    - https://people.rit.edu/lpn4937/230/project2/minesweeper.html
+
 And some other really cool stuff:
 - http://www.chromeexperiments.com/
 
