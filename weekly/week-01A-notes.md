@@ -144,6 +144,7 @@ Some sample IGME-230 projects from last year:
     - Cave Sweeper - https://people.rit.edu/~gad4037/230/project2/
     - Slots - https://people.rit.edu/~jxg3645/230/casino/index.html
     - Burning Maze - https://people.rit.edu/~kmm5278/230/project2/
+    
 And some other really cool stuff:
 - http://www.chromeexperiments.com/
 
