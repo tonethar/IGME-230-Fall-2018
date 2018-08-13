@@ -113,11 +113,7 @@ Some sample IGME-230 projects from last year:
     - Xevious Redux - https://people.rit.edu/ngm9939/230/project1/game.html
     - BALLISTIC - https://people.rit.edu/~wcd7037/230/Project1/project.html
 
-    - https://people.rit.edu/~jpa3216/230/project1/
     - https://people.rit.edu/cxa7619/230/project1/project.html
-    - https://people.rit.edu/~txm1918/230/project1/index.html
-    - https://people.rit.edu/~hhn2884/230/project1/
-    - https://people.rit.edu/mro5772/230/project1/PlayGame
     - https://people.rit.edu/~tps3871/230/project1/index.html
     - https://people.rit.edu/~spb6892/230/project1/index.html
     - https://people.rit.edu/lcb2374/230/project1/project.html
