@@ -136,7 +136,14 @@ Some sample IGME-230 projects from last year:
     - Conway's Game of Life - https://people.rit.edu/~wcd7037/230/Project2/Life/pixel-life.html
     - Connect Four - https://people.rit.edu/paa9307/230/project2/
     - "Simonish" Memory Game - https://people.rit.edu/arw2013/WhoSays/whoSays.html
-    - ASCII Dungeoneer -  - https://people.rit.edu/btf6119/230/projects/2/index.html
+    - ASCII Dungeoneer - https://people.rit.edu/btf6119/230/projects/2/index.html
+    - Chess - https://people.rit.edu/~dxc6879/230/project2.2/project-2.html
+    - Musical Minesweeper - https://people.rit.edu/~iae2784/230/project2/project.html
+    - L'eau - https://people.rit.edu/~hhn2884/230/project2/
+    - Lines and Squares - https://people.rit.edu/~spb6892/230/project2/project2.html
+    - Cave Sweeper - https://people.rit.edu/~gad4037/230/project2/
+    - Slots - https://people.rit.edu/~jxg3645/230/casino/index.html
+    - Burning Maze - https://people.rit.edu/~kmm5278/230/project2/
 And some other really cool stuff:
 - http://www.chromeexperiments.com/
 
