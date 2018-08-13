@@ -1,6 +1,6 @@
 # Project 3 - Web Portfolio
 ## 1. Overview
-One thing that we hear again and again from employers is how essential it is for GDD and NMID students to have a portfolio of "passion projects" (or "side projects") to demonstrate that student's talent and passion for creating games/interactive experiences. The most common way to let others see these projects is by posting them to the Web. 
+One thing that we hear again and again from employers is how essential it is for GDD and NMID students to have a portfolio of "passion projects" (or side projects outside of class) to demonstrate their talent and passion for creating games and interactive experiences. The most common way to let others see these projects is by posting them to the Web in a formal portfolio. 
 
 Each portfolio piece should be showcased with the following:
 - a description
@@ -8,7 +8,7 @@ Each portfolio piece should be showcased with the following:
 - detail your exact role (if it was a group project)
 - multiple screenshots
 - ideally a link to a demo video that is hosted on YouTube or Vimeo
-- if possible, a web playable version of the project
+- if possible, a Web-playable version of the project
 
 There are many ways to publish your portfolio of work to the Web:
 - https://www.behance.net
@@ -17,39 +17,54 @@ There are many ways to publish your portfolio of work to the Web:
 - https://wordpress.com or similar
 - https://people.rit.edu (the banjo.rit.edu server)
 
-*Don't yet have much to show to employers? Fortunately, project 2 & project 3 can potentailly get you started on two portolio pieces.*
+*Don't yet have much to show to employers? Fortunately, Project 2 & Project 3 can potentially get you started on two portolio pieces.*
 
-This semester, for this class, you will create and publish a portfolio of your work to people.rit.edu. Read below for details.
+This semester, you will create and publish a portfolio of your work to people.rit.edu.
 
 ## 2. Description
 You will create a personal portfolio site to showcase your work to potential employers and/or customers. The site must include examples of your work, contact information, and your resume. The examples should include at least three different things you've created; those could be projects or exercises from this or other classes, or work you've done on your own. An effective portfolio will highlight your *best work*, and that work should correlate to your career goals. 
 
 Here are some example portfolios that were created by IGM students:
+- http://katiepustolski.com/
+- http://brianemling.com/
+- http://dougwatro.com
 
-- [http://dougwatro.com (utilized Bootstrap)](http://dougwatro.com)
+Some sample portfolio projects from last year:
+    - http://barringtoncampbell.com/
+    - https://people.rit.edu/mxb9517/portfolio/
+    - https://people.rit.edu/ctb4332/portfolio/
+    - https://people.rit.edu/mac9406/portfolio/
+    - https://people.rit.edu/sxf5282/portfolio/
+    - https://people.rit.edu/sml6783/230/portfolio/
+    - https://people.rit.edu/lpn4937/portfolio/
+    - https://people.rit.edu/djs5435/portfolio/
+    - https://people.rit.edu/jds7523/portfolio/
+    - https://people.rit.edu/drs4149/portfolio/
+    - https://people.rit.edu/ekt6170/portfolio.html
+    - https://people.rit.edu/axw1799/portfolio/
+    - https://people.rit.edu/wjb5377/230/portfolio/
+    - https://people.rit.edu/iae2784/portfolio/
+    - https://people.rit.edu/swa4861/portfolio/
 
 Some other examples are here:
-
 - [http://www.adhamdannaway.com (utilized Wordpress Themes)](http://www.adhamdannaway.com)
 - https://onepagelove.com
 
 ## 3. Content Requirements
-- the page is named index.html, and it will include:
-  - a navigation system to allow the user to quickly access distinct content
-  - your name and an image (could be a photo or an avatar)
-  - a *tagline* (see #2 here: https://www.smashingmagazine.com/2009/02/10-steps-to-the-perfect-portfolio-website/) - example: "Creative Developer", "Unity/Unreal Game Developer seeking an internship opportunity", ...
-  - "about you" content - example: "I'm a UX/UI Designer and Front End Developer from Sydney, Australia. I enjoy turning complex problems into simple, beautiful and intuitive interface designs. When I'm not coding or pushing pixels, you'll find me in the gym or on the court shooting hoops."
-
-  - contact information
-  - a gallery section with brief information about each of your work examples (examples can be projects or exercises from this class or other classes, or work you've done on your own)
+-The page is named index.html, and it will include:
+  - A navigation system to allow the user to quickly access distinct content
+  - Your name and an image (could be a photo or an avatar)
+  - A *tagline* (see #2 here: https://www.smashingmagazine.com/2009/02/10-steps-to-the-perfect-portfolio-website/) - example: "Creative Developer," "Unity/Unreal Game Developer seeking an internship opportunity," etc.
+  - "About you" content - example: "I'm a UX/UI Designer and Front End Developer from Sydney, Australia. I enjoy turning complex problems into simple, beautiful and intuitive interface designs. When I'm not coding or pushing pixels, you'll find me in the gym or on the court shooting hoops."
+  - Contact information and a PHP-based **contact form**
+  - A gallery section with brief information about each of your work examples (examples can be projects or exercises from this class or other classes, or work you've done on your own)
   - Individual sub-section sections with more detail for each of your work examples:
-    - each example needs a title, an image (could be a screenshot, photo, or link to a working demo video), and a one-paragraph description that highlights the tools you used and the skills that it illustrates. If the example is interactive and can play in a web brower, a link to a working version should be provided
-    - if the example is from a group project, be sure to clearly indicate what your role was on the project
-
-  - Resume (either printer friendly HTML, or a PDF, NEVER a Word .doc) that also has a printer-friendly stylesheet
+    - Each example needs a title, an image (could be a screenshot, photo, or link to a working demo video), and a one-paragraph description that highlights the tools you used and the skills that it illustrates. If the example is interactive and can play in a Web browser, a link to a working version should be provided
+    - If the example is from a group project, be sure to clearly indicate what your role was on the project
+  - Resume (either printer-friendly HTML, or a PDF; **NEVER** a Word doc) that also has a printer-friendly stylesheet
 
 ## 4. Design Requirements
-- the site is a [responsive](https://en.wikipedia.org/wiki/Responsive_web_design), [single-page design](https://en.wikipedia.org/wiki/Single-page_application)
+- The site is a [responsive](https://en.wikipedia.org/wiki/Responsive_web_design), [single-page design](https://en.wikipedia.org/wiki/Single-page_application)
 - It must have a minimum of two layouts--one optimized for desktop, one for phones
 - It is assumed that you wil be using a CSS framework such as Bootstrap. If so, colors and typefaces must be modified so that the site is not a "cookie cutter" replica of the framework's templates
 - Principles of visual design (taught in prerequisite classes) employed: clear visual hierarchy, good use of white space, effective alignment of content, thoughtful choices of colors and visual elements
@@ -88,16 +103,24 @@ Visual Design | 2 |
 Typography | 1 |
 Sematic, valid HTML | 1 |
 Well-structured, valid CSS | 1 |
+Functional PHP contact form | 1 |
 No major accessibility errors | 1|
 Drop-down navigation menu | 1 |
 Properly optimized media | 1 |
-"Above and Beyond" | 4 |
+"Above and Beyond" | 3 |
 
+# 9. Portfolio Guidelines
+- As you begin putting together your portfolio, keep the following in mind:
+  - Design for your audience. Potential employers want a quick and straightforward way to get information about you and see if you are a good fit for the job.
+  - Present yourself for the job and company you want.
+  - Only post projects you're proud of; don't include everything you've done if it doesn't really showcase your unique skills.
+  - Likewise, don't post too many or too few projects. Showcase your work without overwhelming your audience.
+  - Review our Portfolio lecture!
 
-# 9. Resources
+# 10. Resources
 - [Lynda.com Bootstrap Tutorial](https://www.lynda.com/Bootstrap-tutorials/What-well-build/186538/371577-4.html) - this is a about 2 hours, and walks you through creating a template that you can build on.
 
-## 10. Examples
+## 11. Examples
 
 ### A. Student Work
 - [Some examples from previous semester's we showed you day 1](../weekly/Week-01A-notes.md#section5)
