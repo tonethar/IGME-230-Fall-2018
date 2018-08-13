@@ -113,13 +113,13 @@ Some sample IGME-230 projects from last year:
     - Xevious Redux - https://people.rit.edu/ngm9939/230/project1/game.html
     - BALLISTIC - https://people.rit.edu/~wcd7037/230/Project1/project.html
 
-    - https://people.rit.edu/cxa7619/230/project1/project.html
-    - https://people.rit.edu/~tps3871/230/project1/index.html
-    - https://people.rit.edu/~spb6892/230/project1/index.html
-    - https://people.rit.edu/lcb2374/230/project1/project.html
-    - https://people.rit.edu/cfc5762/230/project1/
-    - https://people.rit.edu/~zsd7200/230/project1/project3/index.html  - Uses mobile tilt controls!!
-    - https://people.rit.edu/~gad4037/230/project1/gamePage.html  - Doesn’t look like much, but he implemented a really cool Street Fighter-esque move system.
+    - SACO - https://people.rit.edu/cxa7619/230/project1/project.html
+    - Reversoid - https://people.rit.edu/~tps3871/230/project1/index.html
+    - FliP - https://people.rit.edu/~spb6892/230/project1/index.html
+    - Bubble Blitz - https://people.rit.edu/lcb2374/230/project1/project.html
+    - Phaser - https://people.rit.edu/cfc5762/230/project1/
+    - Paper Airplane Tilt - https://people.rit.edu/~zsd7200/230/project1/project3/index.html  - Uses mobile tilt controls!
+    - EndGon - https://people.rit.edu/~gad4037/230/project1/gamePage.html  - Check out the cool fighting move system!
     - https://people.rit.edu/swa4861/230/project1/
     - https://people.rit.edu/~mxd5700/230/Project1/
     - https://people.rit.edu/~vdd7204/230/project1/index.html
