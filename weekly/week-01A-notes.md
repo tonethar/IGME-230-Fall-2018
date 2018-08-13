@@ -89,6 +89,8 @@ Some sample IGME-230 projects from last year:
     - https://people.rit.edu/ekt6170/portfolio.html
     - https://people.rit.edu/axw1799/portfolio/
     - https://people.rit.edu/wjb5377/230/portfolio/
+    - https://people.rit.edu/iae2784/portfolio/
+    - https://people.rit.edu/swa4861/portfolio/
 - **Web App or Web Service driven App (Project 2)**:
     - Media Finder (iTunes Web Service) - https://people.rit.edu/~kts6823/230/project2/index.html
     - Pixel Art - https://people.rit.edu/~deb2610/230/project2/PixelPainterExtended.html
@@ -110,6 +112,29 @@ Some sample IGME-230 projects from last year:
     - Trophy Hunter - https://people.rit.edu/mxr2091/230/finalproject/game.html
     - Xevious Redux - https://people.rit.edu/ngm9939/230/project1/game.html
     - BALLISTIC - https://people.rit.edu/~wcd7037/230/Project1/project.html
+
+    - https://people.rit.edu/~jpa3216/230/project1/
+    - https://people.rit.edu/cxa7619/230/project1/project.html
+    - https://people.rit.edu/~txm1918/230/project1/index.html
+    - https://people.rit.edu/~hhn2884/230/project1/
+    - https://people.rit.edu/mro5772/230/project1/PlayGame
+    - https://people.rit.edu/~tps3871/230/project1/index.html
+    - https://people.rit.edu/~spb6892/230/project1/index.html
+    - https://people.rit.edu/lcb2374/230/project1/project.html
+    - https://people.rit.edu/cfc5762/230/project1/
+    - https://people.rit.edu/~zsd7200/230/project1/project3/index.html  - Uses mobile tilt controls!!
+    - https://people.rit.edu/~gad4037/230/project1/gamePage.html  - Doesn’t look like much, but he implemented a really cool Street Fighter-esque move system.
+    - https://people.rit.edu/swa4861/230/project1/
+    - https://people.rit.edu/~mxd5700/230/Project1/
+    - https://people.rit.edu/~vdd7204/230/project1/index.html
+    - https://people.rit.edu/~sfd7250/230/project1/
+    - https://people.rit.edu/sae9257/230/project1/index.html
+    - https://people.rit.edu/~rgk8966/230/project1/index.html
+    - https://people.rit.edu/~nxh9052/230/project1/project.html
+    - https://people.rit.edu/dgl6789/230/project1/project.html
+    - https://people.rit.edu/~mxo9722/230/project1/project.html
+    - https://people.rit.edu/~mzt5441/230/project1/
+    
 - **DOM Game (Project 4)**:   
     - Infinite Runner - https://people.rit.edu/mac9406/230/project2/index.html
     - Minesweeper - https://people.rit.edu/lpn4937/230/project2/minesweeper.html
