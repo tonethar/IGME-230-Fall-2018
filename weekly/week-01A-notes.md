@@ -7,7 +7,7 @@ Hopefully the skills you acquire in the class will help you to get a co-op posit
 
 
 ## II. Prerequisites
-Students in this class should have a basic working knowledge of HTML, CSS, and publishing to RIT's web hosting environment (people.rit.edu). This material was covered in IGME-110. You can review much of that material here: [IIM-Web-Review/](https://github.com/tonethar/IGME-230-Master/tree/master/IIM-Web-Review)
+Students in this class should have a basic working knowledge of HTML, CSS, and publishing to RIT's Web hosting environment (people.rit.edu). This material was covered in IGME-110. You can review much of that material here: [IIM-Web-Review/](https://github.com/tonethar/IGME-230-Master/tree/master/IIM-Web-Review)
 
 If you need to brush up on your HTML and CSS skills, I recommend using the CodeAcademy tutorials that we currently use in IGME-110:  -  [Lynda.com HTML Essential Training, Lessons 1-7](https://www.lynda.com/HTML-tutorials/HTML-Essential-Training/170427-2.html?org=rit.edu). We will be doing a very brief review, but you shouldn't expect to rely on that to cover all of the prerequisite knowledge.
 
@@ -16,58 +16,58 @@ You will also need a GitHub account, and the [GitHub Student Developer Pack](htt
 If you have questions between now and the start of class, feel free to send me an email! 
 
 ## III. What this course is about
-Official description from SIS: *This course provides an introduction to web development tools and technologies, such as HTML, CSS, Javascript and DHTML, AJAX, web platforms and environments, and server-side programming methods.*
+Official description from SIS: *This course provides an introduction to web development tools and technologies, such as HTML, CSS, Javascript and DHTML, AJAX, Web platforms and environments, and server-side programming methods.*
 We will:
-* review basic **web publishing** (HTML/CSS/FTP) and HTML validation
-* learn **how a web server works** and how to do basic scripting of it
+* review basic **Web publishing** (HTML/CSS/FTP) and HTML validation
+* learn **how a Web server works** and how to do basic scripting of it
 * expose you to the PHP scripting language that runs on most web servers
 * explore advanced CSS layout utilizing the CSS box model and the latest specifications
-* go beyond *type*, *class*, and *id* CSS selectors by utilizing advanced CSS 3 selectors
-* learn how to add **advanced interactivity** to web pages. Building web apps and web games requires knowledge of more than just HTML & CSS, but also of the JavaScript programming language that runs in all web browsers. We will be covering the current "standard" version of JavaScript known as ES5 (ECMAScript 5), as well as some of the well-supported and powerful features of ES6 (AKA ECMAScript 6 or ECMAScript 2015)
-* construct **web applications**. A web app is a client–server software application in which the client (or user interface) runs in a web browser. Examples of web apps you might use are github.com, Gmail, and Google Drive. Web App assignments we will complete in class include:
+* go beyond *type*, *class*, and *id* CSS selectors by utilizing advanced CSS3 selectors
+* learn how to add **advanced interactivity** to Web pages. Building Web apps and Web games requires knowledge of more than just HTML & CSS, but also of the JavaScript programming language that runs in all Web browsers. We will be covering the current "standard" version of JavaScript known as ES5 (ECMAScript 5), as well as some of the well-supported and powerful features of ES6 (AKA ECMAScript 6 or ECMAScript 2015)
+* construct **Web applications**. A Web app is a client–server software application in which the client (or user interface) runs in a Web browser. Examples of Web apps you might use are github.com, Gmail, and Google Drive. Web App assignments we will complete in class include:
     - an [Image Gallery](https://github.com/tonethar/IGME-230-Master/tree/master/notes/HW-image-gallery.md)
     - an app that allows the user to search for and [view animated GIFs](https://github.com/tonethar/IGME-230-Master/tree/master/notes/HW-gif-finder.md)
     - a [Pixel Art](https://github.com/tonethar/IGME-230-Master/tree/master/notes/HW-pixel-artist.md) application
-* construct **interactive games** that run in the web browser (these are also considered to be web applications):
+* construct **interactive games** that run in the Web browser (these are also considered to be Web applications):
   * utilizing the DOM (Document Object Model) and modern CSS features we will build:
       - an [interactive concentration game](https://github.com/tonethar/IGME-230-Master/tree/master/notes/HW-chibi-matching.md)
       - an [adventure game](https://github.com/tonethar/IGME-230-Master/tree/master/notes/HW-adventure.md)
       - and a [Conway's game of Life simulation](https://github.com/tonethar/IGME-230-Master/tree/master/notes/HW-life.md)
   * utilizing the Pixi.js rendering framework, we will build sprite-based games such as [Circle Blast!](https://github.com/tonethar/IGME-230-Master/tree/master/notes/HW-circle-blast-4.md)
-* utilize a **CSS framework** such as [Bootstrap](http://getbootstrap.com) or [Skeleton](http://getskeleton.com) to construct a **responsive web portfolio**
-When the course is complete, you will hopefully have at least the beginnings of a "portfolio piece" or two that you will be able to show to prospective co-op's and other employers.
+* utilize a **CSS framework** such as [Bootstrap](http://getbootstrap.com) or [Skeleton](http://getskeleton.com) to construct a **responsive Web portfolio**
+When the course is complete, you will hopefully have at least the beginnings of a "portfolio piece" or two that you will be able to show to prospective co-ops and other employers.
   
 ## IV. Discussion
-This course is not focused on "web design", but instead on developing highly interactive web applications and web games that heavily utilize the JavaScript programming language.  The major topics of this course are split roughly into thirds:
-1. ***Web Publishing*** (HTML/CSS) both "from scratch" as well as with the Bootstrap or Skeleton CSS framework
+This course is not focused on "Web design", but instead on developing highly interactive Web applications and Web games that heavily utilize the JavaScript programming language. The major topics of this course are split roughly into thirds:
+1. ***Web Publishing*** (HTML/CSS) both "from scratch" as well as with the Bootstrap or Skeleton CSS frameworks
 2. ***Web Application Development*** (HTML/CSS/JavaScript & a little PHP)
 3. ***Web Game Development*** (JavaScript & the Pixi.js rendering engine)
 
 Once you complete this course you should be able to do the following:
-- publish a "traditional" multi-page website to the web. The content will be properly "chunked" and the site navigation will be intuitive and easy to use.
-- publish a single-page application (SPA) web site portfolio. You can see an example here: http://dougwatro.com - this example has eight distinct "pages" of content that are presented on a single web page.
-- code a web application that can connect to web services, and download/display their data.
-- code a DOM web game that uses HTML/CSS for the User Interface, and JavaScript for game logic & interactivity.
+- publish a traditional multi-page website to the Web. The content will be properly "chunked" and the site navigation will be intuitive and easy to use.
+- publish a single-page application (SPA) website portfolio. You can see an example here: http://dougwatro.com - this example has eight distinct "pages" of content that are presented on a single Web page.
+- code a Web application that can connect to Web services, and download/display their data.
+- code a DOM Web game that uses HTML/CSS for the User Interface, and JavaScript for game logic & interactivity.
 - code a sprite-based game such as a shooter or platformer utilizing JavaScript and PixiJS. 
 
 ## V. Pedagogy (how this course is taught!)
 - A typical classroom day will be:
-    - a review of the days topics utilizing powerpoints or our Github lecture notes
+    - a review of the days topics utilizing Powerpoints or our Github lecture notes
     - a live "demo" by the professor that reinforces the day's topics
     - if time remains, students will be able to work on homework assignments
 - The assignments given in this class break into two categories:
-    - homework assignments or in-class exercises that focus narrowly on one of more concepts
-    - Four projects, that have more flexible requirements, and allow you to exercise considerable freedom and creativity in meeting their requirements
-- A large part of this course is taught similar to a typical math course: there will be several small HW assignments given every week, and because these assignments build upon one another, it is essential that they be completed both on-time and in-order, thus they have strict due dates
+    - homework assignments or in-class exercises that focus narrowly on one or more concepts
+    - four projects with more flexible requirements that allow you to exercise considerable freedom and creativity in demonstrating key skills and understanding
+- A large part of this course is taught similar to a typical math course: there will be several small homework assignments given every week, and because these assignments build upon one another, it is essential that they be completed both on-time and in-order, thus they have strict due dates
 - ***You need to review the week's lecture notes *prior* to attending class for that week***
-- Keep an eye on the dropboxes in mycourses for what and when things are due. HW assignments will not be accepted late without prior permission from the instructor:
+- Keep an eye on the dropboxes in myCourses for what and when things are due. HW assignments will not be accepted late without prior permission from the instructor:
     - if something comes up and you need an extension you need to get in touch with us ASAP *before* the assignment is due
-    - **Reminder:** *all code files (HTML, CSS, JavaScript) must be zipped when put in a dropbox, because otherwise mycourses strips out the JavaScript and CSS, and you will likely get a zero on the assignment*
-- The due dates for these assignments will be clustered around the same days, often on Sunday night. This means that you should plan ahead, and not try to tackle them all in the last hour before they are due
-- Please get to class on time! Lectures will begin promptly at the start of class
+    - **Reminder:** *all code files (HTML, CSS, JavaScript) must be zipped when put in a dropbox, because otherwise myCourses strips out the JavaScript and CSS, and you will likely get a zero on the assignment*
+- The due dates for these assignments will be clustered around the same days, often on Sunday night. This means that you should plan ahead, and not try to tackle them all in the last hour before they are due.
+- Please get to class on time! Lectures will begin promptly at the start of class.
 
 ## VI. <a id="section5"></a>Projects and other stuff for inspiration
-There are a lot of reasons to improve your web development skills. Think about how much you use the Web every day, and how integrated it is into the games and new media interactive development fields. Games on the Web are pretty big right now. Also, it's a fantastic medium for showing off your work to the world, including potential employers!
+There are a lot of reasons to improve your Web development skills. Think about how much you use the Web every day, and how integrated it is into the games and new media interactive development fields. Games on the Web are pretty big right now. Also, it's a fantastic medium for showing off your work to the world, including potential employers!
 
 Past Student Portfolios:
 - http://katiepustolski.com/
