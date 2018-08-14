@@ -18,10 +18,10 @@
 
 ## Instructor and Class Details (Sections 03,05,08)
 - Professor: Andrew Wheeland 
-- Teaching Assistant: TBA (03), TBA(05), TBA(08)
-- Office: TBA
+- Teaching Assistants: Lucas Nichols (03 & 05), Sean Lightfood (08)
+- Office: GOL-2521
 - Email: anwigm@rit.edu
-- Office hours: TBA
+- Office hours: MW 1:00PM - 3:00PM in GOL-2521
 - Class meetings:
   - Section 03 - MWF 11:00AM - 11:50AM in GOL-2025
   - Section 05 - TR 11:00AM - 12:15PM in GOL-2435
