@@ -18,7 +18,7 @@
 
 ## Instructor and Class Details (Sections 03,05,08)
 - Professor: Andrew Wheeland 
-- Teaching Assistants: Lucas Nichols (03 & 05), Sean Lightfood (08)
+- Teaching Assistants: Lucas Nichols (03 & 05), Sean Lightfoot (08)
 - Office: GOL-2521
 - Email: anwigm@rit.edu
 - Office hours: MW 1:00PM - 3:00PM in GOL-2521
