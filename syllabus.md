@@ -20,7 +20,7 @@
 - Professor: Andrew Wheeland 
 - Teaching Assistants: Lucas Nichols (03 & 05), Sean Lightfoot (08)
 - Office: GOL-2521
-- Email: anwigm@rit.edu
+- Email: andrew.wheeland@rit.edu
 - Office hours: MW 1:00PM - 3:00PM in GOL-2521
 - Class meetings:
   - Section 03 - MWF 11:00AM - 11:50AM in GOL-2025
