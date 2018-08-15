@@ -28,10 +28,10 @@
   - Section 08 - MWF 4:00PM - 4:30PM in GOL-2570
 
 ## Instructor and Class Details (Section 04)
-- Professor: Joseph Pietruch  
+- Professor: Steven Yi  
 - Teaching Assistant: Kally Mihova
 - Office: See mycourses
-- Email: jcpigm@rit.edu
+- Email: syyigm@rit.edu
 - Office hours: See mycourses
 - Class meetings: MW 5:00PM - 6:15PM in GOL-2570
 
