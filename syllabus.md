@@ -11,9 +11,9 @@
 ## Instructor and Class Details (Section 01)
 - Professor: Dower Chin  
 - Teaching Assistant: TBA
-- Office: See mycourses
-- Email: dowerchin@gmail.com
-- Office hours: See mycourses
+- Office: See myCourses
+- Email: dxcigm@gmail.com
+- Office hours: After class / email
 - Class meetings: TR 6:30PM - 7:45PM in GOL-2570
 
 ## Instructor and Class Details (Sections 03,05,08)
