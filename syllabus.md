@@ -16,24 +16,16 @@
 - Office hours: After class / email
 - Class meetings: TR 6:30PM - 7:45PM in GOL-2570
 
-## Instructor and Class Details (Sections 03,05,08)
+## Instructor and Class Details (Sections 03,04,05)
 - Professor: Andrew Wheeland 
-- Teaching Assistants: Lucas Nichols (03 & 05), Sean Lightfoot (08)
+- Teaching Assistants: Lucas Nichols (03 & 05), Kally Mihova (04)
 - Office: GOL-2521
 - Email: andrew.wheeland@rit.edu
 - Office hours: MW 1:00PM - 3:00PM in GOL-2521
 - Class meetings:
   - Section 03 - MWF 11:00AM - 11:50AM in GOL-2025
+  - Section 04 - MW 5:00PM - 6:15PM in GOL-2570
   - Section 05 - TR 11:00AM - 12:15PM in GOL-2435
-  - Section 08 - MWF 4:00PM - 4:30PM in GOL-2570
-
-## Instructor and Class Details (Section 04)
-- Professor: Steven Yi  
-- Teaching Assistant: Kally Mihova
-- Office: See mycourses
-- Email: syyigm@rit.edu
-- Office hours: See mycourses
-- Class meetings: MW 5:00PM - 6:15PM in GOL-2570
 
 ## Instructor and Class Details (Section 07)
 - Professor: Sean Boyle  
