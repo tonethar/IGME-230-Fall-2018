@@ -159,9 +159,9 @@ And some other really cool stuff:
 
 ## IX. Homework
 - **Always keep a close eye on the mycourses dropboxes so that you know what's due & when!**
-- Get a GitHub account (if you don't have one already), and go through the tutorial above. 
+- Get a GitHub account (if you don't have one already) - [GitHub Student Developer Pack](https://education.github.com/pack) - and go through the tutorial - [GitHub's Hello World tutorial](https://guides.github.com/activities/hello-world/)
 - Set up a repository *for this course* in your account, named *IGME230* or something similar, and put a link to it in the comments field of the myCourses "GitHub Accounts" dropbox. This should be a public repository (otherwise the link won't work).
-- Create a `230` folder on `banjo.rit.edu` - put it in your `www` folder and be sure that the permissions are set so that it is web viewable.
+- Create a `230` folder on `banjo.rit.edu` - put it in your `www` folder and be sure that the permissions are set so that it is web viewable. Did you forget how to post to banjo? Here are some hints - [posting-to-banjo.md](https://github.com/tonethar/IGME-230-Master/blob/master/notes/posting-to-banjo.md)
 
 ## X. Any time left?
 - If there is time left today, let's head to the notes for our next class meeting -  [week-01B-notes.md](week-01B-notes.md) - and do a little bit of HTML & FTP review!
