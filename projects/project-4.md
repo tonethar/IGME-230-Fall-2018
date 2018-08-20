@@ -9,6 +9,8 @@ You will use one of these technology "stacks":
 - JavaScript & the Browser DOM - these exercises will give you an idea of what is possible, and also represent some nice "starter" code:
     - DOM 
 
+**YOU MAY NOT USE THE CANVAS 2D DRAWING API FOR THIS PROJECT - DOING SO WILL RESULT IN A GRADE OF ZERO**
+
 ## I. Overview
 - Your goal is to use PixiJS to create an interactive Media Experience or Game that is easy to use, functional, and aesthetically pleasing.
 
