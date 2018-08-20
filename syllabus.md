@@ -29,7 +29,7 @@
 
 ## Instructor and Class Details (Section 07)
 - Professor: Sean Boyle  
-- Teaching Assistant: Nick Mercadente
+- Teaching Assistant: Nick Mercadante
 - Office: GOL-2517
 - Email: sean.boyle@rit.edu
 - Office hours: TBA
