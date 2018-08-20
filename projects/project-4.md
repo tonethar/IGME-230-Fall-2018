@@ -1,7 +1,13 @@
-# Project 3 - Sprite-based Game or Experience
+# Project 4 - Sprite-based Game or Experience (DRAFT)
 Using PixiJS, create an interactive game or experience.
 
-For this project you (and optionally a partner) are creating a JavaScript-driven web application or game using PixiJS, as you outlined in Project 1. You will be updating your site from Project 1 to focus on this game (or rewriting the content if you are changing your mind on what you're doing).
+For this project you (and optionally a partner) are creating a JavaScript-driven game or "experience", as you outlined in Project 1. You will be updating/re-writing your web site from Project 1 to reflect the game/experience you intend to create (in other words, you are allowed to change your original idea).
+
+You will use one of these technology "stacks":
+- JavaScript & PixiJS (which wraps WebGL) - see these exercises and demos for info on how to get started:
+    - 
+- JavaScript & the Browser DOM - these exercises will give you an idea of what is possible, and also represent some nice "starter" code:
+    - DOM 
 
 ## I. Overview
 - Your goal is to use PixiJS to create an interactive Media Experience or Game that is easy to use, functional, and aesthetically pleasing.
