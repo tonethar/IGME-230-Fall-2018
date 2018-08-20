@@ -5,7 +5,7 @@
 - Other questions about exam?
 
 ## II. Midterm Exam
-- The midterm exam will be given Thursday March 8th
+- The midterm exam will be given the last class meeting of week 8
 - Don't forget to study for the exam - here are some things to focus on: [midterm-review.md](../exams/midterm-review.md)
 
 ## III. Readings and Homework Assignment
