@@ -13,7 +13,7 @@
 - [Week 08 (Oct 15) : More DOM/JavaScript & Midterm Exam](#week8)
 - [Week 09 (Oct 22) : Events, Objects, Web Storage & Web Services](#week9)
 - [Week 10 (Oct 29) : HTML Frameworks & Portfolios](#week10)
-- [Week 11 (Nov 5) : Catch up](#week11)
+- [Week 11 (Nov 05) : Catch up](#week11)
 - [Week 12 (Nov 12) : Intro to PixiJS](#week12)
 - [Week 13 (Nov 19) : More PixiJS & Thanksgiving Holiday](#week13)
 - [Week 14 (Nov 26) : PixiJS Wrap up](#week14)
