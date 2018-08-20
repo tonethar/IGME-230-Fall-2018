@@ -78,8 +78,8 @@ Some sample IGME-230 projects from last year:
 - **Web Portfolio (Project 3)**:
     - http://barringtoncampbell.com/
     - https://people.rit.edu/mxb9517/portfolio/
-    - https://people.rit.edu/ctb4332/portfolio/
     - https://people.rit.edu/mac9406/portfolio/
+    - https://people.rit.edu/ctb4332/portfolio/
     - https://people.rit.edu/sxf5282/portfolio/
     - https://people.rit.edu/sml6783/230/portfolio/
     - https://people.rit.edu/lpn4937/portfolio/
