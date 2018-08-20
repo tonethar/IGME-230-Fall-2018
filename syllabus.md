@@ -62,7 +62,7 @@ Final course grades are determined using the following scale:
 * Project 1 (10%) - [Game Proposal Site](projects/project-1.md)
 * Project 2 (10%) - [Web Service Application](projects/project-2.md)
 * Project 3 (10%) - [Web Portfolio](projects/project-3.md)
-* Project 3 (20%) - [Interactive Game or Experience](projects/project-4.md)
+* Project 4 (20%) - [Interactive Game or Experience](projects/project-4.md)
 
 
 ### Exams (30%)
