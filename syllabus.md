@@ -12,7 +12,7 @@
 - Professor: Dower Chin  
 - Teaching Assistant: Sean Lightfoot
 - Office: See myCourses
-- Email: dxcigm@gmail.com
+- Email: dxcigm@rit.edu
 - Office hours: After class / email
 - Class meetings: TR 6:30PM - 7:45PM in GOL-2570
 
