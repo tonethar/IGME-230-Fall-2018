@@ -10,7 +10,7 @@
 
 ## Instructor and Class Details (Section 01)
 - Professor: Dower Chin  
-- Teaching Assistant: TBA
+- Teaching Assistant: Sean Lightfoot
 - Office: See myCourses
 - Email: dxcigm@gmail.com
 - Office hours: After class / email
