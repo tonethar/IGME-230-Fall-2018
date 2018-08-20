@@ -51,6 +51,7 @@ Once you complete this course you should be able to do the following:
 - code a sprite-based game such as a shooter or platformer utilizing JavaScript and PixiJS. 
 
 ## V. Pedagogy (how this course is taught!)
+- ***You need to review the week's lecture notes *prior* to attending class for that week***
 - A typical classroom day will be:
     - a review of the days topics utilizing Powerpoints or our Github lecture notes
     - a live "demo" by the professor that reinforces the day's topics
@@ -59,7 +60,6 @@ Once you complete this course you should be able to do the following:
     - homework assignments or in-class exercises that focus narrowly on one or more concepts
     - four projects with more flexible requirements that allow you to exercise considerable freedom and creativity in demonstrating key skills and understanding
 - A large part of this course is taught similar to a typical math course: there will be several small homework assignments given every week, and because these assignments build upon one another, it is essential that they be completed both on-time and in-order, thus they have strict due dates
-- ***You need to review the week's lecture notes *prior* to attending class for that week***
 - Keep an eye on the dropboxes in myCourses for what and when things are due. HW assignments will not be accepted late without prior permission from the instructor:
     - if something comes up and you need an extension you need to get in touch with us ASAP *before* the assignment is due
     - **Reminder:** *all code files (HTML, CSS, JavaScript) must be zipped when put in a dropbox, because otherwise myCourses strips out the JavaScript and CSS, and you will likely get a zero on the assignment*
