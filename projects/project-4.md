@@ -5,7 +5,7 @@ For this project you (and optionally a partner) are creating a JavaScript-driven
 
 You will use one of these technology "stacks":
 - JavaScript & PixiJS (which wraps WebGL) - see these exercises and demos for info on how to get started:
-    - 
+    - dhakdkja
 - JavaScript & the Browser DOM - these exercises will give you an idea of what is possible, and also represent some nice "starter" code:
     - DOM 
 
