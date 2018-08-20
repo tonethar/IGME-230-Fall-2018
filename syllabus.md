@@ -75,9 +75,9 @@ Completing the HW and in-class exercises is essential to learning the course mat
 
 Homework and ICEs will NOT be accepted late without a valid excuse (procrastination, and missing the dropbox by 1 minute, are not valid excuses). 
 
-If you feel you have legitimate excuse, please contact the professor in **advance** either by email or during office hours.
+If you feel you have legitimate excuse, please contact the professor in **advance** of the due date either by email or during office hours.
 
-**Important!** - When you submit web file (HTML,CSS,JavaScript) to mycourses dropboxes, they (or the folder they are contained in) must be zipped. If you do not do so, mycourses will strip out all of the CSS and JavaScript, and leave you with a non-functioning and ugly web page. Unzipped assignments will therefore usually receive a grade of zero.
+**Important!** - When you submit web file(s) (HTML,CSS,JavaScript) to mycourses dropboxes, they (or the folder they are contained in) must be zipped. If you do not do so, mycourses will strip out all of the CSS and JavaScript, and leave you with a non-functioning and ugly web page. Unzipped assignments will therefore usually receive a grade of zero.
 
 ### Attendance & Participation (5%)
 Note: 1 absence 4/5 points, 2 absences 3/5 points, 3 absences 1.5/5 points, 4 absences 0/5 points. **Each additional absence is 5% off of final average.** Arriving late is 1/2 absence. Facebooking or similar off-task activity during lectures or demos will count as an absence for the day.
