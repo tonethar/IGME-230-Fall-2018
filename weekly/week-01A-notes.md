@@ -38,7 +38,7 @@ We will:
 When the course is complete, you will hopefully have at least the beginnings of a "portfolio piece" or two that you will be able to show to prospective co-ops and other employers.
   
 ## IV. Discussion
-This course is not focused on "Web design", but instead on developing highly interactive Web applications and Web games that heavily utilize the JavaScript programming language. The major topics of this course are split roughly into thirds:
+This course is not focused on "Web design," but instead on developing highly interactive Web applications and Web games that heavily utilize the JavaScript programming language. The major topics of this course are split roughly into thirds:
 1. ***Web Publishing*** (HTML/CSS) both "from scratch" as well as with the Bootstrap or Skeleton CSS frameworks
 2. ***Web Application Development*** (HTML/CSS/JavaScript & a little PHP)
 3. ***Web Game Development*** (JavaScript & the Pixi.js rendering engine)
