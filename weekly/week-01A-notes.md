@@ -112,7 +112,6 @@ Some sample IGME-230 projects from last year:
     - Trophy Hunter - https://people.rit.edu/mxr2091/230/finalproject/game.html
     - Xevious Redux - https://people.rit.edu/ngm9939/230/project1/game.html
     - BALLISTIC - https://people.rit.edu/~wcd7037/230/Project1/project.html
-    
     - SACO - https://people.rit.edu/cxa7619/230/project1/project.html
     - Reversoid - https://people.rit.edu/~tps3871/230/project1/index.html
     - FliP - https://people.rit.edu/~spb6892/230/project1/index.html
@@ -127,7 +126,6 @@ Some sample IGME-230 projects from last year:
     - Reekris vs. Beebo - https://people.rit.edu/dgl6789/230/project1/project.html
     - Flight of the Ninjas - https://people.rit.edu/~mxo9722/230/project1/project.html
     - Audio Visualizer - https://people.rit.edu/~mzt5441/230/project1/
-    
 - **DOM Game (Project 4)**:   
     - Infinite Runner - https://people.rit.edu/mac9406/230/project2/index.html
     - Minesweeper - https://people.rit.edu/lpn4937/230/project2/minesweeper.html
