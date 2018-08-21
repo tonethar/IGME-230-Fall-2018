@@ -108,7 +108,7 @@ Your project will be graded on the following criteria:
 |  - HTML and CSS validate | |
 |  - CSS is primarily in a single external stylesheet | |
 |  - Makes proper use of structural tags, etc. | |
-|  - Media has been changed from what was provided in class | |
+|  - Media (sound, fonts, images, etc) has been changed from what was provided in class | |
 | **E. Implementation and Code** | **20** | |
 |  - Code is well formatted and commented, and follows coding standards | |
 |  - Code is distinct from, and/or goes byond what we have done in class | |
