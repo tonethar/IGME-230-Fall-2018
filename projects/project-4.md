@@ -1,4 +1,4 @@
-# Project 4 - Sprite-based Game or Experience (DRAFT)
+# Project 4 - Sprite-based Game or Experience
 
 ## I. Overview
 Using PixiJS, create an interactive game or rich media "experience":
@@ -114,7 +114,7 @@ Your project will be graded on the following criteria:
 | **E. Implementation and Code** | **20** | |
 |  - Code is well formatted and commented, and follows coding standards | |
 |  - Code is logically broken out into separate JS files | |
-|  - Code is distinct from, and/or goes byond what we have done in class | |
+|  - Code is distinct from, and/or goes beyond what we have done in class | |
 | **Above and Beyond (see below)** | **10** | |
 | **Presentation** | **10** | |
 | **Possible Total Points** | **100** | |
