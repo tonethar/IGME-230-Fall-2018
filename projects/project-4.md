@@ -113,6 +113,7 @@ Your project will be graded on the following criteria:
 |  - Media (sound, fonts, images, etc) has been changed from what was provided in class | |
 | **E. Implementation and Code** | **20** | |
 |  - Code is well formatted and commented, and follows coding standards | |
+|  - Code is logically broken out into separate JS files | |
 |  - Code is distinct from, and/or goes byond what we have done in class | |
 | **Above and Beyond (see below)** | **10** | |
 | **Presentation** | **10** | |
