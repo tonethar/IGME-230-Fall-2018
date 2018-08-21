@@ -18,7 +18,7 @@ You will use **ONE** of these technology "stacks":
 - **IMPORTANT: YOU MAY NOT USE THE CANVAS 2D DRAWING API FOR THIS PROJECT - DOING SO WILL RESULT IN A GRADE OF ZERO**
 
 - **IMPORTANT: THIS PROJECT NEEDS TO BE "YOUR WORK":**
-    - if you are using Circle Blast! as a template, be sure to "change it up" and go well beyond what we gave you in the start code. Think about changing the game genre, control system, and how the opponents behave. We are only going to give you credit for the code you wrote, so if 90% of your submission is the same as one of our in-class exercises, you are going to get very little credit for the coding section of the rubric
+    - if you are using *Circle Blast!* or another game we gave you as a template, be sure to "change it up" and go well beyond what we gave you in the start code. Think about changing the game genre, control system, and how the opponents behave. We are only going to give you credit for the code you wrote, so if 90% of your submission is the same as one of our in-class exercises, you are going to get very little credit for the coding section of the rubric
     - you must change the fonts, graphics, spritesheets, and sounds from what we gave you in the starting exercises. If you simply reuse what we gave you, points will be deducted in the design and interaction section of the rubric
     - one reason for the above is that we want you to have a potential portfolio piece that you can show employers, and if your project just looks like the in-class exercises that everyone else is showing them, then you will likely not get the position
 
@@ -39,6 +39,7 @@ You will use **ONE** of these technology "stacks":
 ### A. Functional
 - You will use one of the above tech stacks above as your underlying graphics engine
 - Your game or app should do something useful, and be easy to use
+- The functionality goes beyond what we have done in similar class examples
 - There will be no JavaScript errors or exceptions thrown by the app
 - You must utilize an additional HTML5 feature, like localStorage (for high scores), drag and drop, or location services
 
