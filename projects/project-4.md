@@ -18,7 +18,7 @@ You will use ONE of these technology "stacks":
 **IMPORTANT: THIS PROJECT NEEDS TO BE "YOUR WORK":**
 - if you are using Circle Blast! as a template, be sure to "change it up" and go well beyond what we gave you in the start code. Think about changing the game genre, control system, and how the opponents behave. We are only going to give you credit for the code you wrote, so if 90% of it is the same as the exercise, you are going to get very little credit for the coding section of the rubric
 - you must change the fonts, graphics, spritesheets, and sounds from what we gave you in the starting exercises. If you simply reuse what we gave you, points will be deducted in the design and interaction section of the rubric
-- one reason for the above is that we want you to have a potential portfolio piece that yuou can show employers, and if your project just looks like the in-class exercises that everyone else is showing them, then 
+- one reason for the above is that we want you to have a potential portfolio piece that you can show employers, and if your project just looks like the in-class exercises that everyone else is showing them, then you will likely not get the position
 
 
 ## I. Overview
@@ -38,7 +38,7 @@ You will use ONE of these technology "stacks":
 - You will use one of the above tech stacks above as your underlying graphics engine
 - Your game or app should do something useful, and be easy to use
 - There will be no JavaScript errors or exceptions thrown by the app
-- You must utilize an additional HTML5 feature, like localStorage, drag and drop, or location services
+- You must utilize an additional HTML5 feature, like localStorage (for high scores), drag and drop, or location services
 
 ### B. Design & Interaction
 - Pleasing graphic design
@@ -49,6 +49,7 @@ You will use ONE of these technology "stacks":
 ### C. Media
 - Images are properly optimized for web delivery - e.g. cropped and scaled to appropriate dimensions, and saved as a JPEG or PNG
 - Sound is used to enhance the experience
+- you have changed the fonts, graphics, spritesheets, and sounds from what was provided in the in-class examples
 
 ### D. HTML/CSS
 - Valid HTML5 - https://validator.w3.org
@@ -95,24 +96,28 @@ Your project will be graded on the following criteria:
 |  - Demonstrates creativity | |
 |  - Uses an additional HTML5 technology | |
 |  - Runs without errors | |
+|  - Functionality is either distinct from the in-class examples, or goes significantly beyond them in scope | |
 | **B. Design & Interaction** | **20** | |
 |  - Visual design is pleasing | |
 |  - Uses audio to enhance the experience | |
 |  - Interface is clear and well labeled | |
 |  - Prevents and handles errors well | |
-| **C./D. Media/HTML/CSS**  | **10** | |
+| **C. and D. Media/HTML/CSS**  | **10** | |
+|  - Optimized Images | |
+|  - Sound (both incidental and background) enhances the experience | |
 |  - HTML and CSS validate | |
 |  - CSS is primarily in a single external stylesheet | |
 |  - Makes proper use of structural tags, etc. | |
+|  - Media has been changed from what was provided in class | |
 | **E. Implementation and Code** | **20** | |
 |  - Code is well formatted and commented, and follows coding standards | |
+|  - Code is distinct from, and/or goes byond what we have done in class | |
 | **Above and Beyond (see below)** | **10** | |
 | **Presentation** | **10** | |
 | **Possible Total Points** | **100** | |
 | Deduction if proposal is not updated on time | -20 | |
 | Deduction if prototype is not submitted on time | -20 | |
 | Deduction if final documentation is not submitted on time | -20 | |
-| Deduction if project is not posted on Banjo where required | -100 | |
 
 Note for "above and beyond":
 - **Good** (Meet all requirements above reasonably well) = 90%
