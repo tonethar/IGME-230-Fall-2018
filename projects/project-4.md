@@ -1,4 +1,6 @@
 # Project 4 - Sprite-based Game or Experience (DRAFT)
+
+## I. Overview
 Using PixiJS, create an interactive game or rich media "experience":
 
 - For this project you (and optionally a partner) are creating a JavaScript-driven game or experience, as you outlined in Project 1
@@ -21,7 +23,7 @@ You will use ONE of these technology "stacks":
 - one reason for the above is that we want you to have a potential portfolio piece that you can show employers, and if your project just looks like the in-class exercises that everyone else is showing them, then you will likely not get the position
 
 
-## I. Overview
+## II. Goal
 - Your goal is to use one of the tech stacks above to create an interactive media experience or game that is easy to use, functional, and aesthetically pleasing.
 
 - Ideally the experience will run in all modern browsers, but at a bare minimum it must run in recent versions of Chrome.
@@ -32,7 +34,7 @@ You will use ONE of these technology "stacks":
     - the soundness of your programming in your chosen tech stack
     - and how far you went beyond what we did in class, as described below
 
-## II. Requirements
+## III. Requirements
 
 ### A. Functional
 - You will use one of the above tech stacks above as your underlying graphics engine
@@ -67,24 +69,24 @@ You will use ONE of these technology "stacks":
 - Well-commented code. Each and every function gets a comment indicating what it does
 - Delete or comment out your `console.log()` calls
 
-## Milestones
+## IV. Milestones
 - Proposal: Update your site from Project 1 to reflect what you are building for this project - see mycourses dropbox for the due date
 - Checkpoint: create a working draft of the project - see mycourses dropbox for the due date
 - Final project deliverable is due during our scheduled finals week meeting - see mycourses dropbox for the due date and submission instructions. Be sure to post the prohect to the web, and put the link in the comments field of the mycouses dropbox.
 - At our scheduled final exam time, we will have a show and tell of your projects (see below)
 
-## Documentation
+## V. Documentation
 - Update the documentation on your Project 1 site to include your process for this project, cite any sources, tell me where to find anything special you want me to see, and also explain how you met the requirements
 - If you worked in a pair, explain what each team member did. Remember, everyone is responsible for contributing throughout the project, not just to one aspect
 
-## Presentation
+## VI. Presentation
 At the time of our scheduled meeting during finals week, you will present your project to the class in a brief demo. **Attendance for this is mandatory.** For this demo, show us:
 - What you made
 - What's cool, and what you think is "above and beyond"
 - How you overcame any serious challenges
 - Resources utilized (for libraries, tutorials, etc.), if you used any
 
-## Grading
+## VII. Grading
 - *Both* partners must contribute equally to the project. This is NOT a project where team members are allowed to specialize into "Art Director" and "Software Developer" roles! Both team members shall be "Artist/Coders" (doing both) for this project.
 
 Your project will be graded on the following criteria:
@@ -123,8 +125,3 @@ Note for "above and beyond":
 - **Good** (Meet all requirements above reasonably well) = 90%
 - **Better** (Go beyond expectations in 2 or more areas) = 95%
 - **Best** (Go significantly beyond expectations in 2 or more areas) = 100%
-
-## Submission
-- Update your project 1 content with all the relevant content for this project, including the game itself.
-
-**If you do not post the project online where requested, and if the link from your main page doesn't work, you will receive a 0 for this project.**
