@@ -5,12 +5,12 @@ For this project you (and optionally a partner) are creating a JavaScript-driven
 
 You will use ONE of these technology "stacks":
 - JavaScript & PixiJS (which wraps WebGL): 
-    -  [About this PixiJS Tutorial Series](https://github.com/tonethar/IGME-230-Master/blob/master/notes/pixi-js-0.md) has links to the Circle Blast! exercise and other demos that can get you started
+    -  [About this PixiJS Tutorial Series](https://github.com/tonethar/IGME-230-Master/blob/master/notes/pixi-js-0.md) has links to the [Circle Blast!](HW-circle-blast-1.md) exercise and other demos that can get you started
 - JavaScript & the Browser DOM - these exercises will give you an idea of what is possible, and also represent some nice "starter" code:
     - [DOM Adventure!](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-adventure.md) is a tile-based game that uses arrow keys for movement, and simple sound
     - [DOM Chibi Matching](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-chibi-matching.md) is a card matching game that uses CSS animations
     - [DOM Life](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-life.md) is a tile-based game that explores simple [cellular automata](https://en.wikipedia.org/wiki/Cellular_automaton)
-    - [Magentic Poetry](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-magnetic-poetry.md) uses CSS transforms and absolute positioning, and mousemove events.
+    - [Magentic Poetry](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-magnetic-poetry.md) uses CSS transforms and absolute positioning, and mousemove events
 
 **IMPORTANT: YOU MAY NOT USE THE CANVAS 2D DRAWING API FOR THIS PROJECT - DOING SO WILL RESULT IN A GRADE OF ZERO**
 
