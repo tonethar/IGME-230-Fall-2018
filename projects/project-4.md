@@ -15,7 +15,7 @@ You will use **ONE** of these technology "stacks":
     - [DOM Life](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-life.md) is a tile-based game that explores simple [cellular automata](https://en.wikipedia.org/wiki/Cellular_automaton)
     - [Magentic Poetry](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-magnetic-poetry.md) uses CSS transforms and absolute positioning, and mousemove events
 
-**IMPORTANT: YOU MAY NOT USE THE CANVAS 2D DRAWING API FOR THIS PROJECT - DOING SO WILL RESULT IN A GRADE OF ZERO**
+**\*\*IMPORTANT: YOU MAY NOT USE THE CANVAS 2D DRAWING API FOR THIS PROJECT - DOING SO WILL RESULT IN A GRADE OF ZERO\*\***
 
 **IMPORTANT: THIS PROJECT NEEDS TO BE "YOUR WORK":**
 - if you are using Circle Blast! as a template, be sure to "change it up" and go well beyond what we gave you in the start code. Think about changing the game genre, control system, and how the opponents behave. We are only going to give you credit for the code you wrote, so if 90% of it is the same as the exercise, you are going to get very little credit for the coding section of the rubric
