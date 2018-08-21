@@ -15,6 +15,12 @@ You will use ONE of these technology "stacks":
 
 **IMPORTANT: YOU MAY NOT USE THE CANVAS 2D DRAWING API FOR THIS PROJECT - DOING SO WILL RESULT IN A GRADE OF ZERO**
 
+**IMPORTANT: THIS PROJECT NEEDS TO BE "YOUR WORK":**
+- if you are using Circle Blast! as a template, be sure to "change it up" and go well beyond what we gave you in the start code. Think about changing the game genre, control system, and how the opponents behave. We are only going to give you credit for the code you wrote, so if 90% of it is the same as the exercise, you are going to get very little credit for the coding section of the rubric
+- you must change the fonts, graphics, spritesheets, and sounds from what we gave you in the starting exercises. If you simply reuse what we gave you, points will be deducted in the design and interaction section of the rubric
+- one reason for the above is that we want you to have a potential portfolio piece that yuou can show employers, and if your project just looks like the in-class exercises that everyone else is showing them, then 
+
+
 ## I. Overview
 - Your goal is to use one of the tech stacks above to create an interactive media experience or game that is easy to use, functional, and aesthetically pleasing.
 
@@ -34,32 +40,31 @@ You will use ONE of these technology "stacks":
 - There will be no JavaScript errors or exceptions thrown by the app
 - You must utilize an additional HTML5 feature, like localStorage, drag and drop, or location services
 
-
 ### B. Design & Interaction
 - Pleasing graphic design
 - Widgets are well labeled
 - User should be able to figure out how to use the app with minimal instruction (and be sure to provide instruction and tooltips if necessary!), and user errors are handled gracefully
 - While it doesn't need to be responsive, it should look good on a range of displays; don't design it just to work on your huge screen at home. If a 1024 x 768 display can't show the whole layout, it's a problem
 
-### C. HTML/CSS
+### C. Media
+- Images are properly optimized for web delivery - e.g. cropped and scaled to appropriate dimensions, and saved as a JPEG or PNG
+- Sound is used to enhance the experience
+
+### D. HTML/CSS
 - Valid HTML5 - https://validator.w3.org
 - Valid CSS - https://jigsaw.w3.org/css-validator/
 - Most CSS is in an external style sheet
 - Use HTML5 semantic and structural elements where practical
-
-### D. Media
-- Images are properly optimized for web delivery - e.g. cropped and scaled to appropriate dimensions, and saved as a JPEG or PNG
-- Sound is used to enhance the experience
 
 ### E. Code Conventions
 - `let` and `const` (no `var`!)
 - `querySelector()` and `querySelectorAll()` for DOM traversal (DO NOT use the older methods)
 - Utilize at least one ES6 `class` of your own creation
 - D.R.Y. - Don't Repeat Yourself. Repeated blocks of nearly identical code should be factored out and placed in a separate function.
-- Separation of Concerns. Similar to how the *Circle Blast!* HW was structured, have a separate .js file for your classes, utility functions, and main code. If you have more than 3 CSS rules, then put them in an external stylesheet.
-- Variable and function names must begin with a lowercase letter.
-- Well-commented code. Each and every function gets a comment indicating what it does.
-- Delete or comment out your `console.log()` calls.
+- Separation of Concerns. Similar to how the *Circle Blast!* HW was structured, have a separate .js file for your classes, utility functions, and main code. If you have more than 3 CSS rules, then put them in an external stylesheet
+- Variable and function names must begin with a lowercase letter
+- Well-commented code. Each and every function gets a comment indicating what it does
+- Delete or comment out your `console.log()` calls
 
 ## Milestones
 - Proposal: Update your site from Project 1 to reflect what you are building for this project - see mycourses dropbox for the due date
@@ -85,33 +90,31 @@ Your project will be graded on the following criteria:
 
 | Criteria | Weight | Your Score |
 | -------- | ------ | ---------- |
-| **Functionality** | **20** | |
+| **A. Functionality** | **30** | |
 |  - Is useful and/or entertaining | |
 |  - Demonstrates creativity | |
+|  - Uses an additional HTML5 technology | |
 |  - Runs without errors | |
-| **Design & Interaction** | **20** | |
+| **B. Design & Interaction** | **20** | |
 |  - Visual design is pleasing | |
 |  - Uses audio to enhance the experience | |
 |  - Interface is clear and well labeled | |
 |  - Prevents and handles errors well | |
-| **Implementation and Code** | **20** | |
-|  - Uses PixiJS for graphics and animations | |
-|  - Only uses other libraries as necessary; primary functionality is done via your own code | |
-|  - Uses an additional HTML5 technology | |
-|  - Code is well formatted and commented, and follows coding standards | |
-| **HTML/CSS/Media**  | **10** | |
+| **C./D. Media/HTML/CSS**  | **10** | |
 |  - HTML and CSS validate | |
 |  - CSS is primarily in a single external stylesheet | |
 |  - Makes proper use of structural tags, etc. | |
-| **Documentation** | **10** | |
+| **E. Implementation and Code** | **20** | |
+|  - Code is well formatted and commented, and follows coding standards | |
 | **Above and Beyond (see below)** | **10** | |
 | **Presentation** | **10** | |
 | **Possible Total Points** | **100** | |
 | Deduction if proposal is not updated on time | -20 | |
 | Deduction if prototype is not submitted on time | -20 | |
+| Deduction if final documentation is not submitted on time | -20 | |
 | Deduction if project is not posted on Banjo where required | -100 | |
 
-Note:
+Note for "above and beyond":
 - **Good** (Meet all requirements above reasonably well) = 90%
 - **Better** (Go beyond expectations in 2 or more areas) = 95%
 - **Best** (Go significantly beyond expectations in 2 or more areas) = 100%
