@@ -5,6 +5,7 @@
 
 - For this project you (and optionally a partner) are creating a JavaScript-driven game or experience, as you outlined in Project 1
 - You will be updating/re-writing your web site from Project 1 to reflect the game/experience you intend to create (in other words, you are allowed to change your original idea).
+- If you would like to see examples of previous projects, check out the Project 4 examples on the [week-01A-notes.md](../weekly/week-01A-notes.md#project4examples) page
 
 You will use **ONE** of these technology "stacks":
 - **JavaScript & PixiJS** (which wraps WebGL): 
