@@ -39,7 +39,7 @@ You will use **ONE** of these technology "stacks":
 ### A. Functional
 - You will use one of the above tech stacks above as your underlying graphics engine
 - Your game or app should do something useful, and be easy to use
-- The functionality goes beyond what we have done in similar class examples
+- The functionality goes beyond what we have done in similar in-class examples
 - There will be no JavaScript errors or exceptions thrown by the app
 - You must utilize an additional HTML5 feature, like localStorage (for high scores), drag and drop, or location services
 
