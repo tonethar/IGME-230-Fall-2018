@@ -64,19 +64,19 @@ You will use ONE of these technology "stacks":
 ## Milestones
 - Proposal: Update your site from Project 1 to reflect what you are building for this project - see mycourses dropbox for the due date
 - Checkpoint: create a working draft of the project - see mycourses dropbox for the due date
-- Final project deliverable is due during our scheduled finals week meeting - see mycourses dropbox for the due date and submission instructions
-- At our scheduled final exam time, we will have a show and tell of your projects (see below).
+- Final project deliverable is due during our scheduled finals week meeting - see mycourses dropbox for the due date and submission instructions. Be sure to post the prohect to the web, and put the link in the comments field of the mycouses dropbox.
+- At our scheduled final exam time, we will have a show and tell of your projects (see below)
 
 ## Documentation
-- Update the documentation on your Project 1 site to include your process for this project, cite any sources, tell me where to find anything special you want me to see, and also explain how you met the requirements. This documentation can be also be submitted as a separate document.
-- If you worked in a pair, explain what each team member did. Remember, everyone is responsible for contributing throughout the project, not just to one aspect.
+- Update the documentation on your Project 1 site to include your process for this project, cite any sources, tell me where to find anything special you want me to see, and also explain how you met the requirements
+- If you worked in a pair, explain what each team member did. Remember, everyone is responsible for contributing throughout the project, not just to one aspect
 
 ## Presentation
 At the time of our scheduled meeting during finals week, you will present your project to the class in a brief demo. **Attendance for this is mandatory.** For this demo, show us:
 - What you made
-- What’s cool, and what you think is “above and beyond”
+- What's cool, and what you think is "above and beyond"
 - How you overcame any serious challenges
-- Your sources (for libraries, tutorials, etc.) if you used any
+- Resources utilized (for libraries, tutorials, etc.), if you used any
 
 ## Grading
 - *Both* partners must contribute equally to the project. This is NOT a project where team members are allowed to specialize into "Art Director" and "Software Developer" roles! Both team members shall be "Artist/Coders" (doing both) for this project.
@@ -107,7 +107,8 @@ Your project will be graded on the following criteria:
 | **Above and Beyond (see below)** | **10** | |
 | **Presentation** | **10** | |
 | **Possible Total Points** | **100** | |
-| Deduction if proposal is not updated on time | -10 | |
+| Deduction if proposal is not updated on time | -20 | |
+| Deduction if prototype is not submitted on time | -20 | |
 | Deduction if project is not posted on Banjo where required | -100 | |
 
 Note:
