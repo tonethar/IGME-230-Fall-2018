@@ -1,7 +1,8 @@
 # Project 4 - Sprite-based Game or Experience (DRAFT)
-Using PixiJS, create an interactive game or experience.
+Using PixiJS, create an interactive game or rich media "experience":
 
-For this project you (and optionally a partner) are creating a JavaScript-driven game or "experience", as you outlined in Project 1. You will be updating/re-writing your web site from Project 1 to reflect the game/experience you intend to create (in other words, you are allowed to change your original idea).
+- For this project you (and optionally a partner) are creating a JavaScript-driven game or experience, as you outlined in Project 1
+- You will be updating/re-writing your web site from Project 1 to reflect the game/experience you intend to create (in other words, you are allowed to change your original idea).
 
 You will use ONE of these technology "stacks":
 - JavaScript & PixiJS (which wraps WebGL): 
@@ -15,41 +16,39 @@ You will use ONE of these technology "stacks":
 **IMPORTANT: YOU MAY NOT USE THE CANVAS 2D DRAWING API FOR THIS PROJECT - DOING SO WILL RESULT IN A GRADE OF ZERO**
 
 ## I. Overview
-- Your goal is to use PixiJS to create an interactive Media Experience or Game that is easy to use, functional, and aesthetically pleasing.
+- Your goal is to use one of the tech stacks above to create an interactive media experience or game that is easy to use, functional, and aesthetically pleasing.
 
 - Ideally the experience will run in all modern browsers, but at a bare minimum it must run in recent versions of Chrome.
 
 - You will be evaluated:
     - on your creativity
     - the quality of the experience you create
-    - your use and understanding of PixiJS
-    - the soundness of your programming
-    - and how far you went beyond what we did in class, as described below.
+    - the soundness of your programming in your chosen tech stack
+    - and how far you went beyond what we did in class, as described below
 
 ## II. Requirements
 
 ### A. Functional
-- You will use PixiJS as your underlying graphics engine.
-- Your game or app should do something useful, and be easy to use.
-- There will be no JavaScript errors or exceptions thrown by the app.
-- You must utilize some other HTML5 feature, like localStorage, drag and drop, or location services. 
+- You will use one of the above tech stacks above as your underlying graphics engine
+- Your game or app should do something useful, and be easy to use
+- There will be no JavaScript errors or exceptions thrown by the app
+- You must utilize an additional HTML5 feature, like localStorage, drag and drop, or location services
 
-Canvas and direct DOM manipulation (for the experience itself) are not allowed; you may utilize DOM manipulation for other aspects of your interface, but the purpose is to demonstrate your ability to implement the PixiJS library.
 
 ### B. Design & Interaction
 - Pleasing graphic design
 - Widgets are well labeled
-- User should be able to figure out how to use the app with minimal instruction (and be sure to provide instruction and tooltips if necessary!), and user errors are handled gracefully.
-- While it doesn't need to be responsive, it should look good on a range of displays; don't design it just to work on your huge screen at home. If my computer can't show the whole layout, it's a problem.
+- User should be able to figure out how to use the app with minimal instruction (and be sure to provide instruction and tooltips if necessary!), and user errors are handled gracefully
+- While it doesn't need to be responsive, it should look good on a range of displays; don't design it just to work on your huge screen at home. If a 1024 x 768 display can't show the whole layout, it's a problem
 
 ### C. HTML/CSS
 - Valid HTML5 - https://validator.w3.org
 - Valid CSS - https://jigsaw.w3.org/css-validator/
-- Most CSS is in an external style sheet.
-- Use HTML5 semantic and structural elements where practical.
+- Most CSS is in an external style sheet
+- Use HTML5 semantic and structural elements where practical
 
 ### D. Media
-- Images are properly optimized for web delivery.
+- Images are properly optimized for web delivery - e.g. cropped and scaled to appropriate dimensions, and saved as a JPEG or PNG
 - Sound is used to enhance the experience
 
 ### E. Code Conventions
@@ -57,18 +56,19 @@ Canvas and direct DOM manipulation (for the experience itself) are not allowed; 
 - `querySelector()` and `querySelectorAll()` for DOM traversal (DO NOT use the older methods)
 - Utilize at least one ES6 `class` of your own creation
 - D.R.Y. - Don't Repeat Yourself. Repeated blocks of nearly identical code should be factored out and placed in a separate function.
-- Separation of Concerns. Similar to how the *Circle Blast! HW* was structured, have a separate .js file for your classes, utility functions, and main code. If you have more than 3 CSS rules, then put them in an external stylesheet.
+- Separation of Concerns. Similar to how the *Circle Blast!* HW was structured, have a separate .js file for your classes, utility functions, and main code. If you have more than 3 CSS rules, then put them in an external stylesheet.
 - Variable and function names must begin with a lowercase letter.
 - Well-commented code. Each and every function gets a comment indicating what it does.
 - Delete or comment out your `console.log()` calls.
 
 ## Milestones
-- By the April 16th @ 11:59PM you will have updated your site from Project 1 to include a more accurate proposal of this game project.
-- Final project deliverable is due during our scheduled final exam. There is no dropbox for this; update your site and make sure the working game/app is running on it. If you are working in a team, both team members need to update their sites.
+- Proposal: Update your site from Project 1 to reflect what you are building for this project - see mycourses dropbox for the due date
+- Checkpoint: create a working draft of the project - see mycourses dropbox for the due date
+- Final project deliverable is due during our scheduled finals week meeting - see mycourses dropbox for the due date and submission instructions
 - At our scheduled final exam time, we will have a show and tell of your projects (see below).
 
 ## Documentation
-- Update the documentation on your Project 1 to include your process for this project, cite any sources, tell me where to find anything special you want me to see, and also explain how you met the requirements. Remember, this documentation is a **web page** linked on the project site, not a text file or some other format.
+- Update the documentation on your Project 1 site to include your process for this project, cite any sources, tell me where to find anything special you want me to see, and also explain how you met the requirements. This documentation can be also be submitted as a separate document.
 - If you worked in a pair, explain what each team member did. Remember, everyone is responsible for contributing throughout the project, not just to one aspect.
 
 ## Presentation
