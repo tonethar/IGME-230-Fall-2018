@@ -3,13 +3,16 @@ Using PixiJS, create an interactive game or experience.
 
 For this project you (and optionally a partner) are creating a JavaScript-driven game or "experience", as you outlined in Project 1. You will be updating/re-writing your web site from Project 1 to reflect the game/experience you intend to create (in other words, you are allowed to change your original idea).
 
-You will use one of these technology "stacks":
-- JavaScript & PixiJS (which wraps WebGL) - see these exercises and demos for info on how to get started:
-    - dhakdkja
+You will use ONE of these technology "stacks":
+- JavaScript & PixiJS (which wraps WebGL): 
+    -  [About this PixiJS Tutorial Series](https://github.com/tonethar/IGME-230-Master/blob/master/notes/pixi-js-0.md) has links to the Circle Blast! exercise and other demos that can get you started
 - JavaScript & the Browser DOM - these exercises will give you an idea of what is possible, and also represent some nice "starter" code:
-    - DOM 
+    - [DOM Adventure!](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-adventure.md) is a tile-based game that uses arrow keys for movement, and simple sound
+    - [DOM Chibi Matching](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-chibi-matching.md) is a card matching game that uses CSS animations
+    - [DOM Life](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-life.md) is a tile-based game that explores simple [cellular automata](https://en.wikipedia.org/wiki/Cellular_automaton)
+    - [Magentic Poetry](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-magnetic-poetry.md) uses CSS transforms and absolute positioning, and mousemove events.
 
-**YOU MAY NOT USE THE CANVAS 2D DRAWING API FOR THIS PROJECT - DOING SO WILL RESULT IN A GRADE OF ZERO**
+**IMPORTANT: YOU MAY NOT USE THE CANVAS 2D DRAWING API FOR THIS PROJECT - DOING SO WILL RESULT IN A GRADE OF ZERO**
 
 ## I. Overview
 - Your goal is to use PixiJS to create an interactive Media Experience or Game that is easy to use, functional, and aesthetically pleasing.
