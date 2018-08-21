@@ -95,7 +95,7 @@ Some sample IGME-230 projects from last year:
     - Media Finder (iTunes Web Service) - https://people.rit.edu/~kts6823/230/project2/index.html
     - Pixel Art - https://people.rit.edu/~deb2610/230/project2/PixelPainterExtended.html
     - Music Finder (iTunes Web Service) - https://people.rit.edu/axs6207/230/project2/musicFinder.html
-- **PixiJS Sprite Game (Project 4)**:
+- **PixiJS Sprite Game (Project 4)**:<a id="project4examples"></a>
     - Bullet Rush - https://people.rit.edu/~jpa3216/230/project1/
     - taMAGGOTchi - https://people.rit.edu/~hhn2884/230/project1/
     - Night Walk 2! - https://people.rit.edu/mro5772/230/project1/PlayGame
