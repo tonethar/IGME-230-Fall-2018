@@ -28,6 +28,7 @@ See the mycourses dropboxes for due dates.
 - [HW - Configuring php.ini](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-php-ini.md)
 - [HW - PHP "Fact of the Day" Page](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-php-fact-of-the-day.md)
 - [Demo - PHP File (Directory) Lister](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-php-file-lister.md)
+- [Demo - Random Activity](php-random-activity-demo.md) - downloading data from a web service with PHP
 
 
 <hr><hr>
