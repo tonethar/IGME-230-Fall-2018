@@ -27,12 +27,12 @@
   - Section 04 - MW 5:00PM - 6:15PM in GOL-2570
   - Section 05 - TR 11:00AM - 12:15PM in GOL-2435
 
-## Instructor and Class Details (Section 07)
+## Instructor and Class Details (Section 06)
 - Professor: Sean Boyle  
 - Teaching Assistant: Nick Mercadante
 - Office: GOL-2517
 - Email: sean.boyle@rit.edu
-- Office hours: TBA
+- Office hours: MWF 11:00-2:00
 - Class meetings: MWF 2:00PM - 2:50PM in ORN-1375
 
 ## Course Materials and Communication
