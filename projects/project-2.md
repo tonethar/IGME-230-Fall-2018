@@ -101,7 +101,7 @@ Note:
 
 ## VI. Submission
 - ZIP and post the completed project and documentation page to to the mycourses dropbox
-- Post the project to banjo and link it from your 230 home page (exception: do not post *Music Finder* to the web)
+- Post the project to banjo and link it from your 230 home page
 
 <hr><hr>
 
