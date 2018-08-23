@@ -9,7 +9,7 @@ Hopefully the skills you acquire in the class will help you to get a co-op posit
 ## II. Prerequisites
 Students in this class should have a basic working knowledge of HTML, CSS, and publishing to RIT's Web hosting environment (people.rit.edu). This material was covered in IGME-110. You can review much of that material here: [IIM-Web-Review/](https://github.com/tonethar/IGME-230-Master/tree/master/IIM-Web-Review)
 
-If you need to brush up on your HTML and CSS skills, I recommend using the CodeAcademy tutorials that we currently use in IGME-110:  -  [Lynda.com HTML Essential Training, Lessons 1-7](https://www.lynda.com/HTML-tutorials/HTML-Essential-Training/170427-2.html?org=rit.edu). We will be doing a very brief review, but you shouldn't expect to rely on that to cover all of the prerequisite knowledge.
+If you need to brush up on your HTML and CSS skills, I recommend using the Lynda tutorials that we currently use in IGME-110:  -  [Lynda.com HTML Essential Training, Lessons 1-7](https://www.lynda.com/HTML-tutorials/HTML-Essential-Training/170427-2.html?org=rit.edu). We will be doing a very brief review, but you shouldn't expect to rely on that to cover all of the prerequisite knowledge.
 
 You will also need a GitHub account, and the [GitHub Student Developer Pack](https://education.github.com/pack) so that you can create and access private repos.
 
@@ -20,10 +20,10 @@ Official description from SIS: *This course provides an introduction to web deve
 We will:
 * review basic **Web publishing** (HTML/CSS/FTP) and HTML validation
 * learn **how a Web server works** and how to do basic scripting of it
-* expose you to the PHP scripting language that runs on most web servers
+* expose you to the PHP scripting language that runs on most Web servers
 * explore advanced CSS layout utilizing the CSS box model and the latest specifications
 * go beyond *type*, *class*, and *id* CSS selectors by utilizing advanced CSS3 selectors
-* learn how to add **advanced interactivity** to Web pages. Building Web apps and Web games requires knowledge of more than just HTML & CSS, but also of the JavaScript programming language that runs in all Web browsers. We will be covering the current "standard" version of JavaScript known as ES5 (ECMAScript 5), as well as some of the well-supported and powerful features of ES6 (AKA ECMAScript 6 or ECMAScript 2015)
+* learn how to add **advanced interactivity** to Web pages. Building Web apps and Web games requires knowledge of more than just HTML & CSS, but also of the JavaScript programming language that runs in all Web browsers. We will be covering the current standard version of JavaScript known as ES5 (ECMAScript 5), as well as some of the well-supported and powerful features of ES6 (AKA ECMAScript 6 or ECMAScript 2015)
 * construct **Web applications**. A Web app is a client–server software application in which the client (or user interface) runs in a Web browser. Examples of Web apps you might use are github.com, Gmail, and Google Drive. Web App assignments we will complete in class include:
     - an [Image Gallery](https://github.com/tonethar/IGME-230-Master/tree/master/notes/HW-image-gallery.md)
     - an app that allows the user to search for and [view animated GIFs](https://github.com/tonethar/IGME-230-Master/tree/master/notes/HW-gif-finder.md)
