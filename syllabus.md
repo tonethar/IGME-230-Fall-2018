@@ -18,7 +18,7 @@
 
 ## Instructor and Class Details (Sections 03,04,05)
 - Professor: Andrew Wheeland 
-- Teaching Assistants: Lucas Nichols (03 & 05), TBD (04)
+- Teaching Assistants: Lucas Nichols (03 & 05), Sam Sorensen (04)
 - Office: GOL-2521
 - Email: andrew.wheeland@rit.edu
 - Office hours: MW 3:00PM - 5:00PM in GOL-2521  ** Updated **
