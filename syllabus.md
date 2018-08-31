@@ -21,7 +21,7 @@
 - Teaching Assistants: Lucas Nichols (03 & 05), TBD (04)
 - Office: GOL-2521
 - Email: andrew.wheeland@rit.edu
-- Office hours: MW 1:00PM - 3:00PM in GOL-2521
+- Office hours: MW 3:00PM - 5:00PM in GOL-2521  ** Updated **
 - Class meetings:
   - Section 03 - MWF 11:00AM - 11:50AM in GOL-2025
   - Section 04 - MW 5:00PM - 6:15PM in GOL-2570
