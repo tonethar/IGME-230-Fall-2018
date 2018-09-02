@@ -2,14 +2,7 @@
 
 # Fall 2018 (2181)
 ## Week 0
-- ...
-- ...
-
-# Spring 2018 (2175)
-***Note: The content below is what we did last semester and is for reference. Most of the links below are broken!***
-
-## Week 0
-- in mycourses:
+- in mycourses: 
     - create gradebook, give everyone 100% (5/5) in attendance
     - post link to syllabus and schedule to mycourses welcome page
     - add a "links" module (i.e. folder) to the Content section, and add a hypertext link (that opens in a new window) to [schedule.md](../schedule.md)
@@ -21,7 +14,8 @@
   - [PHP-2](php-2.md)
   - [PHP-3](php-3.md)
   - [HW: PHP "Fact of the Day"](HW-php-fact-of-the-day.md)
-
+- other sections can copy this content from one section on myCourses into other sections.
+ 
 ## Week 1
 ### Day 1 - there is quite a bit to do today!
 - introduce self and TA
@@ -37,6 +31,12 @@
     - review [http-protocol-intro.md](http-protocol-intro.md), discuss what a web server is, how you can program it (which we will do with .htaccess files next time, and PHP next week)
     - do the [http-protocol-demo.md](http-protocol-demo.md), highlight the request line, headers, and request/response, and then answer the review questions on the bottom of [http-protocol-intro.md](http-protocol-intro.md) together.
 - time allowing, create a *hello.html* page and post it to banjo (some students might have forgotten the FTP and permissions part of posting to banjo)
+
+
+# Spring 2018 (2175)
+***Note: The content below is what we did last semester and is for reference. Most of the links below are broken!***
+
+
 
 ### Day 2 
 - "Anyone here who wasn't here last time?"
