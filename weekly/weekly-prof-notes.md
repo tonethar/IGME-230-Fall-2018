@@ -45,11 +45,7 @@
    - walk through the [Fixing Banjo Exercise](https://github.com/tonethar/IGME-230-Master/blob/master/exercises/week-1/Fixing-Banjo.md) and then check the inspector to see that the `ModPagespeed` header is gone, and check the page to see that the styles and JS are no longer compressed 
    - let the students work on the [Auth and htaccess PDF](https://github.com/tonethar/IGME-230-Master/blob/master/docs/Auth_and_htaccess.pdf) exercise
 
-
-# Spring 2018 (2175)
-***Note: The content below is what we did last semester and is for reference. Most of the links below are broken!***
-
-
+***Note: The content below is what was done last semester and is for reference. The links have been updated. ***
 
 ## Week 2
 ### Day 1
@@ -72,14 +68,18 @@
 - Todays' demos will probably eat up all of our class time - `:-|`
 - Review [php-3.md](https://github.com/tonethar/IGME-230-Master/blob/master/notes/php-3.md) - be sure to demo all of the associative array code and the `$_SERVER` example
 - Review [php-4.md](https://github.com/tonethar/IGME-230-Master/blob/master/notes/php-4.md)
-    - demo [php-mail-1.php](php-mail-1.php)
-    - demo [php-mail-2.php](php-mail-2.php), and how form variables are passed based on the name of the field - change the form method to GET so that the variables are visible
+    - demo [php-mail-1.php](https://github.com/tonethar/IGME-230-Master/blob/master/notes/php-4.md#ii-the-php-mail-function)
+    - demo [php-mail-2.php](https://github.com/tonethar/IGME-230-Master/blob/master/notes/php-4.md#iii-html-forms), and how form variables are passed based on the name of the field - change the form method to GET so that the variables are visible
     - the students can do the rest of this chapter on their own
 - Demo the completed version of [php-4-HW.php](php-4-HW.php) and the two [HW-php-fact-of-the-day.md](HW-php-fact-of-the-day.md) files
 - Time allowing, demo some debugging:
     - run a PHP script through the PHP parser on the command line to view the output. Also note how superglobals like `$_SERVER` don't exist in the command-line context
     - view the PHP error log at `abc1234/php_data/php.log`
   
+  
+  
+# Spring 2018 (2175)
+***Note: The content below is what we did last semester and is for reference. Most of the links below are broken!***
 
 ## Week 3
 ### Day 1
