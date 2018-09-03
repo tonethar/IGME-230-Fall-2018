@@ -40,7 +40,7 @@ Here are some examples *relative* paths. When you are linking to other pages and
 <a href="../../index.html">P1</a>
 ```
 
-And here are *absolute* paths. When you are linking to other pages and files that are **outside** of your banjo account, you will usually use a relative path:
+And here are *absolute* paths. When you are linking to other pages and files that are **outside** of your banjo account, you will usually use an absolute path:
 
 ```
 <a href="http://www.google.com">Go to Google</a>
