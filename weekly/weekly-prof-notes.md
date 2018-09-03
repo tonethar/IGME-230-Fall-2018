@@ -71,7 +71,7 @@
     - demo [php-mail-1.php](https://github.com/tonethar/IGME-230-Master/blob/master/notes/php-4.md#ii-the-php-mail-function)
     - demo [php-mail-2.php](https://github.com/tonethar/IGME-230-Master/blob/master/notes/php-4.md#iii-html-forms), and how form variables are passed based on the name of the field - change the form method to GET so that the variables are visible
     - the students can do the rest of this chapter on their own
-- Demo the completed version of [php-4-HW.php](php-4-HW.php) and the two [HW-php-fact-of-the-day.md](HW-php-fact-of-the-day.md) files
+- Demo the completed version of php-4-HW.php and the two HW-php-fact-of-the-day.md files (see instructor file collection)
 - Time allowing, demo some debugging:
     - run a PHP script through the PHP parser on the command line to view the output. Also note how superglobals like `$_SERVER` don't exist in the command-line context
     - view the PHP error log at `abc1234/php_data/php.log`
