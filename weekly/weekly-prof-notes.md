@@ -29,7 +29,7 @@
     - review what the course is about, and show a few examples of previous projects 
     - cover pedagogy and emphasize there will be many (small) HW assignments, so keep an eye on the dropboxes!
     - review [http-protocol-intro.md](https://github.com/tonethar/IGME-230-Master/blob/master/notes/http-protocol-intro.md), discuss what a web server is, how you can program it (which we will do with .htaccess files next time, and PHP next week)
-    - do the [http-protocol-demo.md](https://github.com/tonethar/IGME-230-Master/blob/master/notes/http-protocol-demo.md), highlight the request line, headers, and request/response, and then answer the review questions on the bottom of [https://github.com/tonethar/IGME-230-Master/blob/master/notes/http-protocol-intro.md](http-protocol-intro.md) together.
+    - do the [http-protocol-demo.md](https://github.com/tonethar/IGME-230-Master/blob/master/notes/http-protocol-demo.md), highlight the request line, headers, and request/response, and then answer the review questions on the bottom of [https://github.com/tonethar/IGME-230-Master/tree/master/notes/http-protocol-intro.md](http-protocol-intro.md) together.
 - time allowing, create a *hello.html* page and post it to banjo (some students might have forgotten the FTP and permissions part of posting to banjo)
 
 
