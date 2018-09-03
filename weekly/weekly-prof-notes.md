@@ -6,14 +6,14 @@
     - create gradebook, give everyone 100% (5/5) in attendance
     - post link to syllabus and schedule to mycourses welcome page
     - add a "links" module (i.e. folder) to the Content section, and add a hypertext link (that opens in a new window) to [schedule.md](../schedule.md)
-    - email students welcoming them to the class, and send them the link to the course github repo, as well as the [Week 1A: Course Introduction](../weekly/Week-01A-notes.md) - request that they read this page and the [syllabus](syllabus.md) prior to attending class.
+    - email students welcoming them to the class, and send them the link to the course github repo, as well as the [Week 1A: Course Introduction](../weekly/week-01A-notes.md) - request that they read this page and the [syllabus](../syllabus.md) prior to attending class.
 - set up mycourses dropboxes for:
-  - [Custom 404 Authorization ICE](../exercises/week-1/Custom_404_Auth_start.zip)
-  - [PHP-1](php-1.md)
-  - [HW: php.ini](HW-php-ini.md)
-  - [PHP-2](php-2.md)
-  - [PHP-3](php-3.md)
-  - [HW: PHP "Fact of the Day"](HW-php-fact-of-the-day.md)
+  - [Custom 404 Authorization ICE](https://github.com/tonethar/IGME-230-Master/blob/master/exercises/week-1/Custom_404_Auth_start.zip)
+  - [PHP-1](https://github.com/tonethar/IGME-230-Master/blob/master/notes/php-1.md)
+  - [HW: php.ini](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-php-ini.md)
+  - [PHP-2](https://github.com/tonethar/IGME-230-Master/blob/master/notes/php-2.md)
+  - [PHP-3](https://github.com/tonethar/IGME-230-Master/blob/master/notes/php-3.md)
+  - [HW: PHP "Fact of the Day"](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-php-fact-of-the-day.md)
 - other sections can copy this content from one section on myCourses into other sections.
  
 ## Week 1
@@ -24,12 +24,12 @@
 - "Welcome to course"
 - review [syllabus.md](../syllabus.md)
 - review [schedule.md](../schedule.md)
-- Review [Week 1A: Course Introduction](../weekly/Week-01A-notes.md)
+- Review [Week 1A: Course Introduction](../weekly/week-01A-notes.md)
     - there is a lot here, the instructor will summarize it, and the students are expected to read it themselves
     - review what the course is about, and show a few examples of previous projects 
     - cover pedagogy and emphasize there will be many (small) HW assignments, so keep an eye on the dropboxes!
-    - review [http-protocol-intro.md](http-protocol-intro.md), discuss what a web server is, how you can program it (which we will do with .htaccess files next time, and PHP next week)
-    - do the [http-protocol-demo.md](http-protocol-demo.md), highlight the request line, headers, and request/response, and then answer the review questions on the bottom of [http-protocol-intro.md](http-protocol-intro.md) together.
+    - review [http-protocol-intro.md](https://github.com/tonethar/IGME-230-Master/blob/master/notes/http-protocol-intro.md), discuss what a web server is, how you can program it (which we will do with .htaccess files next time, and PHP next week)
+    - do the [http-protocol-demo.md](https://github.com/tonethar/IGME-230-Master/blob/master/notes/http-protocol-demo.md), highlight the request line, headers, and request/response, and then answer the review questions on the bottom of [https://github.com/tonethar/IGME-230-Master/blob/master/notes/http-protocol-intro.md](http-protocol-intro.md) together.
 - time allowing, create a *hello.html* page and post it to banjo (some students might have forgotten the FTP and permissions part of posting to banjo)
 
 
