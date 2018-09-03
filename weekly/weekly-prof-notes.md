@@ -33,22 +33,23 @@
 - time allowing, create a *hello.html* page and post it to banjo (some students might have forgotten the FTP and permissions part of posting to banjo)
 
 
-# Spring 2018 (2175)
-***Note: The content below is what we did last semester and is for reference. Most of the links below are broken!***
-
-
-
 ### Day 2 
 - "Anyone here who wasn't here last time?"
 - "Any questions from last time?"
 - recap HTTP protocol stuff from last time
-- Review [Week 1B - Review of banjo.rit.edu & FTP](../weekly/Week-01B-notes.md)
+- Review [Week 1B - Review of banjo.rit.edu & FTP](../weekly/week-01B-notes.md)
    - review *hello.html* and FTP (FileZilla or similar)
    - do .htaccess presentation
    - show a page like this one - https://people.rit.edu/~acjvks/ - that `ModPagespeed` is compressing the styles and JS
    - use the Chrome web inspector to show headers - including the `ModPagespeed` header
-   - walk through the [Fixing Banjo Exercise](../exercises/week-1/Fixing-Banjo.md) and then check the inspector to see that the `ModPagespeed` header is gone, and check the page to see that the styles and JS are no longer compressed 
-   - let the students work on the [Auth and htaccess PDF](../docs/Auth_and_htaccess.pdf) exercise
+   - walk through the [Fixing Banjo Exercise](https://github.com/tonethar/IGME-230-Master/blob/master/exercises/week-1/Fixing-Banjo.md) and then check the inspector to see that the `ModPagespeed` header is gone, and check the page to see that the styles and JS are no longer compressed 
+   - let the students work on the [Auth and htaccess PDF](https://github.com/tonethar/IGME-230-Master/blob/master/docs/Auth_and_htaccess.pdf) exercise
+
+
+# Spring 2018 (2175)
+***Note: The content below is what we did last semester and is for reference. Most of the links below are broken!***
+
+
 
 ## Week 2
 ### Day 1
