@@ -11,6 +11,7 @@
 - It can also be used for "Screen Scraping" - which is downloading and parsing web pages and other files
 - One of PHP's most powerful features is its support for a wide variety of databases
 - PHP also has support for talking to other web-related services using protocols such as LDAP, IMAP, SNMP, NNTP, POP3 and HTTP. This week we will use PHP to send email via a "Contact Us" form (which is the SMTP - "Simple Mail Transfer Protocol")
+- Many major content management systems (CMS) like Drupal, which are used very widely out in the real world, are written in PHP; being comfortable working with PHP code can be helpful when working with them. 
 
 ## III. Presentation
 
