@@ -2,7 +2,7 @@
 - This week we will continue to look at web server scripting, and will cover enough server-side programming (PHP) to make you dangerous :-)
 
 ## I. PHP - What is it?
-*PHP originally stood for **Personal Home Page**, but it now stands for the recursive "backronym" **PHP: Hypertext Preprocessor**. PHP code may be embedded into HTML code, or it can be used in combination with various web template systems, web content management systems, and web frameworks.* -- https://en.wikipedia.org/wiki/PHP
+*PHP originally stood for **Personal Home Page**, but it now stands for the recursive "backronym" **PHP HyperText Preprocessor**. PHP code may be embedded into HTML code, or it can be used in combination with various web template systems, web content management systems, and web frameworks.* -- https://en.wikipedia.org/wiki/PHP
 
 ## II. PHP - What can it do?
 *Anything. PHP is mainly focused on server-side scripting, so you can do anything any other CGI program can do, such as collect form data, generate dynamic page content, or send and receive cookies. But PHP can do much more.* - http://php.net/manual/en/intro-whatcando.php
