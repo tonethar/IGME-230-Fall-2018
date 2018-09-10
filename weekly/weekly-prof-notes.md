@@ -75,30 +75,28 @@
 - Time allowing, demo some debugging:
     - run a PHP script through the PHP parser on the command line to view the output. Also note how superglobals like `$_SERVER` don't exist in the command-line context
     - view the PHP error log at `abc1234/php_data/php.log`
-  
-  
-  
-# Spring 2018 (2175)
-***Note: The content below is what we did last semester and is for reference. Most of the links below are broken!***
 
 ## Week 3
 ### Day 1
 - PHP Wrap up:
-    - Demo the [File Lister Example](HW-php-file-lister.md)
+    - Demo the [File Lister Example](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-php-file-lister.md)
     - Demo the Homework:
-        - [php-3-HW.php](php-3-HW.php) - working with PHP associative arrays
-        - [php-4-HW.php](php-4-HW.php) - adding a field to the mail form - be sure to show XSS attack in Firefox when we comment out the `sanitizeString()` code
-        - [HW-php-fact-of-the-day.md](HW-php-fact-of-the-day.md) - random fact & fact of the day
+        - [php-3-HW.php](https://github.com/tonethar/IGME-230-Master/blob/master/notes/php-3.php) - working with PHP associative arrays
+        - [php-4-HW.php](https://github.com/tonethar/IGME-230-Master/blob/master/notes/php-4.php) - adding a field to the mail form - be sure to show XSS attack in Firefox when we comment out the `sanitizeString()` code
+        - [HW-php-fact-of-the-day.md](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-php-fact-of-the-day.md) - random fact & fact of the day
     - Any PHP questions?
  - Intro to HTML - much of this is review from 110:
-     - Weekly notes are here: [Week-03A-notes.md](../weekly/Week-03A-notes.md)
+     - Weekly notes are here: [Week-03A-notes.md](../weekly/week-03A-notes.md)
      - Go through at least one of the presentations - if you run out of time, the students can read the other one
      - Do the "It was a Dark & Stormy night" demo in class, by marking up the content and beginning to style it
 
 ### Day 2
 - Intro to CSS
-- Weekly notes are here: [Week-03B-notes.md](../weekly/Week-03B-notes.md)
+- Weekly notes are here: [Week-03B-notes.md](../weekly/week-03B-notes.md)
 - Finish "It was a Dark & Stormy night" demo in class - by adding styles
+
+# Spring 2018 (2175)
+***Note: The content below is what we did last semester and is for reference. Most of the links below are broken!***
 
 ## Week 4
 ### Day 1
