@@ -54,7 +54,7 @@ http://jigsaw.w3.org/css-validator/
 - attribute - `E[foo*="bar"] /* contains */`
 
 ## VIII. Exercises
-- [CSS Styling - Recipe ICE](https://github.com/tonethar/IGME-230-Master/tree/master/exercises/week-2/Recipe-ICE.zip)
+- [Basic Markup/CSS - Recipe](https://github.com/tonethar/IGME-230-Master/blob/master/exercises/week-3/recipe.md) - Note: This exercise was started last class.
 - [230 Home Page](https://github.com/tonethar/IGME-230-Master/tree/master/exercises/week-2/230-home-page.md)
 
 <hr><hr>
