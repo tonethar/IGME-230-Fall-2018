@@ -94,7 +94,7 @@ https://validator.w3.org/
 - [W3Schools](https://www.w3schools.com) - a reference for all things Web (HTML, CSS, JavaScript, etc.)
 
 ## X. Exercises
-- [Basic Markup/CSS - Creme Brulee](https://github.com/tonethar/IGME-230-Master/tree/master/exercises/week-2/creme-brulee/instructions.md)
+- [Basic Markup/CSS - Recipe](https://github.com/tonethar/IGME-230-Master/blob/master/exercises/week-3/recipe.md) - Note: This exercise covers material from both today and next class. If you want to work ahead, that's fine.
 - [230 Home Page](https://github.com/tonethar/IGME-230-Master/tree/master/exercises/week-2/230-home-page.md)
 
 <hr><hr>
