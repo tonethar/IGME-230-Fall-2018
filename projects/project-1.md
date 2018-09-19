@@ -1,6 +1,6 @@
 # Project 1 - Game Proposal Site
 ## I. Overview
-For project 3, you will be making a Web game or "experience." To get you started thinking about this early, for Project 1 you'll be building a site to promote and document a Web game project. For the purposes of project 1, don't worry too much about the scope of the game, or the fact that your specs will probably change. Just think about what you might want to make. (But when looking ahead to Project 3, when you actually have to build something, I suggest you keep an eye on the Web for what sorts of apps and games other people are making that are small enough in scope for you to build in the span of a few weeks.)
+For project 4, you will be making a Web game or "experience." To get you started thinking about this early, for Project 1 you'll be building a site to promote and document a Web game project. For the purposes of project 1, don't worry too much about the scope of the game, or the fact that your specs will probably change. Just think about what you might want to make. (But when looking ahead to Project 4, when you actually have to build something, I suggest you keep an eye on the Web for what sorts of apps and games other people are making that are small enough in scope for you to build in the span of a few weeks.)
 
 ## II. Requirements
 Location: The page will be located in the project1 directory in your 230 directory on Banjo. This means that the location of page on the web will be **`http://people.rit.edu/abc1234/230/project1/`** (where 'abc1234' is your RIT id), as shown below:
