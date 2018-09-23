@@ -45,9 +45,8 @@ Our demo today covers:
 - [CSS Transition Demo](https://github.com/tonethar/IGME-230-Master/tree/master/other-files/3B-Transition-demo-done.zip)
 
 ## Exercises
-- [Stylish Navigation](https://github.com/tonethar/IGME-230-Master/tree/master/exercises/week-3/ICE-3B-1.pdf)
-- [Stylish Navigation Start Files](https://github.com/tonethar/IGME-230-Master/tree/master/exercises/week-3/ICE-3B-1-start.zip)
-- [Transitions and Animations](https://github.com/tonethar/IGME-230-Master/tree/master/exercises/week-3/ICE-3B-2.pdf)
+- [Stylish Navigation](https://github.com/tonethar/IGME-230-Master/blob/master/exercises/week-5/stylish-nav.md)
+- [Stylish Navigation Start Files](https://github.com/tonethar/IGME-230-Master/blob/master/exercises/week-5/stylish-nav-start.zip)
 
 <hr><hr>
 
