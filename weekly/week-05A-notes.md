@@ -38,7 +38,7 @@ Our demo today covers:
 ## Presentations
 - [CSS Wrap-up](https://github.com/tonethar/IGME-230-Master/tree/master/presentations/CSS-Wrap-Up.pdf)
 - Intro to JavaScript Teaser:
-    - Quick review of [Intro to Web Applications](https://github.com/tonethar/IGME-230-Master/tree/master/notes/web-apps-0.md) - Project's 2 & 4 will be JavaScript focused
+    - Quick review of [Intro to Web Applications](https://github.com/tonethar/IGME-230-Master/tree/master/notes/web-apps-0.md) - Projects 2 & 4 will be JavaScript focused
 
 ## Demo
 - [CSS Layout Demos](https://github.com/tonethar/IGME-230-Master/tree/master/other-files/3B-CSS-Layout-Demos.zip)
