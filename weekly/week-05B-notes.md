@@ -27,7 +27,6 @@ You should have had some design in IGME-110 - here are some links to these previ
 - http://art.yale.edu
 - http://www.georgehutchins.com
 - http://www.dokimos.org/ajff/
-- http://heaven.internetarchaeology.org/heaven.html#bottom
 
 ## Presentations
 - [CRAP and Visual Design](https://github.com/tonethar/IGME-230-Master/tree/master/presentations/4A-CRAP.pdf)
