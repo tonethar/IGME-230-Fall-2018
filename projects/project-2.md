@@ -122,7 +122,7 @@ Your project will be graded on the following criteria:
 |  - HTML and CSS validate | |
 |  - CSS is primarily in a single external stylesheet | |
 |  - Makes proper use of structural tags, etc. | |
-|  - *Image dimensions and/or file size unnecessarily large* | *(-10)* |
+|  - *Image dimensions and/or file size unnecessarily large* | *(-5)* |
 | **Code**  | **10** | |
 |  - Code is well formatted and commented, is located in an external JavaScript file, and follows coding standards | |
 | **Documentation** | **10** | |
