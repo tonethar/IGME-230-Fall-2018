@@ -1,4 +1,4 @@
-# Project 2 - Web Service Application (DRAFT)
+# Project 2 - Web Service Application
 
 ## I. Overview
 
