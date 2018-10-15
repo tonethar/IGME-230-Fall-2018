@@ -3,17 +3,14 @@
 ## I. Overview
 
 For this project you (and optionally a partner) are creating a JavaScript driven Web application that utilizes a Web service.
-- Your goal is to create an interactive HTML5 Media Experience or DOM Game that is easy to use, functional, and aesthetically pleasing.
-
+- Your goal is to create an application that is easy to use, functional, and aesthetically pleasing.
 - Ideally the experience will run in all modern browsers, but at a bare minimum it must run in recent versions of Chrome.
-
 - The objective of this project is for you to demonstrate your mastery of HTML5/CSS/JS programming in a rich media context. 
-
 - You will be evaluated on:
     - your creativity
     - the quality of the experience you create
     - the soundness of your programming
-    - how far you went beyond what we did in class, as described below.
+    - how far you went beyond what we did in class, as described below
     
 - Resources:
     - Our entire Web apps series: [Web Apps 0 - About this Web App Tutorial Series](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-0.md)
