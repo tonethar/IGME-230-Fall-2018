@@ -25,10 +25,14 @@ For this project you (and optionally a partner) are creating a JavaScript driven
 ### A. Functional
 1. Your application will utilize a web service from this list:
     - https://github.com/toddmotto/public-apis
-        - try to use an API that supports *CORS* (Cross-origin resource sharing)
+        - try to use an API that supports *CORS* (Cross-origin resource sharing) - if the API says **NO** in the **CORS** column then if will definitely NOT work for this project
         - do NOT use any API that requires *OAuth* authentication
         - if an API requires an API Key, be sure that there is a "free tier", and that the API does not have a short trial period
-    - ...
+    - You may also use an API from this list if you wish (although these have not been as extensively curated):
+      - https://github.com/abhishekbanthia/Public-APIs
+    - Here are the APIs that you MAY NOT use for this project:
+      - Giffy
+      - iTunes
 2. You will save the last term searched by the user in the browser local storage - this was covered here: [Web Apps 9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md)
 3. There will be no JavaScript errors or exceptions thrown by the app.
 
