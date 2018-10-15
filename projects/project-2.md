@@ -25,7 +25,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
         - try to use an API that supports *CORS* (Cross-origin resource sharing) - if the API says **NO** in the **CORS** column then it will definitely **NOT work** for this project
         - **DO NOT** use any API that requires *OAuth* authentication
         - if an API requires an API Key, be sure that there is a "free tier", and that the API does not have a short trial period
-    - You may also use an API from this list if you wish (although these have not been as extensively curated):
+    - You may optionally utilize an API from this list (although these have not been as extensively curated):
       - https://github.com/abhishekbanthia/Public-APIs
     - Here are the "Blacklisted" APIs that you **MAY NOT** use for this project:
       - Any API from GIPHY - https://developers.giphy.com/docs/
@@ -44,8 +44,8 @@ For this project you (and optionally a partner) are creating a JavaScript driven
 So you will need at least one additional kind of control. What kind of control to use depends on what parameters the web service will allow you to search it on. Here are some ideas:
   - a **rating** pulldown - if we had this on the GIPHY HW then a user would be able to choose between viewing "G" and "PG" videos for example
   - a **sort by** pulldown to allow the user to view the results sorted A->Z, Z->A, by date, etc 
-  - a **date** chooser to filter the results by date - jQuery has a Datepicker Widget -> https://jqueryui.com/datepicker/
-  - **next** and **previous** buttons - another really nice option is to allow the use to "page" through large numbers of results. In the GIPHY HW did you notice that we always get the same 100 "cat" GIFs back when we search? This is because there are thousands of cat GIFS, and if we don't otherwise specify we will always get them back starting at index 0, which means we always get the first 100 (index 0-99) back. We can instead write code that requests a higher starting index. In the GIPHY API this is done by tracking and adding a `offset` value to the query string. 
+  - a **date** chooser to filter the results by date - jQuery has a Datepicker Widget that would help with this -> https://jqueryui.com/datepicker/
+  - **next** and **previous** buttons - another really nice option is to allow the use to "page" through large numbers of results. In the GIPHY HW did you notice that we always get the same 100 "cat" GIFs back when we search? This is because there are **thousands** of cat GIFs on GIPHY, and if we don't otherwise specify we will always get them back starting at index 0, which means we always get the first 100 (index 0-99) back. We can instead write code that requests a higher starting index. In the GIPHY API this can be done by tracking and adding a `offset` value to the query string that is sent over to the API.
 
 4. Finally, there will be no JavaScript errors or exceptions thrown by the app.
 
