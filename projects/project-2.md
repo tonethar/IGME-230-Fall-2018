@@ -25,12 +25,12 @@ For this project you (and optionally a partner) are creating a JavaScript driven
 ### A. Functional
 1. Your application will utilize a web service from this list:
     - https://github.com/toddmotto/public-apis
-        - try to use an API that supports *CORS* (Cross-origin resource sharing) - if the API says **NO** in the **CORS** column then it will definitely NOT work for this project
-        - do NOT use any API that requires *OAuth* authentication
+        - try to use an API that supports *CORS* (Cross-origin resource sharing) - if the API says **NO** in the **CORS** column then it will definitely **NOT work** for this project
+        - **DO NOT** use any API that requires *OAuth* authentication
         - if an API requires an API Key, be sure that there is a "free tier", and that the API does not have a short trial period
     - You may also use an API from this list if you wish (although these have not been as extensively curated):
       - https://github.com/abhishekbanthia/Public-APIs
-    - Here are the "Blacklisted" APIs that you MAY NOT use for this project:
+    - Here are the "Blacklisted" APIs that you **MAY NOT** use for this project:
       - Any API from GIPHY - https://developers.giphy.com/docs/
       - The iTunes Search API - https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
 - **Important note:** Most of the "sports score" APIs have strict rate limits and/or short trial periods. In the past, most students attempting to use these APIs on their projcts ended up having to chnage their project idea to something else at the last minute. Use these APIs at your own risk.
