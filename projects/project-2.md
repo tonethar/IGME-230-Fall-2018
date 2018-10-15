@@ -36,6 +36,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
 - **Important note:** Most of the "sports score" APIs have strict rate limits and/or short trial periods. In the past, most students attempting to use these APIs on their projcts ended up having to chnage their project idea to something else at the last minute. Use these APIs at your own risk.
 
 2. You will save the last term searched by the user in the browser local storage - this was covered here: [Web Apps 9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md)
+
 3. Required controls - there will be a MINIMUM of 3 controls that a user can use to filter and display the results. Search buttons or similar don't count towards the 3 controls. For example, GIF Finder has these controls:
 - a search button (which doesn't count)
 - a search term field (&lt;input>) that the user types into
@@ -43,7 +44,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
 
 So you will need at least one additional kind of control - ideas:
 - a **rating** pulldown - if we had this on the GIPHY HW then a user would be able to choose between viewing "G" and "PG" videos for example
-- a **sort by** pulldown to allow the user to view results A->Z, Z-A, by date, etc 
+- a **sort by** pulldown to allow the user to view the results sorted A->Z, Z->A, by date, etc 
 - a **date** chooser to filter the results by date - jQuery has a Datepicker Widget -> https://jqueryui.com/datepicker/
 - **next** and **previous** buttons - another really nice option is to allow the use to "page" through large numbers of results. In the GIPHY HW did you notice that we always get the same 100 "cat" GIFs back when we search? This is because there are thousands of cat GIFS, and if we don't otherwise specify we will always get them back starting at index 0, which means we always get the first 100 (index 0-99) back. We can instead write code that requests a higher starting index. In the GIPHY API this is done by the `offset` value to the query string. 
 
