@@ -65,7 +65,7 @@ So you will need at least one additional kind of control. What kind of control t
   - for example, if the user forgets to type in a search term before clicking the Search button, the app should tell the user something like "Please enter a search term first"
 - Users must know what *state* the app is in at all times:
   - for example, when they click the search button, there should some indication that a search is happening:
-    - a "spinner" or other "indeterminate progress" animation
+    - a "spinner" or other "indeterminate progress" animation - [Google search "indeterminate progress"](https://www.google.com/search?q=indeterminate+progress&client=safari&rls=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj-sNCal4neAhVr34MKHWKqA98Q_AUIDigB&biw=1036&bih=583)
     - text that says "Searching for 'Tacos' near you" and so on
 - While the app doesn't need to be fully responsive, it should look good on a range of displays. For example, don't design it just to work on your huge 24" screen at home (as I'll be grading it on a laptop with a much smaller screen). The main controls of the application must fit in a 1024x768 window.
 - You are allowed and encouraged to use a CSS framework for this project - see below!
