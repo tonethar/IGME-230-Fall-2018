@@ -114,7 +114,7 @@ Your project will be graded on the following criteria:
 |  - Visual design is pleasing | |
 |  - Interface is clear and well labeled | |
 |  - Prevents and handles errors well | |
-|  - Interface looks like GIPHY HW | | *-10*
+|  - Interface looks like GIPHY HW | *-10* |
 | **HTML/CSS/Media**  | **10** | |
 |  - HTML and CSS validate | |
 |  - CSS is primarily in a single external stylesheet | |
