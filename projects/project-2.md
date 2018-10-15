@@ -41,6 +41,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
 - Widgets are well labeled
 - User should be able to figure out how to use the app with minimal instruction (and be sure to provide instruction and tooltips if necessary!), and user errors are handled gracefully.
 - While it doesn't need to be responsive, it should look good on a range of displays; don't design it just to work on your huge 24" screen at home (as I'll be grading it on my MacBook with a much smaller screen). The main controls of the application must fit in a 800x600 window.
+- You are allowed and encouraged to use a CSS framework for this project - see below
 
 ### C. HTML/CSS
 - Valid HTML5 - https://validator.w3.org
