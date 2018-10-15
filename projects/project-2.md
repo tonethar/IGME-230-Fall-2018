@@ -129,7 +129,9 @@ Your project will be graded on the following criteria:
 |  - Makes proper use of structural tags, etc. | |
 |  - *Image dimensions and/or file size unnecessarily large* | *(-5)* |
 | **Code**  | **10** | |
-|  - Code is well formatted and commented, is located in an external JavaScript file, and follows coding standards | |
+|  - Code is well formatted and commented | |
+|  - Code is located in an external JavaScript file | |
+|  - Code follows coding standards detailed above | |
 | **Documentation** | **10** | |
 | **Above and Beyond (see below)** | **10** | |
 | **Possible Total Points** | **100** | |
