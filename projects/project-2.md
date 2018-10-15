@@ -34,7 +34,8 @@ For this project you (and optionally a partner) are creating a JavaScript driven
       - Giffy - https://developers.giphy.com/docs/
       - iTunes - https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
 2. You will save the last term searched by the user in the browser local storage - this was covered here: [Web Apps 9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md)
-3. There will be no JavaScript errors or exceptions thrown by the app.
+3. 
+4. There will be no JavaScript errors or exceptions thrown by the app.
 
 ### B. Design & Interaction
 - Pleasing graphic design
