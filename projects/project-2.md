@@ -68,7 +68,7 @@ So you will need at least one additional kind of control. What kind of control t
     - a "spinner" or other "indeterminate progress" animation
     - text that says "Searching for 'Tacos' near you" and so on
 - While the app doesn't need to be fully responsive, it should look good on a range of displays. For example, don't design it just to work on your huge 24" screen at home (as I'll be grading it on a laptop with a much smaller screen). The main controls of the application must fit in a 800x600 window.
-- You are allowed and encouraged to use a CSS framework for this project - see below
+- You are allowed and encouraged to use a CSS framework for this project - see below!
 
 ### C. HTML/CSS & Media
 - Valid HTML5 - https://validator.w3.org
@@ -84,6 +84,7 @@ So you will need at least one additional kind of control. What kind of control t
 
 
 ### D. Code Conventions
+- All code is an external JavaScript file - inline event handlers are not allowed
 - `let` and `const` must be used to declare variables (no `var`!)
 - `querySelector()` and `querySelectorAll()` must be used for DOM traversal (DO NOT use the older methods)
 - D.R.Y. - Don't Repeat Yourself. Repeated blocks of nearly identical code must be factored out and placed in a separate function.
@@ -111,7 +112,7 @@ Your project will be graded on the following criteria:
 |  - Demonstrates creativity | |
 |  - Runs without errors | |
 |  - *Does not remember last search term* | *(-10)* |
-|  - *Missing controls* | *(-10 each)* |
+|  - *Missing controls* | *(-15 each)* |
 | **Design & Interaction** | **20** | |
 |  - Visual design is pleasing | |
 |  - Interface is clear and well labeled | |
@@ -124,7 +125,7 @@ Your project will be graded on the following criteria:
 |  - CSS is primarily in a single external stylesheet | |
 |  - Makes proper use of structural tags, etc. | |
 | **Code**  | **10** | |
-|  - Code is well formatted and commented, and follows coding standards | |
+|  - Code is well formatted and commented, is located in an external JavaScript file, and follows coding standards | |
 | **Documentation** | **10** | |
 | **Above and Beyond (see below)** | **10** | |
 | **Possible Total Points** | **100** | |
