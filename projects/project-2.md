@@ -67,7 +67,7 @@ So you will need at least one additional kind of control. What kind of control t
   - for example, when they click the search button, there should some indication that a search is happening:
     - a "spinner" or other "indeterminate progress" animation
     - text that says "Searching for 'Tacos' near you" and so on
-- While the app doesn't need to be fully responsive, it should look good on a range of displays. For example, don't design it just to work on your huge 24" screen at home (as I'll be grading it on my MacBook with a much smaller screen). The main controls of the application must fit in a 800x600 window.
+- While the app doesn't need to be fully responsive, it should look good on a range of displays. For example, don't design it just to work on your huge 24" screen at home (as I'll be grading it on a laptop with a much smaller screen). The main controls of the application must fit in a 800x600 window.
 - You are allowed and encouraged to use a CSS framework for this project - see below
 
 ### C. HTML/CSS & Media
@@ -115,8 +115,10 @@ Your project will be graded on the following criteria:
 | **Design & Interaction** | **20** | |
 |  - Visual design is pleasing | |
 |  - Interface is clear and well labeled | |
+|  - The *state* the application is in is obvious | |
 |  - Prevents and handles errors well | |
 |  - *Interface looks like GIPHY HW* | *(-10)* |
+|  - *Interface "broken" at 1024x768 or lower resolutions* | *(-10)* |
 | **HTML/CSS/Media**  | **10** | |
 |  - HTML and CSS validate | |
 |  - CSS is primarily in a single external stylesheet | |
