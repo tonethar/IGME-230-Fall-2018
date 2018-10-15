@@ -42,6 +42,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
     - a pulldown (&lt;select>) that the user can use to limit the number of results
 
   -  **So you will need at least one additional kind of control. What kind of control to use depends on what parameters the web service will allow you to search it on. Here are some ideas:**
+  
     - a **rating** pulldown - if we had this on the GIPHY HW then a user would be able to choose between viewing "G" and "PG" videos for example
     - a **sort by** pulldown to allow the user to view the results sorted A->Z, Z->A, by date, etc 
     - a **date** chooser to filter the results by date - jQuery has a Datepicker Widget that would help with this -> https://jqueryui.com/datepicker/
