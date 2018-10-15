@@ -17,6 +17,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
     
 - Resources:
     - Our Web apps series: [Web Apps 0 - About this Web App Tutorial Series](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-0.md)
+    - [Web Apps 10 - Web Services](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-10.md)
     - [GIF Finder HW](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-gif-finder.md) covers most of what you need to know
     - https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
@@ -25,40 +26,59 @@ For this project you (and optionally a partner) are creating a JavaScript driven
 ### A. Functional
 1. Your application will utilize a web service from this list:
     - https://github.com/toddmotto/public-apis
-        - try to use an API that supports *CORS* (Cross-origin resource sharing) - if the API says **NO** in the **CORS** column then if will definitely NOT work for this project
+        - try to use an API that supports *CORS* (Cross-origin resource sharing) - if the API says **NO** in the **CORS** column then it will definitely NOT work for this project
         - do NOT use any API that requires *OAuth* authentication
         - if an API requires an API Key, be sure that there is a "free tier", and that the API does not have a short trial period
     - You may also use an API from this list if you wish (although these have not been as extensively curated):
       - https://github.com/abhishekbanthia/Public-APIs
     - Here are the "Blacklisted" APIs that you MAY NOT use for this project:
-      - Giffy - https://developers.giphy.com/docs/
-      - iTunes - https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
+      - Any API from Giffy - https://developers.giphy.com/docs/
+      - The iTunes Search API - https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
+- **Important note:** Most of the "sports score" APIs have strict rate limits and/or short trial periods. In the past, most students attempting to use these APIs on their projcts ended up having to chnage their project idea to something else at the last minute. Use these APIs at your own risk.
+
 2. You will save the last term searched by the user in the browser local storage - this was covered here: [Web Apps 9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md)
-3. 
+3. Required controls - there will be a MINIMUM of 3 controls that a user can use to filter and display the results. Search buttons or similar don't count towards the 3 controls. For example, GIF Finder has these controls:
+- a search button (which doesn't count)
+- a search term field (&lt;input>) that the user types into
+- a pulldown (&lt;select>) that the user can use to limit the number of results
+
+So you will need at least one additional kind of control - ideas:
+- a **rating** pulldown
+
 4. There will be no JavaScript errors or exceptions thrown by the app.
 
 ### B. Design & Interaction
-- Pleasing graphic design
-- Widgets are well labeled
-- User should be able to figure out how to use the app with minimal instruction (and be sure to provide instruction and tooltips if necessary!), and user errors are handled gracefully.
-- While it doesn't need to be responsive, it should look good on a range of displays; don't design it just to work on your huge 24" screen at home (as I'll be grading it on my MacBook with a much smaller screen). The main controls of the application must fit in a 800x600 window.
+- Pleasing graphic design:
+  - with a custom interface coded in HTML/CSS, by you
+  - this interface does not resemble the Giffy homework's UI
+- Widgets are well labeled and follow interface conventions, for example:
+  - radio buttons are for mutually exclusive options, checkboxes are for when you want to let the user choose *multiple* options - https://delib.zendesk.com/hc/en-us/articles/203430309-Radio-button-vs-checkbox-what-s-the-difference-
+  
+- Most users should be able to figure out how to use the app with minimal instruction:
+  - be sure to provide instruction and tooltips if necessary
+- User errors must be handled gracefully:
+  - for example, if the user forgets to type in a search term before clicking the Search button, the app should tell the user something like "Please enter a search term first"
+- Users must know what *state* the app is in at all times:
+  - for example, when they click the search button, there should some indication that a search is happening:
+    - a "spinner" or other "indeterminate progress" animation
+    - text that says "Searching for 'Tacos' near you" and so on
+- While the app doesn't need to be fully responsive, it should look good on a range of displays. For example, don't design it just to work on your huge 24" screen at home (as I'll be grading it on my MacBook with a much smaller screen). The main controls of the application must fit in a 800x600 window.
 - You are allowed and encouraged to use a CSS framework for this project - see below
 
-### C. HTML/CSS
+### C. HTML/CSS & Media
 - Valid HTML5 - https://validator.w3.org
 - Valid CSS - https://jigsaw.w3.org/css-validator/
 - Most CSS is in an external style sheet.
 - Use HTML5 semantic and structural elements where practical.
+- Images are properly optimized for Web delivery.
 - you ARE allowed to use CSS frameworks on the UI for this (and future) projects, such as:
     - http://getbootstrap.com
     - http://materializecss.com
     - https://purecss.io
     - https://github.com/troxler/awesome-css-frameworks
 
-### D. Media
-- Images are properly optimized for Web delivery.
 
-### E. Code Conventions
+### D. Code Conventions
 - `let` and `const` must be used to declare variables (no `var`!)
 - `querySelector()` and `querySelectorAll()` must be used for DOM traversal (DO NOT use the older methods)
 - D.R.Y. - Don't Repeat Yourself. Repeated blocks of nearly identical code must be factored out and placed in a separate function.
