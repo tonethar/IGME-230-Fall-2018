@@ -30,7 +30,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
     - Here are the "Blacklisted" APIs that you **MAY NOT** use for this project:
       - Any API from GIPHY - https://developers.giphy.com/docs/
       - The iTunes Search API - https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
-- **Important note:** Most of the "sports score" APIs have strict rate limits and/or short trial periods. In the past, most students attempting to use these APIs on their projcts ended up having to chnage their project idea to something else at the last minute. Use these APIs at your own risk.
+- **Important note:** Most of the "sports score" APIs have strict rate limits and/or short trial periods. In the past, most students attempting to use these APIs on their projects ended up having to change their project idea to something else at the last minute. Use such APIs at your own risk.
 
 2. You will save the last term searched by the user in the browser local storage - this was covered here: [Web Apps 9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md):
     - we are going to test this capability by typing in a search term, doing a search, and then closing the browser window. When we re-open the window, the user's last search term should still be in the field.
