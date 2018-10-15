@@ -121,7 +121,7 @@ Your project will be graded on the following criteria:
 |  - Standard interface conventions followed | |
 |  - The *state* the application is in is obvious | |
 |  - Prevents and handles errors well | |
-|  - *Interface looks like GIPHY HW* | *(-10)* |
+|  - *Interface looks like GIF Finder HW* | *(-10)* |
 |  - *Interface "broken" at 1024x768 or lower resolutions* | *(-10)* |
 | **HTML/CSS/Media**  | **10** | |
 |  - HTML and CSS validate | |
