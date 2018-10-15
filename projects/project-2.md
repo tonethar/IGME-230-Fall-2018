@@ -30,9 +30,9 @@ For this project you (and optionally a partner) are creating a JavaScript driven
         - if an API requires an API Key, be sure that there is a "free tier", and that the API does not have a short trial period
     - You may also use an API from this list if you wish (although these have not been as extensively curated):
       - https://github.com/abhishekbanthia/Public-APIs
-    - Here are the APIs that you MAY NOT use for this project:
-      - Giffy
-      - iTunes
+    - Here are the "Blacklisted" APIs that you MAY NOT use for this project:
+      - Giffy - https://developers.giphy.com/docs/
+      - iTunes - https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
 2. You will save the last term searched by the user in the browser local storage - this was covered here: [Web Apps 9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md)
 3. There will be no JavaScript errors or exceptions thrown by the app.
 
@@ -58,12 +58,12 @@ For this project you (and optionally a partner) are creating a JavaScript driven
 - Images are properly optimized for Web delivery.
 
 ### E. Code Conventions
-- `let` and `const` (no `var`!)
-- `querySelector()` and `querySelectorAll()` for DOM traversal (DO NOT use the older methods)
-- D.R.Y. - Don't Repeat Yourself. Repeated blocks of nearly identical code should be factored out and placed in a separate function.
+- `let` and `const` must be used to declare variables (no `var`!)
+- `querySelector()` and `querySelectorAll()` must be used for DOM traversal (DO NOT use the older methods)
+- D.R.Y. - Don't Repeat Yourself. Repeated blocks of nearly identical code must be factored out and placed in a separate function.
 - Variable and function names must begin with a lowercase letter.
 - Well-commented code. Each and every function gets a comment indicating what it does.
-- Delete or comment out your `console.log()` calls.
+- Delete or comment out any `console.log()` calls.
 
 ## III. Milestones
 - Project proposal with mockup - see myCourses for due date/time. One submission per team please. Make sure both team members' names are included.
