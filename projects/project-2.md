@@ -56,11 +56,11 @@ For this project you (and optionally a partner) are creating a JavaScript driven
 ### B. Design & Interaction
 - Pleasing graphic design:
   - with a custom interface coded in HTML/CSS, by you
-  - this interface does not resemble the Giffy homework's UI
+  - this interface does not resemble the GIPHY homework's UI
 - Widgets are well labeled and follow interface conventions, for example:
   - radio buttons are for mutually exclusive options, checkboxes are for when you want to let the user choose *multiple* options - https://delib.zendesk.com/hc/en-us/articles/203430309-Radio-button-vs-checkbox-what-s-the-difference-
   
-- Most users should be able to figure out how to use the app with minimal instruction:
+- Users should be able to figure out how to use the app with minimal instruction:
   - be sure to provide instruction and tooltips if necessary
 - User errors must be handled gracefully:
   - for example, if the user forgets to type in a search term before clicking the Search button, the app should tell the user something like "Please enter a search term first"
@@ -141,7 +141,7 @@ Note:
 
 ## VI. Submission
 - ZIP and post the completed project and documentation page to to the mycourses dropbox
-- Post the project to banjo and link it from your 230 home page
+- Post the project to Banjo and link it from your 230 home page
 
 <hr><hr>
 
