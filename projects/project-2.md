@@ -16,9 +16,8 @@ For this project you (and optionally a partner) are creating a JavaScript driven
     - how far you went beyond what we did in class, as described below.
     
 - Resources:
-    - Our Web apps series: [Web Apps 0 - About this Web App Tutorial Series](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-0.md)
-    - [Web Apps 10 - Web Services](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-10.md)
-    - [GIF Finder HW](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-gif-finder.md) covers most of what you need to know
+    - Our entire Web apps series: [Web Apps 0 - About this Web App Tutorial Series](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-0.md)
+   - This HW pulls together most of what you need to know into a working example -> [GIF Finder HW](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-gif-finder.md) 
     - https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 ## II. Requirements
@@ -32,7 +31,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
     - You may also use an API from this list if you wish (although these have not been as extensively curated):
       - https://github.com/abhishekbanthia/Public-APIs
     - Here are the "Blacklisted" APIs that you MAY NOT use for this project:
-      - Any API from Giffy - https://developers.giphy.com/docs/
+      - Any API from GIPHY - https://developers.giphy.com/docs/
       - The iTunes Search API - https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
 - **Important note:** Most of the "sports score" APIs have strict rate limits and/or short trial periods. In the past, most students attempting to use these APIs on their projcts ended up having to chnage their project idea to something else at the last minute. Use these APIs at your own risk.
 
@@ -43,9 +42,12 @@ For this project you (and optionally a partner) are creating a JavaScript driven
 - a pulldown (&lt;select>) that the user can use to limit the number of results
 
 So you will need at least one additional kind of control - ideas:
-- a **rating** pulldown
+- a **rating** pulldown - if we had this on the GIPHY HW then a user would be able to choose between viewing "G" and "PG" videos for example
+- a **sort by** pulldown to allow the user to view results A->Z, Z-A, by date, etc 
+- a **date** chooser to filter the results by date - jQuery has a Datepicker Widget -> https://jqueryui.com/datepicker/
+- another really nice option is to allow the use to "page" through large numbers of results with "next" and "previous" buttons. In the GIPHY HW did you notice that we always get the same 100 "cat" GIFs back when we search? This is because there are thousands of cat GIFS, and if we don't otherwise specify we will always get them back starting at index 0. We can instead write code that requests a higher starting index in the GIPHY API this is done by the `offset` value to the query string. 
 
-4. There will be no JavaScript errors or exceptions thrown by the app.
+4. Finally, there will be no JavaScript errors or exceptions thrown by the app.
 
 ### B. Design & Interaction
 - Pleasing graphic design:
