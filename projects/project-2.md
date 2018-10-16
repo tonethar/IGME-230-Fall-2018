@@ -28,6 +28,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
         - if an API requires an API Key, be sure that there is a "free tier", and that the API does not have a short trial period
     - You may optionally utilize an API from this list (although these have not been as extensively curated):
       - https://github.com/abhishekbanthia/Public-APIs
+    - Finally, these APIs will definitely work, and there is code to get you started (although you are not allowed to use the GIPHY API for this project): [web-service-app-starters.md)](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-service-app-starters.md)
     - Here are the "Blacklisted" APIs that you **MAY NOT** use for this project:
       - Any API from GIPHY - https://developers.giphy.com/docs/
       - The iTunes Search API - https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
