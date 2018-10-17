@@ -15,7 +15,7 @@
 Also remember that the proposal for Project 2 is due soon. For the proposal, submit a PDF containing the following:
 
 - Your name and team member's name - one posting per team (a partner is optional but encouraged)
-- What kind of project you would like to build - be as specific as you can: Web Service App (which service?) or DOM Game (what kind of game)
+- What Web service aer you using and what functionality do you want to implement?
 - Project requirements are here: [project-2.md](../projects/project-2.md)
 - You can see project 2 examples from last semester here: [week-01A-notes.md#project2](./week-01A-notes.md#project2)
 
