@@ -121,7 +121,7 @@ For the midterm exam, you will be responsible for the first 5 parts of this web 
 - **Be able to write some JavaScript from memory!**
 
 You can access all of these web app tutorial pages from here: 
-[https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-0.md](./web-apps-0.md)
+[https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-0.md](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-0.md)
 
 
 ## L. Sample *short answer* questions
