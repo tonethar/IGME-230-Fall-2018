@@ -83,7 +83,7 @@ For the exam, be able to write complete CSS rules from memory.
 1. Give at least 3 properties of the "box" that we can set (other than margin and padding).
 1. What is the HTML tag used to connect to an external CSS file or an embedded font?
 1. What is the CSS property we use to define whether/how quickly a property will animate when changed?
-1. Be familiar with the [box model and advanced CSS selectors shown here](../weekly/Week-03B-notes.md)
+1. Be familiar with the [box model and advanced CSS selectors shown here](../weekly/week-03B-notes.md)
 
 
 ## G. CSS Rollovers
