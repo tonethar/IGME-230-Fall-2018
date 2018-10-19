@@ -23,8 +23,8 @@ Below are some example questions - **these are not exhaustive of what can and wi
 1. Give two ways to verify that we have successfully "turned off" banjo's PageSpeed module.
 1. How many .htaccess files can you have in a single folder?
 1. Suppose you upload a .htaccess file containing directives into your `www` folder. Which folder(s) would be affected by the file?
-1. Also see HTTP protocol notes and questions here: [http-protocol-intro.md](./http-protocol-intro.md)
-1. Also see HTTP demo notes here: [http-protocol-demo.md](./http-protocol-demo.md)
+1. Also see HTTP protocol notes and questions here: [http-protocol-intro.md](https://github.com/tonethar/IGME-230-Master/blob/master/notes/http-protocol-intro.md)
+1. Also see HTTP demo notes here: [http-protocol-demo.md](https://github.com/tonethar/IGME-230-Master/blob/master/notes/http-protocol-demo.md)
 
 ## B. FTP
 1. Give the name (address) of the `http://people.rit.edu` web server (that you FTP files to).
@@ -32,7 +32,7 @@ Below are some example questions - **these are not exhaustive of what can and wi
 1. What are the numeric permissions that are required for web viewable *files*?
 
 ## C. PHP
-- See review questions for all 4 PHP chapters: [About this PHP Tutorial Series](./php-0.md)
+- See review questions for all 4 PHP chapters: [About this PHP Tutorial Series](https://github.com/tonethar/IGME-230-Master/blob/master/notes/php-0.md)
 
 ## D. Intro To Web
 1. Describe the 4 *layers* (or *pillars*) of web design.
@@ -110,18 +110,18 @@ For the exam, be able to write complete CSS rules from memory.
 ## K. Introduction to Web Applications
 For the midterm exam, you will be responsible for the first 5 parts of this web apps series:
 
-1. [Introduction to Web Applications](web-apps-1.md)
-2. [Introduction to JavaScript](web-apps-2.md)
-3. [Introduction to the Web Browser DOM](web-apps-3.md)
-4. [More Web Browser DOM Methods](web-apps-4.md)
-5. [JavaScript Functions](web-apps-5.md)
+1. [Introduction to Web Applications](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-1.md)
+2. [Introduction to JavaScript](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-2.md)
+3. [Introduction to the Web Browser DOM](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-3.md)
+4. [More Web Browser DOM Methods](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-4.md)
+5. [JavaScript Functions](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-5.md)
 
 
 - **Be sure to focus on the Discussion/Review sections and their questions for each of the 5 above pages!**
 - **Be able to write some JavaScript from memory!**
 
 You can access all of these web app tutorial pages from here: 
-[web-apps-0.md](./web-apps-0.md)
+[https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-0.md](./web-apps-0.md)
 
 
 ## L. Sample *short answer* questions
