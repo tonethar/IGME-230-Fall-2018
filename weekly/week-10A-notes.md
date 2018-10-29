@@ -62,6 +62,7 @@ Implementation:
 ## VII. Helpful Exercises
 - [CSS Frameworks](https://github.com/tonethar/IGME-230-Master/tree/master/exercises/week-11/frameworks-ice.md) - this is an extra credit exercise (see dropbox)
 - [Lynda.com Bootstrap Tutorial](https://www.lynda.com/Bootstrap-tutorials/What-well-build/186538/371577-4.html) - this takes about 2 hours, and walks you through creating a template that you can build on when creating your portfolio mini-project.
+-- Don't forget you can access Lynda for free from http://infoguides.rit.edu/lynda
 - [Lynda.com Skeleton Tutorial](https://www.lynda.com/CSS-tutorials/Welcome/372808/413142-4.html) - another nice option, with a slightly simpler layout.
 
 ## VIII. Demo/Exercise
