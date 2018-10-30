@@ -12,7 +12,6 @@ Having an online portfolio you can share with potential employers is very import
 - http://www.katiepustolski.com/
 - http://dougwatro.com/
 - https://www.awwwards.com/websites/portfolio/
-- [Some examples from previous semester's we showed you day 1](./Week-01A-notes.md#section5)
 
 ## III. Discussion - *What do you put in your portfolio?*
 1. For the portfolio mini project, you are going to utilize templates to create a web portfolio that showcases your work to potential employers. 
