@@ -1,4 +1,4 @@
-# Week 12 - Intro to PixiJS
+# Intro to PixiJS
 
 ## Overview
 This week we will be getting ready for *Project 4: the Sprite-based Game* by looking at [PixiJS](http://www.pixijs.com), which is a high performance 2D rendering library that can be used to create games and interactive experiences in a web browser. 
