@@ -1,4 +1,4 @@
-# Week 13 - More PixiJS
+# More PixiJS
 
 ## I. Overview
 This week we will continue working with PixiJS, and complete our game HW, *Circle Blast!*, in preparation for the final project.
