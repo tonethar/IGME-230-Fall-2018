@@ -74,7 +74,6 @@ Some other examples are here:
 ## 5. Technology Requirements
 - Semantic, valid HTML
 - Well-structured, valid CSS
-[comment] (- Passes WAVE accessibility evaluation without significant errors )
 - Semantic HTML
 - Images and other media are properly optimized (both file size, image format, and image dimensions) for screen display
 
