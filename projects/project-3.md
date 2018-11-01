@@ -123,7 +123,7 @@ Properly optimized media | 1 |
 ## 11. Examples
 
 ### A. Student Work
-- [Some examples from previous semester's we showed you day 1](../weekly/Week-01A-notes.md#section5)
+- [Some examples from previous semester's we showed you day 1](../weekly/week-01A-notes.md#vi-projects-and-other-stuff-for-inspiration)
 
 ### B. http://www.adhamdannaway.com
 ![http://www.adhamdannaway.com](images/dannaway.jpg)
