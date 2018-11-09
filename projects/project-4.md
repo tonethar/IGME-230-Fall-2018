@@ -7,7 +7,7 @@
 - You will be updating/re-writing your web site from Project 1 to reflect the game/experience you intend to create (in other words, you are allowed to change your original idea)
 - If you would like to see examples of previous projects, check out the Project 4 links on the [week-01A-notes.md](../weekly/week-01A-notes.md#project4examples) page
 
-You will use **ONE** of these technology "stacks":
+You will use **ONE** of these technology stacks:
 - **JavaScript & PixiJS** (which wraps WebGL): 
     -  [About this PixiJS Tutorial Series](https://github.com/tonethar/IGME-230-Master/blob/master/notes/pixi-js-0.md) has links to the [Circle Blast!](HW-circle-blast-1.md) exercise and other demos that can get you started **OR**
 - **JavaScript & the Browser DOM** - these exercises will give you an idea of what is possible, and also represent some nice "starter" code:
@@ -18,10 +18,10 @@ You will use **ONE** of these technology "stacks":
 
 - **IMPORTANT: YOU MAY NOT USE THE CANVAS 2D DRAWING API FOR THIS PROJECT - DOING SO WILL RESULT IN A GRADE OF ZERO**
 
-- **IMPORTANT: THIS PROJECT NEEDS TO BE "YOUR WORK":**
-    - if you are using *Circle Blast!* or another game we gave you as a template, be sure to "change it up" and go well beyond what we gave you in the start code. Think about changing the game genre, control system, and how the opponents behave. We are only going to give you credit for the code you wrote, so if 90% of your submission is the same as one of our in-class exercises, you are going to get very little credit for the coding and functional sections of the rubric
-    - you must change the fonts, graphics, spritesheets, and sounds from what we gave you in the starting exercises. If you simply reuse what we gave you, points will be deducted in the design and interaction section of the rubric
-    - one reason for the above is that we want you to have a potential portfolio piece that you can show employers, and if your project just looks like the in-class exercises that everyone else is showing them, then you will likely not get the position
+- **IMPORTANT: THIS PROJECT NEEDS TO BE _YOUR WORK_:**
+    - If you are using *Circle Blast!* or another game we gave you as a template, be sure to "change it up" and go well beyond what we gave you in the start code. Think about changing the game genre, control system, and how the opponents behave. We are only going to give you credit for the code you wrote, so if 90% of your submission is the same as one of our in-class exercises, you are going to get very little credit for the coding and functional sections of the rubric
+    - You must change the fonts, graphics, spritesheets, and sounds from what we gave you in the starting exercises. If you simply reuse what we gave you, points will be deducted in the design and interaction section of the rubric
+    - One reason for the above is that we want you to have a potential portfolio piece that you can show employers, and if your project just looks like the in-class exercises that everyone else is showing them, then you will likely not get the position
 
 
 ## II. Goal
@@ -29,11 +29,11 @@ You will use **ONE** of these technology "stacks":
 
 - Ideally the experience will run in all modern browsers, but at a bare minimum it must run in recent versions of Chrome.
 
-- You will be evaluated:
-    - on your creativity
+- You will be evaluated on:
+    - your creativity
     - the quality of the experience you create
     - the soundness of your programming in your chosen tech stack
-    - and how far you went beyond what we did in class, as described below
+    - how far you went beyond what we did in class, as described below
 
 ## III. Requirements
 
