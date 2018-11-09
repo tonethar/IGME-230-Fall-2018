@@ -72,9 +72,9 @@ You will use **ONE** of these technology stacks:
 - Delete or comment out your `console.log()` calls
 
 ## IV. Milestones
-- Proposal: Update your site from Project 1 to reflect what you are building for this project - see mycourses dropbox for the due date
-- Checkpoint: create a working draft of the project - see mycourses dropbox for the due date
-- Final project deliverable is due during our scheduled finals week meeting - see mycourses dropbox for the due date and submission instructions. Be sure to post the prohect to the web, and put the link in the comments field of the mycouses dropbox.
+- Proposal: Update your site from Project 1 to reflect what you are building for this project - see MyCourses dropbox for the due date
+- Checkpoint: create a working draft of the project - see MyCourses dropbox for the due date
+- Final project deliverable is due during our scheduled finals week meeting - see MyCourses dropbox for the due date and submission instructions. Be sure to post the prohect to the web, and put the link in the comments field of the mycouses dropbox.
 - At our scheduled final exam time, we will have a show and tell of your projects (see below)
 
 ## V. Documentation
