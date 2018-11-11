@@ -9,10 +9,10 @@ This week we will continue working with PixiJS, and complete our game HW, *Circl
 ## III. Assignments
 The required readings and assignments for this week are here (see myCourses dropboxes for the due dates):
 
-- [Circle Blast! - part I](./HW-circle-blast-1.md)
-- [Circle Blast! - part II](./HW-circle-blast-2.md)
-- [Circle Blast! - part III](./HW-circle-blast-3.md)
-- [Circle Blast! - part IV](./HW-circle-blast-4.md)
+- [Circle Blast! - part I](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-circle-blast-1.md)
+- [Circle Blast! - part II](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-circle-blast-2.md)
+- [Circle Blast! - part III](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-circle-blast-3.md)
+- [Circle Blast! - part IV](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-circle-blast-4.md)
 
 ## IV. PixiJS Demos
 - [Particle Demo](../notes/_files/particle-demo.zip)
