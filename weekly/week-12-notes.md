@@ -4,7 +4,7 @@
 This week we will continue working with PixiJS, and complete our game HW, *Circle Blast!*, in preparation for the final project.
 
 ## II. Projects
-- [Project 3 - Sprite-based Game or Experience](../projects/project3.md)
+- [Project 4 - Sprite-based Game or Experience](https://github.com/tonethar/IGME-230-Fall-2018/blob/master/projects/project-4.md)
 
 ## III. Assignments
 The required readings and assignments for this week are here (see myCourses dropboxes for the due dates):
