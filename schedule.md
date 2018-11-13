@@ -79,15 +79,15 @@ The midterm exam will given the last class meeting of week 8
 ## <a id="week11">Week 11  : Catch up
   
 ## <a id="week12">Week 12  : Intro to PixiJS
-  - [Week 12 - Intro to PixiJS](weekly/week-notes-game-1.md)
+  - [Week 12 - Intro to PixiJS](weekly/week-11-notes.md)
   
 ## <a id="week13">Week 13 : More PixiJS
   
- - [Week 13 - More PixiJS](weekly/week-notes-game-2.md)
+ - [Week 13 - More PixiJS](weekly/week-12-notes.md)
   
 ## <a id="week14">Week 14 : PixiJS Wrap up
  
- - [Week 14 - Wrap up PixiJS](weekly/week-notes-game-3.md)
+ - [Week 14 - Wrap up PixiJS](weekly/week-13-notes.md)
  
  ## <a id="week15">Week 15 : The Home Stretch
   
