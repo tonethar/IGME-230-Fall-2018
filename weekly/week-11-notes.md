@@ -28,4 +28,4 @@ The required readings and assignments for this week are here (see myCourses drop
 
 | <-- Previous Unit | Home | Next Unit -->
 | --- | --- | --- 
-| [**week-10B-notes.md**](week-10B-notes.md)     |  [**IGME-230 Schedule**](../schedule.md) | [**week-13-notes**](week-12-notes.md)
+| [**week-10B-notes.md**](week-10B-notes.md)     |  [**IGME-230 Schedule**](../schedule.md) | [**week-12-notes**](week-12-notes.md)
