@@ -15,9 +15,9 @@ The required readings and assignments for this week are here (see myCourses drop
 - [Circle Blast! - part IV](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-circle-blast-4.md)
 
 ## IV. PixiJS Demos
-- [Particle Demo](../notes/_files/particle-demo.zip)
-- [Vector Demo](../notes/_files/PixiJS-vectors.zip)
-- [Smooth Keyboard Control Demo](../notes/_files/smooth-keyboard-control.zip)
+- [Particle Demo](https://github.com/tonethar/IGME-230-Master/blob/master/notes/_files/particle-demo.zip)
+- [Vector Demo](https://github.com/tonethar/IGME-230-Master/blob/master/notes/_files/PixiJS-vectors.zip)
+- [Smooth Keyboard Control Demo](https://github.com/tonethar/IGME-230-Master/blob/master/notes/_files/smooth-keyboard-control.zip)
 
 <hr><hr>
 
