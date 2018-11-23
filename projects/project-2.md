@@ -101,7 +101,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
 - Final project deliverable - see myCourses for due date/time. One submission per team please. Again, make sure both team members' names are included.
 
 ## IV. Documentation
-- As with Project 1, include a Documentation page (put the link in the comments field of the dropbox) where you document your process, cite any sources, tell me where to find anything special you want me to see, and also explain how you met the requirements. Finally, give yourself a grade for the project that you feel fairly represents what its worth.
+- As with Project 1, include a Documentation page (put the link in the comments field of the dropbox, as well as an easy to find link in the project site itself) where you document your process, cite any sources, tell me where to find anything special you want me to see, and also explain how you met the requirements. Finally, give yourself a grade for the project that you feel fairly represents what its worth.
 - If you worked in a team, explain what each team member did. Remember, everyone is responsible for contributing throughout the project, not just to one aspect.
 
 ## V. Grading
