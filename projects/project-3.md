@@ -84,7 +84,7 @@ Some other examples are here:
 - What you did to go beyond the base expectations for the project--what did you do that was particularly challenging? This could involve art/design, content, or code. 
 
 ## 7. Final Submission and Due Date
-The site must be placed in a portfolio directory inside of your igme230 directory (`http://people.rit.edu/youruserid/230/portfolio/`), and you should add two links to your project 1 page: one for the portfolio itself, and one directly to the notes.html page. 
+The site must be placed in a portfolio directory inside of your igme230 directory (`http://people.rit.edu/youruserid/230/portfolio/`), and you should add a link to your portfolio from your project 1 page.
 
 - See dropbox for due date
 - The page should display properly at the URL specified above by that time
