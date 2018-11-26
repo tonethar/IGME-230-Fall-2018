@@ -91,7 +91,7 @@ The site must be placed in a portfolio directory inside of your igme230 director
 - ZIP and Post the project to mycourses, and put a link to the URL in the comments field of the dropbox
 
 ## 8. Grading
-If you complete all required components with no errors, you'll earn 16/20 points, or 80%. In order to go above that, 
+If you complete all required components with no errors, you'll earn 17/20 points, or 85%. In order to go above that, you need to really impress with additional features, excellent design, polished content, and so on.
 
 Requirement | Possible Points (20) |
 ----------- | --------------- |
