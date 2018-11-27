@@ -62,8 +62,6 @@ Be able to write CSS rules using these selectors:
 - write a function that takes another function as an argument, and then calls that passed in function.
 
 ### Arrays
-- <s>write a *testing function* for use with `array.filter()` that puts objects with a `.y` of less than -10 in the returned array</s>
-- <s>write a *comparator function* for use with `array.sort()` that puts objects with a `.alive` value of `true` at the beginning of the array</s>
 - give 3 ways to loop through an array
 - how are JS *typed arrays* different from the standard JS `Array`
 
