@@ -19,6 +19,10 @@ The required readings and assignments for this week are here (see myCourses drop
 - [Vector Demo](https://github.com/tonethar/IGME-230-Master/blob/master/notes/_files/PixiJS-vectors.zip)
 - [Smooth Keyboard Control Demo](https://github.com/tonethar/IGME-230-Master/blob/master/notes/_files/smooth-keyboard-control.zip)
 
+## V. Font loading problems?
+You might run into issues with PixiJS not displaying a custom font, because the JS executes faster than a font can load. Here are some potential solutions:
+https://hacks.mozilla.org/2016/06/webfont-preloading-for-html5-games/
+
 <hr><hr>
 
 | <-- Previous Unit | Home | Next Unit -->
