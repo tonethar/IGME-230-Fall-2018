@@ -142,7 +142,7 @@ What do the following stand for?
 
 ### C - JS Objects
 
-*To answer these questions, you will need to read up on [Object Literals](./web-apps-7.md) and [ES6 classes](./pixi-js-2.md)*
+*To answer these questions, you will need to read up on [Object Literals](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-7.md) and [ES6 classes](https://github.com/tonethar/IGME-230-Master/blob/master/notes/pixi-js-2.md)*
 
 1. Create an ES6 *class* called `Person`. Its constructor will take two arguments `name` and `height`, and assign those passed in values as properties of the `Person object`. `Person` will have a `grow()` method that causes that instance's height to increase by 1.
 
@@ -190,7 +190,7 @@ console.log(car.cylinders);
 ### D - Truthy/Falsy Values
 *To answer these questions you need to know JavaScript's 6 (or 8 depending on how you count) **falsy** values. In a JavaScript boolean context (like an `if` statement), if a value doesn't evaluate to one of these 8 falsy values, it is **true***
 
-- See [web-apps-2.md](web-apps-2.md#section10)
+- See [web-apps-2.md](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-2.md#section10)
 
 1. What will be logged for this line of code? Why?
 
@@ -333,7 +333,7 @@ function doStuff(){
 ### F - Value Types v. Reference Types
 *To answer these questions, you need to know the difference between JavaScript **value** types and **reference** types*
 
-- Info here: [web-apps-7.md](./web-apps-7.md#section7)
+- Info here: [web-apps-7.md](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-7.md#section7)
 
 1. What will be logged below? Why?
 
@@ -360,7 +360,7 @@ function doStuff(){
 
 *To answer these questions, you need to know how `const` immutability works in JavaScript*
 
-- Info here: [web-apps-7.md](web-apps-7.md#section8)
+- Info here: [web-apps-7.md](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-7.md#section8)
 
 1. What will be logged below? Why?
 
