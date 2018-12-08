@@ -100,7 +100,7 @@ Written content quality and organization | 3 |
 Responsive Design | 2 |
 Visual Design | 2 |
 Typography | 1 |
-Sematic, valid HTML | 1 |
+Semantic, valid HTML | 1 |
 Well-structured, valid CSS | 1 |
 Functional PHP contact form | 1 |
 No major accessibility errors | 1|
