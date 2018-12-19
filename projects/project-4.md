@@ -103,12 +103,11 @@ Your project will be graded on the following criteria:
 |  - Functionality is either distinct from the in-class examples, or goes significantly beyond them in scope | |
 | **B. Design & Interaction** | **20** | |
 |  - Visual design is pleasing | |
-|  - Uses audio to enhance the experience | |
+|  - Sound (both incidental and background) enhances the experience | |
 |  - Interface is clear and well labeled | |
 |  - Prevents and handles errors well | |
 | **C. and D. Media/HTML/CSS**  | **10** | |
 |  - Optimized Images | |
-|  - Sound (both incidental and background) enhances the experience | |
 |  - HTML and CSS validate | |
 |  - CSS is primarily in a single external stylesheet | |
 |  - Makes proper use of structural tags, etc. | |
