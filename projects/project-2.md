@@ -107,7 +107,7 @@ For this project you (and optionally a partner) are creating a JavaScript driven
 ## V. Grading
 - *Both* partners must contribute *both* JavaScript code AND HTML/CSS to the project. This is NOT a project where team members are allowed to specialize into "Art Director" and "Software Developer" roles! Both team members shall be "Artist/Coders" (doing both) for this project.
 
-Your project will be graded on the following criteria:
+Your project will be graded on the following criteria:  
 (note:  This rubric is subject to change prior to 3/30/2019, after that date, it will no longer change)
 
 | Criteria | Weight | Your Score |
